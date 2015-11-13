@@ -6,7 +6,7 @@ be predicted). Featurization steps include:
 
     - Splitting prediction fields (debt/earnings/repayment) from input fields
     - Discarding useless fields (examples: number of students in data collection
-        cohorts, given by fields ending with _N; feature NULL for all schools)
+        cohorts, given by fields ending with _N; any feature always NULL)
     - Adding features that indicate whether a field had a NULL value, replacing
         NULL with 0 in the original feature
     - Discarding non-numerical fields (or other handling)
