@@ -135,9 +135,6 @@ def get_examples(label_keys=LABEL_KEYS):
 
 if __name__=='__main__':
     examples, feature_names, label_names = get_examples()
-    print len(examples)
-    print len(examples[0][0])
-    print examples[0][0].count(0.0)
     with open('out_features.csv', 'w') as features_file:
         with open('out_labels.csv', 'w') as labels_file:
             features_file.write('%s%s' % (','.join(feature_names), '\n'))
