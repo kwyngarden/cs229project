@@ -137,8 +137,8 @@ if __name__=='__main__':
     examples, feature_names, label_names = get_examples()
     with open('out_features.csv', 'w') as features_file:
         with open('out_labels.csv', 'w') as labels_file:
-            features_file.write('%s%s' % (','.join(feature_names), '\n'))
-            labels_file.write('%s%s' % (','.join(label_names), '\n'))
+            features_file.write('%s%s' % (','.join([feature.replace(',', ';') for feature in feature_names]), '\n'))
+            labels_file.write('%s%s' % (','.join([label.replace(',', ';') for label in label_names]), '\n'))
             for features, labels in examples:
                 features_file.write('%s%s' % (','.join([str(feature) for feature in features]), '\n'))
                 labels_file.write('%s%s' % (','.join([str(label) for label in labels]), '\n'))
