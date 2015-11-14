@@ -103,7 +103,7 @@ def get_examples(label_keys=LABEL_KEYS):
     examples = []
 
     for row in rows:
-        features = {'intercept': 1.0} # Include intercept term in features
+        features = {}
         for i in xrange(len(keys)):
             if keys[i] not in non_feature_keys and keys[i] not in privacy_suppressed_keys:
                 is_null_key = '%s_is_NULL' % (keys[i])
