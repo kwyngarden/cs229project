@@ -105,24 +105,27 @@ def get_examples(label_keys=LABEL_KEYS):
     for row in rows:
         features = {'intercept': 1.0} # Include intercept term in features
         for i in xrange(len(keys)):
-            is_null_key = '%s_is_NULL' % (keys[i])
-            if keys[i] in categorical_keys:
-                category_value_is_null = is_null(row, i)
-                features[is_null_key] = 1.0 if category_value_is_null else 0.0
-                for category_value, category_label in categorical_keys[keys[i]]:
-                    category_key = '%s = %s' % (keys[i], category_label)
-                    features[category_key] = (
-                        1.0 if not category_value_is_null and int(row[i]) == category_value
-                        else 0.0
-                    )
-            elif keys[i] not in non_feature_keys and keys[i] not in privacy_suppressed_keys:
-                # TODO: alternative ways of dealing with PrivacySuppressed?
-                if is_null(row, i):
-                    features[keys[i]] = 0.0
-                    features[is_null_key] = 1.0
-                else:
-                    features[keys[i]] = float(row[i])
-                    features[is_null_key] = 0.0
+            if keys[i] not in non_feature_keys and keys[i] not in privacy_suppressed_keys:
+                is_null_key = '%s_is_NULL' % (keys[i])
+                
+                if keys[i] in categorical_keys:
+                    category_value_is_null = is_null(row, i)
+                    features[is_null_key] = 1.0 if category_value_is_null else 0.0
+                    for category_value, category_label in categorical_keys[keys[i]]:
+                        category_key = '%s = %s' % (keys[i], category_label)
+                        features[category_key] = (
+                            1.0 if not category_value_is_null and row[i] == category_value
+                            else 0.0
+                        )
+                
+                else: # Non-categorical keys
+                    # TODO: alternative ways of dealing with PrivacySuppressed?
+                    if is_null(row, i):
+                        features[keys[i]] = 0.0
+                        features[is_null_key] = 1.0
+                    else:
+                        features[keys[i]] = float(row[i])
+                        features[is_null_key] = 0.0
         
         # Arrange features alphabetically for more consistent ordering
         # between runs and easier exploration of the fitted model
@@ -133,8 +136,42 @@ def get_examples(label_keys=LABEL_KEYS):
     return examples, sorted(features), label_keys
 
 
+def find_all_0_features(examples, feature_names):
+    nonzero_keys = set([])
+    for features, labels in examples:
+        for i in xrange(len(feature_names)):
+            if features[i] > 0:
+                nonzero_keys.add(feature_names[i])
+    print 'Features with some nonzero values: %s' % len(nonzero_keys)
+    return [name for name in feature_names if name not in nonzero_keys]
+
+def get_features_with_single_value(examples, feature_names):
+    all_value_sets = {i: set([]) for i in xrange(len(feature_names))}
+    for features, labels in examples:
+        for i in xrange(len(feature_names)):
+            all_value_sets[i].add(features[i])
+    return set([i for i in all_value_sets if len(all_value_sets[i]) <= 1])
+
+def filter_features_with_single_values(examples, feature_names):
+    features_with_single_value = get_features_with_single_value(examples, feature_names)
+    new_examples = []
+    for features, labels in examples:
+        new_features = [
+            features[i] for i in xrange(len(feature_names))
+            if i not in features_with_single_value
+        ]
+        new_examples.append((new_features, labels))
+    new_feature_names = [
+        feature_names[i] for i in xrange(len(feature_names))
+        if i not in features_with_single_value
+    ]
+    return new_examples, new_feature_names
+
+
 if __name__=='__main__':
     examples, feature_names, label_names = get_examples()
+    examples, feature_names = filter_features_with_single_values(examples, feature_names)
+
     with open('out_features.csv', 'w') as features_file:
         with open('out_labels.csv', 'w') as labels_file:
             features_file.write('%s%s' % (','.join([feature.replace(',', ';') for feature in feature_names]), '\n'))
