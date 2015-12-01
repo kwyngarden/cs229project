@@ -81,6 +81,8 @@ def get_knn_predictions(train, dev, k=10, weighting='uniform'):
 
 
 def compute_percent_errors(all_labels, all_predictions):
+    # TODO(Keith): try getting baseline error from selecting k random examples, to see
+    # how much schools with similar labels are clustering in our feature space
     num_labels = len(all_labels[0])
     all_errors = [[] for _ in xrange(num_labels)]
     for labels, predictions in zip(all_labels, all_predictions):
@@ -93,7 +95,6 @@ def compute_percent_errors(all_labels, all_predictions):
 if __name__=='__main__':
     print 'Reading features and labels...'
     feature_names, feature_rows, label_names, label_rows = read_features_and_labels()
-    print '\nSplitting data...'
     train, dev, test = get_data_splits(feature_rows, label_rows)
     print '\nMaking KNN predictions...'
     predictions = get_knn_predictions(train, dev, k=7, weighting='inverse_distance')
