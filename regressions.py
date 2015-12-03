@@ -2,6 +2,7 @@
 
 import csv
 import numpy as np
+from sklearn import svm
 
 
 FEATURES_FILENAME = 'out_features.csv'
@@ -80,6 +81,22 @@ def get_knn_predictions(train, dev, k=10, weighting='uniform'):
     return predictions
 
 
+def get_svm_predictions(train, dev):
+    train_features = [features for features, labels in train]
+    dev_features = [features for features, labels in dev]
+    all_predictions = []
+    for i in xrange(len(train[0][1])):
+        model = svm.SVR()
+        labels = [labels[i] for features, labels in train]
+        model.fit(train_features, labels)
+        all_predictions.append(model.predict(dev_features))
+
+    predictions = []
+    for i in xrange(len(all_predictions[0])):
+        predictions.append([label_predictions[i] for label_predictions in all_predictions])
+    return predictions
+
+
 def compute_percent_errors(all_labels, all_predictions):
     # TODO(Keith): try getting baseline error from selecting k random examples, to see
     # how much schools with similar labels are clustering in our feature space
@@ -96,8 +113,9 @@ if __name__=='__main__':
     print 'Reading features and labels...'
     feature_names, feature_rows, label_names, label_rows = read_features_and_labels()
     train, dev, test = get_data_splits(feature_rows, label_rows)
-    print '\nMaking KNN predictions...'
-    predictions = get_knn_predictions(train, dev, k=7, weighting='inverse_distance')
+    print '\nMaking predictions...'
+    # predictions = get_knn_predictions(train, dev, k=7, weighting='inverse_distance')
+    predictions = get_svm_predictions(train, dev)
     print '\nComputing errors...'
     percent_errors = compute_percent_errors([labels for features, labels in dev], predictions)
     for i in xrange(len(label_names)):
