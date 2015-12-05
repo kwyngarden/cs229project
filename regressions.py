@@ -10,11 +10,15 @@ LABELS_FILENAME = 'out_labels.csv'
 DATA_SPLIT_FILENAME = 'data_split_indices.csv'
 
 
-def read_features_and_labels(features_filename=FEATURES_FILENAME, labels_filename=LABELS_FILENAME):
+def read_features_and_labels(features_filename=FEATURES_FILENAME, labels_filename=LABELS_FILENAME, feature_selection=None):
     with open(features_filename, 'r') as features_file:
         raw_rows = [row for row in csv.reader(features_file)]
         feature_names = raw_rows[0]
         feature_rows = [[float(val) for val in row] for row in raw_rows[1:]]
+        if feature_selection:
+            with open(feature_selection, 'r') as f:
+                indices = [int(s.strip()) for s in f.read().strip().split(',')]
+            feature_rows = [[v for i, v in enumerate(row) if indices[i]] for row in feature_rows]
     with open(labels_filename, 'r') as labels_file:
         raw_rows = [row for row in csv.reader(labels_file)]
         label_names = raw_rows[0]
@@ -48,7 +52,7 @@ def get_data_splits(feature_rows, label_rows):
     return train, dev, test
 
 
-def get_knn_predictions(train, dev, k=10, weighting='uniform'):
+def get_knn_predictions(train, dev, k=5, weighting='uniform'):
     predictions = []
     train_indices = [i for i in xrange(len(train))]
     iters = 0
@@ -86,7 +90,7 @@ def get_svm_predictions(train, dev):
     dev_features = [features for features, labels in dev]
     all_predictions = []
     for i in xrange(len(train[0][1])):
-        model = svm.SVR()
+        model = svm.SVR(kernel='linear')
         labels = [labels[i] for features, labels in train]
         model.fit(train_features, labels)
         all_predictions.append(model.predict(dev_features))
@@ -111,11 +115,11 @@ def compute_percent_errors(all_labels, all_predictions):
     
 if __name__=='__main__':
     print 'Reading features and labels...'
-    feature_names, feature_rows, label_names, label_rows = read_features_and_labels()
+    feature_names, feature_rows, label_names, label_rows = read_features_and_labels(feature_selection='critical_features_debt.csv')
     train, dev, test = get_data_splits(feature_rows, label_rows)
     print '\nMaking predictions...'
-    # predictions = get_knn_predictions(train, dev, k=7, weighting='inverse_distance')
-    predictions = get_svm_predictions(train, dev)
+    predictions = get_knn_predictions(train, dev, k=10, weighting='inverse_distance')
+    # predictions = get_svm_predictions(train, dev)
     print '\nComputing errors...'
     percent_errors = compute_percent_errors([labels for features, labels in dev], predictions)
     for i in xrange(len(label_names)):

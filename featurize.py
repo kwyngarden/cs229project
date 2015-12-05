@@ -26,7 +26,7 @@ LABEL_KEYS = [
 ]
 
 
-def is_null(row, key_index, count_private_as_null=True):
+def is_null(row, key_index, count_private_as_null=False):
     return row[key_index] == 'NULL' or (count_private_as_null and row[key_index] == 'PrivacySuppressed')
 
 
@@ -101,11 +101,21 @@ def get_examples(label_keys=LABEL_KEYS):
     label_indices = [keys.index(label_key) for label_key in label_keys]
 
     examples = []
+    privacy_suppressed_values = []
 
     for row in rows:
         features = {}
+        privacy_suppressed_features = {}
         for i in xrange(len(keys)):
-            if keys[i] not in non_feature_keys and keys[i] not in privacy_suppressed_keys:
+            if keys[i] in privacy_suppressed_keys:
+                if is_null(row, i):
+                    value = 0.0
+                elif row[i] == 'PrivacySuppressed':
+                    value = -1.0
+                else:
+                    value = float(row[i])
+                privacy_suppressed_features[keys[i]] = value
+            elif keys[i] not in non_feature_keys:
                 is_null_key = '%s_is_NULL' % (keys[i])
                 
                 if keys[i] in categorical_keys:
@@ -132,8 +142,9 @@ def get_examples(label_keys=LABEL_KEYS):
         feature_values = [features[key] for key in sorted(features)]
         labels = [float(row[label_index]) for label_index in label_indices]
         examples.append((feature_values, labels))
-    
-    return examples, sorted(features), label_keys
+        privacy_suppressed_values.append([privacy_suppressed_features[key] for key in sorted(privacy_suppressed_features)])
+
+    return examples, sorted(features), label_keys, privacy_suppressed_values, sorted(privacy_suppressed_features)
 
 
 def find_all_0_features(examples, feature_names):
@@ -169,13 +180,17 @@ def filter_features_with_single_values(examples, feature_names):
 
 
 if __name__=='__main__':
-    examples, feature_names, label_names = get_examples()
+    examples, feature_names, label_names, privacy_suppressed_values, privacy_suppressed_names = get_examples()
     examples, feature_names = filter_features_with_single_values(examples, feature_names)
 
     with open('out_features.csv', 'w') as features_file:
         with open('out_labels.csv', 'w') as labels_file:
-            features_file.write('%s%s' % (','.join([feature.replace(',', ';') for feature in feature_names]), '\n'))
-            labels_file.write('%s%s' % (','.join([label.replace(',', ';') for label in label_names]), '\n'))
-            for features, labels in examples:
-                features_file.write('%s%s' % (','.join([str(feature) for feature in features]), '\n'))
-                labels_file.write('%s%s' % (','.join([str(label) for label in labels]), '\n'))
+            with open('privacy_suppressed_features.csv', 'w') as privacy_suppressed_file:
+                features_file.write('%s\n' % (','.join([feature.replace(',', ';') for feature in feature_names])))
+                labels_file.write('%s\n' % (','.join([label.replace(',', ';') for label in label_names])))
+                privacy_suppressed_file.write('%s\n' % (','.join([name.replace(',', ';') for name in privacy_suppressed_names])))
+                for features, labels in examples:
+                    features_file.write('%s\n' % (','.join([str(feature) for feature in features])))
+                    labels_file.write('%s\n' % (','.join([str(label) for label in labels])))
+                for privacy_suppressed_line in privacy_suppressed_values:
+                    privacy_suppressed_file.write('%s\n' % (','.join([str(feature) for feature in privacy_suppressed_line])))
