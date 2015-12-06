@@ -118,7 +118,8 @@ if __name__=='__main__':
     feature_names, feature_rows, label_names, label_rows = read_features_and_labels(feature_selection='critical_features_debt.csv')
     train, dev, test = get_data_splits(feature_rows, label_rows)
     print '\nMaking predictions...'
-    predictions = get_knn_predictions(train, dev, k=10, weighting='inverse_distance')
+    # predictions = get_knn_predictions(train, dev, k=13, weighting='inverse_distance')
+    predictions = get_knn_predictions(train, dev, k=13, weighting='uniform')
     # predictions = get_svm_predictions(train, dev)
     print '\nComputing errors...'
     percent_errors = compute_percent_errors([labels for features, labels in dev], predictions)

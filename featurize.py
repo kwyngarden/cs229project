@@ -107,35 +107,36 @@ def get_examples(label_keys=LABEL_KEYS):
         features = {}
         privacy_suppressed_features = {}
         for i in xrange(len(keys)):
-            if keys[i] in privacy_suppressed_keys:
-                if is_null(row, i):
-                    value = 0.0
-                elif row[i] == 'PrivacySuppressed':
-                    value = -1.0
-                else:
-                    value = float(row[i])
-                privacy_suppressed_features[keys[i]] = value
-            elif keys[i] not in non_feature_keys:
-                is_null_key = '%s_is_NULL' % (keys[i])
-                
-                if keys[i] in categorical_keys:
-                    category_value_is_null = is_null(row, i)
-                    features[is_null_key] = 1.0 if category_value_is_null else 0.0
-                    for category_value, category_label in categorical_keys[keys[i]]:
-                        category_key = '%s = %s' % (keys[i], category_label)
-                        features[category_key] = (
-                            1.0 if not category_value_is_null and row[i] == category_value
-                            else 0.0
-                        )
-                
-                else: # Non-categorical keys
-                    # TODO: alternative ways of dealing with PrivacySuppressed?
+            if keys[i] not in non_feature_keys:
+                if keys[i] in privacy_suppressed_keys:
                     if is_null(row, i):
-                        features[keys[i]] = 0.0
-                        features[is_null_key] = 1.0
+                        value = 0.0
+                    elif row[i] == 'PrivacySuppressed':
+                        value = -1.0
                     else:
-                        features[keys[i]] = float(row[i])
-                        features[is_null_key] = 0.0
+                        value = float(row[i])
+                    privacy_suppressed_features[keys[i]] = value
+                else:
+                    is_null_key = '%s_is_NULL' % (keys[i])
+                    
+                    if keys[i] in categorical_keys:
+                        category_value_is_null = is_null(row, i)
+                        features[is_null_key] = 1.0 if category_value_is_null else 0.0
+                        for category_value, category_label in categorical_keys[keys[i]]:
+                            category_key = '%s = %s' % (keys[i], category_label)
+                            features[category_key] = (
+                                1.0 if not category_value_is_null and row[i] == category_value
+                                else 0.0
+                            )
+                    
+                    else: # Non-categorical keys
+                        # TODO: alternative ways of dealing with PrivacySuppressed?
+                        if is_null(row, i):
+                            features[keys[i]] = 0.0
+                            features[is_null_key] = 1.0
+                        else:
+                            features[keys[i]] = float(row[i])
+                            features[is_null_key] = 0.0
         
         # Arrange features alphabetically for more consistent ordering
         # between runs and easier exploration of the fitted model
@@ -178,10 +179,27 @@ def filter_features_with_single_values(examples, feature_names):
     ]
     return new_examples, new_feature_names
 
+def filter_privacy_suppressed_features(features, feature_names, required_percent=0.7):
+    filtered_features = [[] for _ in features]
+    filtered_names = []
+    
+    for i, name in enumerate(feature_names):
+        num_available = 0.0
+        for row in features:
+            if row[i] != -1.0:
+                num_available += 1
+        if num_available / len(features) >= required_percent:
+            for row_index, row in enumerate(features):
+                filtered_features[row_index].append(row[i])
+            filtered_names.append(name)
+
+    return filtered_features, filtered_names
+
 
 if __name__=='__main__':
     examples, feature_names, label_names, privacy_suppressed_values, privacy_suppressed_names = get_examples()
     examples, feature_names = filter_features_with_single_values(examples, feature_names)
+    privacy_suppressed_values, privacy_suppressed_names = filter_privacy_suppressed_features(privacy_suppressed_values, privacy_suppressed_names)
 
     with open('out_features.csv', 'w') as features_file:
         with open('out_labels.csv', 'w') as labels_file:
