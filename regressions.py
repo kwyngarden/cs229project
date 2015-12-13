@@ -108,8 +108,6 @@ def get_svm_predictions(train, dev):
 
 
 def compute_percent_errors(all_labels, all_predictions, use_rmse=False):
-    # TODO(Keith): try getting baseline error from selecting k random examples, to see
-    # how much schools with similar labels are clustering in our feature space
     num_labels = len(all_labels[0])
     all_errors = [[] for _ in xrange(num_labels)]
     for labels, predictions in zip(all_labels, all_predictions):
@@ -124,7 +122,10 @@ def compute_percent_errors(all_labels, all_predictions, use_rmse=False):
             return np.sqrt(np.mean(errors))
         return 100.0 * np.mean(errors)
 
-    return [get_percent_error(errors) for errors in all_errors]
+    def get_std_error(errors):
+        return 100.0 * np.std(errors) / np.sqrt(len(errors))
+
+    return [get_percent_error(errors) for errors in all_errors], [get_std_error(errors) for errors in all_errors]
 
     
 if __name__=='__main__':
@@ -132,15 +133,15 @@ if __name__=='__main__':
     # feature_names, feature_rows, label_names, label_rows = read_features_and_labels(feature_selection='critical_features_debt.csv')
     feature_names, feature_rows, label_names, label_rows = read_features_and_labels(use_privacy_suppressed=True)
     train, dev, test = get_data_splits(feature_rows, label_rows)
-    # dev = test # Use test set for evaluation
+    dev = test # Use test set for evaluation
 
     print '\nMaking predictions...'
-    # predictions = get_knn_predictions(train, dev, k=6, weighting='inverse_distance')
-    predictions = get_knn_predictions(train, dev, k=13, weighting='uniform')
+    predictions = get_knn_predictions(train, dev, k=6, weighting='inverse_distance')
+    # predictions = get_knn_predictions(train, dev, k=13, weighting='uniform')
     # predictions = get_svm_predictions(train, dev)
     
     print '\nComputing errors...'
-    percent_errors = compute_percent_errors([labels for features, labels in dev], predictions)
+    percent_errors, error_ranges = compute_percent_errors([labels for features, labels in dev], predictions)
     for i in xrange(len(label_names)):
-        print '%s: %s%% average error' % (label_names[i], percent_errors[i])
+        print '%s: %s +/- %s%% average error' % (label_names[i], percent_errors[i], error_ranges[i])
     print '\nDone.'

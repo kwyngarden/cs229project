@@ -141,7 +141,10 @@ def get_examples(label_keys=LABEL_KEYS):
         # Arrange features alphabetically for more consistent ordering
         # between runs and easier exploration of the fitted model
         feature_values = [features[key] for key in sorted(features)]
-        labels = [float(row[label_index]) for label_index in label_indices]
+        try:
+            labels = [float(row[label_index]) for label_index in label_indices]
+        except ValueError:
+            labels = [row[label_index].strip() for label_index in label_indices]
         examples.append((feature_values, labels))
         privacy_suppressed_values.append([privacy_suppressed_features[key] for key in sorted(privacy_suppressed_features)])
 
@@ -179,7 +182,7 @@ def filter_features_with_single_values(examples, feature_names):
     ]
     return new_examples, new_feature_names
 
-def filter_privacy_suppressed_features(features, feature_names, required_percent=0.7):
+def filter_privacy_suppressed_features(features, feature_names, required_percent=0.0):#7):
     filtered_features = [[] for _ in features]
     filtered_names = []
     
@@ -198,12 +201,12 @@ def filter_privacy_suppressed_features(features, feature_names, required_percent
 
 if __name__=='__main__':
     examples, feature_names, label_names, privacy_suppressed_values, privacy_suppressed_names = get_examples()
-    examples, feature_names = filter_features_with_single_values(examples, feature_names)
+    # examples, feature_names = filter_features_with_single_values(examples, feature_names)
     privacy_suppressed_values, privacy_suppressed_names = filter_privacy_suppressed_features(privacy_suppressed_values, privacy_suppressed_names)
 
-    with open('out_features.csv', 'w') as features_file:
-        with open('out_labels.csv', 'w') as labels_file:
-            with open('privacy_suppressed_features.csv', 'w') as privacy_suppressed_file:
+    with open('new_out_features.csv', 'w') as features_file:
+        with open('new_out_labels.csv', 'w') as labels_file:
+            with open('new_privacy_suppressed_features.csv', 'w') as privacy_suppressed_file:
                 features_file.write('%s\n' % (','.join([feature.replace(',', ';') for feature in feature_names])))
                 labels_file.write('%s\n' % (','.join([label.replace(',', ';') for label in label_names])))
                 privacy_suppressed_file.write('%s\n' % (','.join([name.replace(',', ';') for name in privacy_suppressed_names])))

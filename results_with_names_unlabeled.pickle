@@ -1,0 +1,11857 @@
+(lp1
+(S'Central Alabama Community College'
+p2
+F11575
+F21175
+tp3
+a(S'Enterprise State Community College'
+p4
+F9721.6000000000004
+F25375
+tp5
+a(S'Gadsden State Community College'
+p6
+F5469.3999999999996
+F19651
+tp7
+a(S'New Beginning College of Cosmetology'
+p8
+F6674.3000000000002
+F12618
+tp9
+a(S'George C Wallace State Community College-Dothan'
+p10
+F5960.8000000000002
+F19029
+tp11
+a(S'George C Wallace State Community College-Selma'
+p12
+F6462.8999999999996
+F20132
+tp13
+a(S'Heritage Christian University'
+p14
+F17019
+F18788
+tp15
+a(S'J F Drake State Technical College'
+p16
+F4605.3999999999996
+F21128
+tp17
+a(S'Jefferson Davis Community College'
+p18
+F5378.6000000000004
+F20313
+tp19
+a(S'Lawson State Community College-Birmingham Campus'
+p20
+F4555.6999999999998
+F17063
+tp21
+a(S'Lurleen B Wallace Community College'
+p22
+F4355.8999999999996
+F19003
+tp23
+a(S'Alabama Southern Community College'
+p24
+F4377.6999999999998
+F18151
+tp25
+a(S'Prince Institute of Professional Studies Inc'
+p26
+F22150
+F22579
+tp27
+a(S'Reid State Technical College'
+p28
+F4566.6000000000004
+F18301
+tp29
+a(S'Bishop State Community College'
+p30
+F5864.8000000000002
+F18970
+tp31
+a(S'Selma University'
+p32
+F24361
+F12205
+tp33
+a(S'Shelton State Community College'
+p34
+F3902.3000000000002
+F18152
+tp35
+a(S'Snead State Community College'
+p36
+F5352.8999999999996
+F18854
+tp37
+a(S'H Councill Trenholm State Technical College'
+p38
+F4070.5
+F22483
+tp39
+a(S'United States Sports Academy'
+p40
+F23041
+F33995
+tp41
+a(S'Bevill State Community College'
+p42
+F6826.5
+F19005
+tp43
+a(S'Alaska Bible College'
+p44
+F19314
+F19100
+tp45
+a(S'Thunderbird School of Global Management'
+p46
+F7768.8999999999996
+F55644
+tp47
+a(S'American Indian College of the Assemblies of God Inc'
+p48
+F17578
+F17191
+tp49
+a(S'Eastern Arizona College'
+p50
+F6616.1999999999998
+F22908
+tp51
+a(S'Frank Lloyd Wright School of Architecture'
+p52
+F17535
+F36273
+tp53
+a(S'Glendale Community College'
+p54
+F8646.6000000000004
+F24828
+tp55
+a(S'Mesa Community College'
+p56
+F12951
+F26012
+tp57
+a(S'Dine College'
+p58
+F1580.0999999999999
+F12576
+tp59
+a(S'Northland Pioneer College'
+p60
+F7050.1000000000004
+F20288
+tp61
+a(S'Roberto-Venn School of Luthiery'
+p62
+F11605
+F27823
+tp63
+a(S'Hair Academy of Safford'
+p64
+F4165.8000000000002
+F15637
+tp65
+a(S'Scottsdale Community College'
+p66
+F10332
+F25714
+tp67
+a(S'South Mountain Community College'
+p68
+F9424.7999999999993
+F24352
+tp69
+a(S'ABC Beauty College Inc'
+p70
+F6793.6999999999998
+F14938
+tp71
+a(S'Arkansas Beauty School'
+p72
+F8835.2999999999993
+F14049
+tp73
+a(S'Arkansas Beauty College'
+p74
+F7940.6999999999998
+F13417
+tp75
+a(S'Black River Technical College'
+p76
+F12517
+F22184
+tp77
+a(S'Cossatot Community College of the University of Arkansas'
+p78
+F7001.3000000000002
+F17648
+tp79
+a(S'Crowleys Ridge Technical Institute'
+p80
+F4794.8999999999996
+F20313
+tp81
+a(S'Imagine-Paul Mitchell Partner School'
+p82
+F11045
+F14064
+tp83
+a(S'Hot Springs Beauty College'
+p84
+F5126.5
+F14448
+tp85
+a(S'Jefferson Regional Medical Center School of Nursing'
+p86
+F9007.5
+F38418
+tp87
+a(S'Lees School of Cosmetology'
+p88
+F9253.2000000000007
+F14008
+tp89
+a(S'Marsha Kay Beauty College'
+p90
+F8270.8999999999996
+F13607
+tp91
+a(S'Academy of Salon and Spa'
+p92
+F8984.2000000000007
+F15483
+tp93
+a(S'Mid-South Community College'
+p94
+F7256.6000000000004
+F20246
+tp95
+a(S'Margarets Hair Academy Inc'
+p96
+F4782.6999999999998
+F13034
+tp97
+a(S'New Tyler Barber College Inc'
+p98
+F9190
+F14142
+tp99
+a(S'Northwest Technical Institute'
+p100
+F7096.3999999999996
+F25109
+tp101
+a(S'Ozarka College'
+p102
+F11419
+F20167
+tp103
+a(S'Phillips Community College of the University of Arkansas'
+p104
+F6200.8999999999996
+F15710
+tp105
+a(S'Professional Cosmetology Education Center'
+p106
+F7048.1999999999998
+F14155
+tp107
+a(S'Rich Mountain Community College'
+p108
+F6338
+F20087
+tp109
+a(S'Velvatex College of Beauty Culture'
+p110
+F5292.8999999999996
+F12370
+tp111
+a(S'Academy of Chinese Culture and Health Sciences'
+p112
+F42029
+F48184
+tp113
+a(S'College of Alameda'
+p114
+F8363.5
+F27052
+tp115
+a(S'Allan Hancock College'
+p116
+F7985.5
+F22578
+tp117
+a(S'American Baptist Seminary of the West'
+p118
+F42029
+F56401
+tp119
+a(S'American Film Institute Conservatory'
+p120
+F42027
+F60574
+tp121
+a(S'American Beauty College'
+p122
+F5567.3000000000002
+F13897
+tp123
+a(S'American Conservatory Theater'
+p124
+F9374.2000000000007
+F38817
+tp125
+a(S'Bridges Academy of Beauty'
+p126
+F7313.8000000000002
+F12686
+tp127
+a(S'Barstow Community College'
+p128
+F6368.8000000000002
+F23426
+tp129
+a(S'Bethesda University of California'
+p130
+F22285
+F19729
+tp131
+a(S'Phillips Graduate Institute'
+p132
+F42030
+F49399
+tp133
+a(S'California Institute of Integral Studies'
+p134
+F2207.9000000000001
+F34658
+tp135
+a(S'University of California Hastings College of Law'
+p136
+F27846
+F75244
+tp137
+a(S'California State University-Stanislaus'
+p138
+F14557
+F29983
+tp139
+a(S'University of California-San Francisco'
+p140
+F43620
+F64509
+tp141
+a(S'Institute of Transpersonal Psychology'
+p142
+F42027
+F61959
+tp143
+a(S'California Beauty School'
+p144
+F7756.5
+F15002
+tp145
+a(S'California Christian College'
+p146
+F29475
+F19513
+tp147
+a(S'California Western School of Law'
+p148
+F42024
+F71801
+tp149
+a(S'Canada College'
+p150
+F9537.8999999999996
+F24292
+tp151
+a(S'Cerro Coso Community College'
+p152
+F8824.5
+F21493
+tp153
+a(S'Chaffey College'
+p154
+F9374.8999999999996
+F26117
+tp155
+a(S'Church Divinity School of the Pacific'
+p156
+F42030
+F51651
+tp157
+a(S'Claremont Graduate University'
+p158
+F42026
+F73724
+tp159
+a(S'Clovis Adult Education'
+p160
+F7281.5
+F32938
+tp161
+a(S'Western University of Health Sciences'
+p162
+F42026
+F67611
+tp163
+a(S'Columbia College'
+p164
+F5196.1999999999998
+F15769
+tp165
+a(S'Crafton Hills College'
+p166
+F11649
+F25007
+tp167
+a(S'Cuyamaca College'
+p168
+F9696.7999999999993
+F20968
+tp169
+a(S'De Anza College'
+p170
+F14134
+F28857
+tp171
+a(S'International School of Beauty Inc'
+p172
+F6071
+F10819
+tp173
+a(S"Dell'Arte International School of Physical Theatre"
+p174
+F11466
+F35524
+tp175
+a(S'Diablo Valley College'
+p176
+F2566
+F23216
+tp177
+a(S'Dominican School of Philosophy & Theology'
+p178
+F42028
+F45816
+tp179
+a(S'Marinello Schools of Beauty-Santa Clara'
+p180
+F9514.5
+F15982
+tp181
+a(S'San Diego Continuing Education'
+p182
+F9767.6000000000004
+F24154
+tp183
+a(S"Emperor's College of Traditional Oriental Medicine"
+p184
+F42022
+F49913
+tp185
+a(S'Evergreen Valley College'
+p186
+F10792
+F29646
+tp187
+a(S'Fielding Graduate University'
+p188
+F42027
+F61349
+tp189
+a(S'Five Branches University'
+p190
+F42026
+F49781
+tp191
+a(S'Hair California Beauty Academy'
+p192
+F7182
+F13060
+tp193
+a(S'Franciscan School of Theology'
+p194
+F42027
+F47979
+tp195
+a(S'Fredrick and Charles Beauty College'
+p196
+F4026.4000000000001
+F13066
+tp197
+a(S'Fuller Theological Seminary in California'
+p198
+F42029
+F55515
+tp199
+a(S'Glendale Community College'
+p200
+F9691
+F18068
+tp201
+a(S'Graduate Theological Union'
+p202
+F42028
+F63629
+tp203
+a(S'Hartnell College'
+p204
+F8715.7000000000007
+F23720
+tp205
+a(S'Hilltop Beauty School'
+p206
+F4101
+F18425
+tp207
+a(S'Pacifica Graduate Institute'
+p208
+F43458
+F49968
+tp209
+a(S'Imperial Valley College'
+p210
+F8609.7000000000007
+F18796
+tp211
+a(S'Toni & Guy Hairdressing Academy-Santa Monica'
+p212
+F8636.6000000000004
+F17117
+tp213
+a(S'American Jewish University'
+p214
+F21395
+F26449
+tp215
+a(S'University of La Verne'
+p216
+F23243
+F38380
+tp217
+a(S'Lake Tahoe Community College'
+p218
+F5500.1000000000004
+F21348
+tp219
+a(S'Laney College'
+p220
+F9397.7000000000007
+F27109
+tp221
+a(S'Lassen Community College'
+p222
+F10194
+F23213
+tp223
+a(S'Life Chiropractic College West'
+p224
+F42029
+F48275
+tp225
+a(S'Lincoln University'
+p226
+F19996
+F24121
+tp227
+a(S'Southern California Seminary'
+p228
+F24107
+F29939
+tp229
+a(S'Long Beach City College'
+p230
+F7858
+F20965
+tp231
+a(S'Southern California University of Health Sciences'
+p232
+F41688
+F62605
+tp233
+a(S'Los Angeles Southwest College'
+p234
+F9689.5
+F21961
+tp235
+a(S'Los Angeles Mission College'
+p236
+F4782.5
+F21184
+tp237
+a(S'Los Medanos College'
+p238
+F7629.6999999999998
+F21973
+tp239
+a(S'Lu Ross Academy'
+p240
+F7668.1000000000004
+F12913
+tp241
+a(S'Manchester Beauty College'
+p242
+F9306.7000000000007
+F17807
+tp243
+a(S'Tulare Beauty College'
+p244
+F9301.7999999999993
+F14373
+tp245
+a(S'Lyles Fresno College of Beauty'
+p246
+F4350
+F12286
+tp247
+a(S'Merced College'
+p248
+F9041
+F19251
+tp249
+a(S'Merritt College'
+p250
+F4046.9000000000001
+F20811
+tp251
+a(S'Mission College'
+p252
+F10136
+F29648
+tp253
+a(S'Modesto Junior College'
+p254
+F8795.7999999999993
+F23021
+tp255
+a(S'Moler Barber College'
+p256
+F4262
+F13799
+tp257
+a(S'Mt. San Jacinto Community College District'
+p258
+F8918.7000000000007
+F22816
+tp259
+a(S'Newschool of Architecture and Design'
+p260
+F32827
+F23541
+tp261
+a(S'Oceanside College of Beauty'
+p262
+F6699.8999999999996
+F14012
+tp263
+a(S'Oxnard College'
+p264
+F6935.5
+F23290
+tp265
+a(S'Palo Alto University'
+p266
+F19609
+F57992
+tp267
+a(S'Pacific Lutheran Theological Seminary'
+p268
+F42028
+F56267
+tp269
+a(S'Pacific School of Religion'
+p270
+F42028
+F51799
+tp271
+a(S'Pacific States University'
+p272
+F26825
+F51910
+tp273
+a(S'Palo Verde College'
+p274
+F9588.8999999999996
+F22153
+tp275
+a(S'Paris Beauty College'
+p276
+F6370.8000000000002
+F16588
+tp277
+a(S'Porterville College'
+p278
+F7133.3999999999996
+F21278
+tp279
+a(S'Pardee RAND Graduate School'
+p280
+F42027
+F42722
+tp281
+a(S'Shasta School of Cosmetology'
+p282
+F7598.6000000000004
+F11368
+tp283
+a(S'Marinello Schools of Beauty-Huntington Beach'
+p284
+F10428
+F15103
+tp285
+a(S'Rosemead Beauty School'
+p286
+F3035
+F24835
+tp287
+a(S'Dongguk University Los Angeles'
+p288
+F43342
+F70193
+tp289
+a(S'San Francisco Conservatory of Music'
+p290
+F24733
+F26546
+tp291
+a(S'San Francisco Theological Seminary'
+p292
+F42030
+F51639
+tp293
+a(S'San Joaquin College of Law'
+p294
+F42027
+F62260
+tp295
+a(S'San Jose City College'
+p296
+F5543.1999999999998
+F25897
+tp297
+a(S'Saybrook University'
+p298
+F42028
+F58178
+tp299
+a(S'Shasta Bible College and Graduate School'
+p300
+F20934
+F12519
+tp301
+a(S'Sierra College'
+p302
+F13395
+F23037
+tp303
+a(S'Sierra College of Beauty'
+p304
+F4415.1999999999998
+F17643
+tp305
+a(S'Trinity Law School'
+p306
+F30000
+F39242
+tp307
+a(S'San Bernardino Valley College'
+p308
+F6108.1999999999998
+F19316
+tp309
+a(S'Pinnacle College'
+p310
+F8482.7000000000007
+F25790
+tp311
+a(S'South Baylo University'
+p312
+F24434
+F61421
+tp313
+a(S'Starr King School for Ministry'
+p314
+F42028
+F52242
+tp315
+a(S'Southern California College of Optometry'
+p316
+F42026
+F67373
+tp317
+a(S'Southwestern Law School'
+p318
+F42028
+F63239
+tp319
+a(S'Taft College'
+p320
+F3840.9000000000001
+F24258
+tp321
+a(S'Claremont School of Theology'
+p322
+F42026
+F62740
+tp323
+a(S'Marinello Schools of Beauty-Lake Forest'
+p324
+F8507.3999999999996
+F15157
+tp325
+a(S'Universal College of Beauty Inc-Los Angeles 1'
+p326
+F7608.1000000000004
+F13449
+tp327
+a(S'Berkeley City College'
+p328
+F9854.7000000000007
+F24413
+tp329
+a(S'West Valley College'
+p330
+F12862
+F22445
+tp331
+a(S'Westminster Theological Seminary in California'
+p332
+F42030
+F50501
+tp333
+a(S'The Wright Institute'
+p334
+F42029
+F57657
+tp335
+a(S'Western State University-College of Law-Argosy'
+p336
+F30000
+F42371
+tp337
+a(S'Thomas Jefferson School of Law'
+p338
+F42026
+F76120
+tp339
+a(S'Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary'
+p340
+F-2712.5999999999999
+F17743
+tp341
+a(S'Denver Seminary'
+p342
+F42029
+F61260
+tp343
+a(S'Emily Griffith Technical College'
+p344
+F6034.5
+F22336
+tp345
+a(S'Iliff School of Theology'
+p346
+F42028
+F63659
+tp347
+a(S'Regis University'
+p348
+F26229
+F43554
+tp349
+a(S'Montessori Education Center of the Rockies'
+p350
+F11675
+F24896
+tp351
+a(S'Pickens Technical College'
+p352
+F4662.5
+F25583
+tp353
+a(S'Charter Oak State College'
+p354
+F24568
+F37591
+tp355
+a(S'Rensselaer Hartford Graduate Center Inc'
+p356
+F28062
+F59876
+tp357
+a(S'Hartford Seminary'
+p358
+F42028
+F64023
+tp359
+a(S'Holy Apostles College and Seminary'
+p360
+F27069
+F23615
+tp361
+a(S'The Leon Institute of Hair Design'
+p362
+F7369.8999999999996
+F17989
+tp363
+a(S'Lyme Academy College of Fine Arts'
+p364
+F18236
+F27025
+tp365
+a(S'Norwalk Community College'
+p366
+F6309
+F26579
+tp367
+a(S'Quinebaug Valley Community College'
+p368
+F6565.5
+F24560
+tp369
+a(S'Tri-State College of Acupuncture'
+p370
+F27296
+F49066
+tp371
+a(S'Yale-New Haven Hospital Dietetic Internship'
+p372
+F16702
+F43046
+tp373
+a(S'Beebe Medical Center Margaret H. Rollins School of Nursing'
+p374
+F13878
+F61483
+tp375
+a(S'Pontifical Faculty of the Immaculate Conception at the Dominican House of Studies'
+p376
+F42026
+F48336
+tp377
+a(S'National Conservatory of Dramatic Arts'
+p378
+F6507.1999999999998
+F19298
+tp379
+a(S'Wesley Theological Seminary'
+p380
+F42027
+F67009
+tp381
+a(S'Atlantic Technical Center'
+p382
+F4103.1000000000004
+F23351
+tp383
+a(S'Gooding Institute of Nurse Anesthesia'
+p384
+F42028
+F57511
+tp385
+a(S'Bradford-Union Area Career Technical Center'
+p386
+F4240.1999999999998
+F16533
+tp387
+a(S'Charlotte Technical Center'
+p388
+F3202.3000000000002
+F22542
+tp389
+a(S'Lorenzo Walker Institute of Technology'
+p390
+F3913.5
+F27143
+tp391
+a(S'Florida School of Massage'
+p392
+F8505.6000000000004
+F14432
+tp393
+a(S'Fort Pierce Beauty Academy'
+p394
+F3822.9000000000001
+F11196
+tp395
+a(S'George Stone Career Center'
+p396
+F5580.1000000000004
+F17071
+tp397
+a(S'George T Baker Aviation School'
+p398
+F13072
+F21649
+tp399
+a(S'Key College'
+p400
+F21334
+F19206
+tp401
+a(S'Hobe Sound Bible College'
+p402
+F15704
+F16345
+tp403
+a(S'Hollywood Institute of Beauty Careers'
+p404
+F8920.2999999999993
+F10948
+tp405
+a(S'Lake Technical Center'
+p406
+F5304.8000000000002
+F23921
+tp407
+a(S'Fort Myers Institute of Technology'
+p408
+F4518.6000000000004
+F19957
+tp409
+a(S'Lively Technical Center'
+p410
+F6097
+F20607
+tp411
+a(S'Lindsey Hopkins Technical Education Center'
+p412
+F6381.8000000000002
+F21679
+tp413
+a(S'Manatee Technical Institute'
+p414
+F3952.8000000000002
+F17489
+tp415
+a(S'Traviss Career Center'
+p416
+F5837.6000000000004
+F22558
+tp417
+a(S'Miami Lakes Educational Center'
+p418
+F4859.6000000000004
+F26423
+tp419
+a(S'Mid Florida Tech'
+p420
+F3235
+F22430
+tp421
+a(S'North Florida Community College'
+p422
+F5030
+F20443
+tp423
+a(S'Orange Park International School of Beauty'
+p424
+F9416.1000000000004
+F12592
+tp425
+a(S'Orlando Tech'
+p426
+F6948
+F22604
+tp427
+a(S'Pinellas Technical Education Center-Clearwater'
+p428
+F8979.7999999999993
+F26679
+tp429
+a(S'Radford M Locklin Technical Center'
+p430
+F1347.2
+F19666
+tp431
+a(S'Saint Vincent de Paul Regional Seminary'
+p432
+F42028
+F49290
+tp433
+a(S'Ridge Career Center'
+p434
+F1300.8
+F23498
+tp435
+a(S'Robert Morgan Educational Center'
+p436
+F3747.3000000000002
+F23089
+tp437
+a(S'First Coast Technical College'
+p438
+F4936.6000000000004
+F16161
+tp439
+a(S'Pinellas Technical Education Center-St Petersburg'
+p440
+F6709.1000000000004
+F23317
+tp441
+a(S'Sarasota County Technical Institute'
+p442
+F5740.8999999999996
+F23505
+tp443
+a(S'Sheridan Technical Center'
+p444
+F3376.0999999999999
+F19194
+tp445
+a(S'Saint John Vianney College Seminary'
+p446
+F24674
+F17150
+tp447
+a(S'Suwannee-Hamilton Technical Center'
+p448
+F4400.8000000000002
+F26851
+tp449
+a(S'Talmudic College of Florida'
+p450
+F26858
+F26561
+tp451
+a(S'Taylor Technical Institute'
+p452
+F2833.5
+F22631
+tp453
+a(S'Fashion Focus Hair Academy'
+p454
+F9308.2999999999993
+F14482
+tp455
+a(S'Washington-Holmes Technical Center'
+p456
+F357.77999999999997
+F26731
+tp457
+a(S'Westside Tech'
+p458
+F108.53
+F23869
+tp459
+a(S'William T. McFatter Technical Center'
+p460
+F6967.1999999999998
+F26107
+tp461
+a(S'Winter Park Tech'
+p462
+F5355.3999999999996
+F24007
+tp463
+a(S'Withlacoochee Technical Institute'
+p464
+F3149.6999999999998
+F24733
+tp465
+a(S"Atlanta's John Marshall Law School"
+p466
+F43811
+F63703
+tp467
+a(S'Beauty College of America'
+p468
+F3900.5
+F12499
+tp469
+a(S'Brown College of Court Reporting'
+p470
+F23635
+F30583
+tp471
+a(S'Carver Bible College'
+p472
+F27694
+F21740
+tp473
+a(S'Columbia Theological Seminary'
+p474
+F42027
+F55207
+tp475
+a(S'Interdenominational Theological Center'
+p476
+F42029
+F60571
+tp477
+a(S'Lanier Technical College'
+p478
+F4040.5999999999999
+F21778
+tp479
+a(S'Central Georgia Technical College'
+p480
+F3777.3000000000002
+F18258
+tp481
+a(S'Chattahoochee Technical College'
+p482
+F7421.1000000000004
+F22162
+tp483
+a(S'Morehouse School of Medicine'
+p484
+F42029
+F44401
+tp485
+a(S'Moultrie Technical College'
+p486
+F4014.6999999999998
+F17004
+tp487
+a(S'Reinhardt University'
+p488
+F22798
+F31905
+tp489
+a(S'South Georgia Technical College'
+p490
+F6493.1999999999998
+F17171
+tp491
+a(S'Southwest Georgia Technical College'
+p492
+F6167.3999999999996
+F19532
+tp493
+a(S'Wiregrass Georgia Technical College'
+p494
+F5939.3999999999996
+F20371
+tp495
+a(S'World Medicine Institute'
+p496
+F42028
+F37195
+tp497
+a(S'Mr Juans College of Hair Design'
+p498
+F10489
+F12232
+tp499
+a(S'Adler School of Professional Psychology'
+p500
+F35820
+F49774
+tp501
+a(S'Alvareitas College of Cosmetology-Godfrey'
+p502
+F7186.8999999999996
+F15296
+tp503
+a(S'Bethany Theological Seminary'
+p504
+F42030
+F56723
+tp505
+a(S'Black Hawk College'
+p506
+F7465.8000000000002
+F23793
+tp507
+a(S'Cannella School of Hair Design-Villa Park'
+p508
+F4744.5
+F12957
+tp509
+a(S'Cannella School of Hair Design-Chicago'
+p510
+F1944.3
+F14455
+tp511
+a(S'Catholic Theological Union at Chicago'
+p512
+F35827
+F49178
+tp513
+a(S'La James International College-East Moline'
+p514
+F7840.1000000000004
+F15939
+tp515
+a(S'Midwestern University-Downers Grove'
+p516
+F42033
+F64704
+tp517
+a(S'The Chicago School of Professional Psychology at Chicago'
+p518
+F35180
+F57451
+tp519
+a(S'Chicago Theological Seminary'
+p520
+F35830
+F50234
+tp521
+a(S'College of DuPage'
+p522
+F9652.1000000000004
+F27672
+tp523
+a(S'Garrett-Evangelical Theological Seminary'
+p524
+F35829
+F60592
+tp525
+a(S'Graham Hospital School of Nursing'
+p526
+F12405
+F43730
+tp527
+a(S'Hebrew Theological College'
+p528
+F15722
+F61748
+tp529
+a(S'Rosalind Franklin University of Medicine and Science'
+p530
+F17684
+F54556
+tp531
+a(S'Benedictine University'
+p532
+F22800
+F38557
+tp533
+a(S'Illinois College of Optometry'
+p534
+F42032
+F67934
+tp535
+a(S'Institute for Clinical Social Work'
+p536
+F42034
+F40058
+tp537
+a(S'The John Marshall Law School'
+p538
+F35825
+F67730
+tp539
+a(S"DeVry University's Keller Graduate School of Management-Illinois"
+p540
+F34409
+F47066
+tp541
+a(S'Lake Forest Graduate School of Management'
+p542
+F35819
+F48108
+tp543
+a(S'Lexington College'
+p544
+F22433
+F31421
+tp545
+a(S'Lutheran School of Theology at Chicago'
+p546
+F35831
+F47023
+tp547
+a(S'McCormick Theological Seminary'
+p548
+F35829
+F57886
+tp549
+a(S'Meadville Lombard Theological School'
+p550
+F35831
+F48290
+tp551
+a(S'Methodist College of Nursing'
+p552
+F23891
+F51696
+tp553
+a(S'Moody Bible Institute'
+p554
+F19684
+F16482
+tp555
+a(S'Morton College'
+p556
+F7046.8999999999996
+F24115
+tp557
+a(S'Northern Baptist Theological Seminary'
+p558
+F35833
+F57572
+tp559
+a(S'Professionals Choice Hair Design Academy'
+p560
+F7377.1999999999998
+F14781
+tp561
+a(S'St Johns College'
+p562
+F17988
+F48995
+tp563
+a(S'Shawnee Community College'
+p564
+F7003.6999999999998
+F19340
+tp565
+a(S'Shimer College'
+p566
+F21883
+F28710
+tp567
+a(S'Saint Augustine College'
+p568
+F6770.3999999999996
+F21224
+tp569
+a(S'University of Saint Mary of the Lake'
+p570
+F35831
+F56957
+tp571
+a(S'Southeastern Illinois College'
+p572
+F4431.3000000000002
+F19284
+tp573
+a(S'Spertus College'
+p574
+F35831
+F48894
+tp575
+a(S'Spoon River College'
+p576
+F8227.6000000000004
+F24081
+tp577
+a(S'Telshe Yeshiva-Chicago'
+p578
+F19191
+F16706
+tp579
+a(S'South Suburban College'
+p580
+F5196.1000000000004
+F20989
+tp581
+a(S'Tri-County Beauty Academy'
+p582
+F7102.3999999999996
+F17536
+tp583
+a(S'VanderCook College of Music'
+p584
+F15242
+F31916
+tp585
+a(S'Apex Academy of Hair Design Inc'
+p586
+F6674
+F12780
+tp587
+a(S'Christian Theological Seminary'
+p588
+F42030
+F60278
+tp589
+a(S'Concordia Theological Seminary'
+p590
+F42028
+F46799
+tp591
+a(S'Don Roberts Beauty School'
+p592
+F7278.6999999999998
+F16063
+tp593
+a(S'Good Samaritan Hospital School of Radiologic Technology'
+p594
+F10636
+F37855
+tp595
+a(S'Indiana State University'
+p596
+F24009
+F28249
+tp597
+a(S'Indiana University-Southeast'
+p598
+F21250
+F27298
+tp599
+a(S'Knox Beauty College'
+p600
+F6672.8999999999996
+F11932
+tp601
+a(S'Lafayette Beauty Academy'
+p602
+F7374.3000000000002
+F12864
+tp603
+a(S'Anabaptist Mennonite Biblical Seminary Inc.'
+p604
+F42030
+F48623
+tp605
+a(S'West Michigan College of Barbering and Beauty LLC'
+p606
+F6334.1000000000004
+F11490
+tp607
+a(S"PJ's College of Cosmetology-Richmond"
+p608
+F9739.8999999999996
+F16496
+tp609
+a(S'Saint Meinrad Seminary and School of Theology'
+p610
+F42029
+F60525
+tp611
+a(S'Vincennes Beauty College'
+p612
+F8160.1999999999998
+F15104
+tp613
+a(S'American College of Hairstyling-Cedar Rapids'
+p614
+F12497
+F14670
+tp615
+a(S'Iowa School of Beauty-Marshalltown'
+p616
+F11117
+F13930
+tp617
+a(S'Divine Word College'
+p618
+F27679
+F35313
+tp619
+a(S'American Hair Academy'
+p620
+F12179
+F13748
+tp621
+a(S'Iowa Health-Des Moines School of Radiologic Technology'
+p622
+F13420
+F45186
+tp623
+a(S'American College of Hairstyling-Des Moines'
+p624
+F12285
+F17024
+tp625
+a(S'Des Moines University-Osteopathic Medical Center'
+p626
+F42026
+F71068
+tp627
+a(S'Wartburg Theological Seminary'
+p628
+F42028
+F52150
+tp629
+a(S'Bethel College-North Newton'
+p630
+F24542
+F33371
+tp631
+a(S'Central Baptist Theological Seminary'
+p632
+F42838
+F47822
+tp633
+a(S'Barclay College'
+p634
+F18077
+F20244
+tp635
+a(S'Haskell Indian Nations University'
+p636
+F698.13999999999999
+F6478.3999999999996
+tp637
+a(S'LaBaron Hairdressing Academy'
+p638
+F9383.7999999999993
+F18823
+tp639
+a(S'Asbury Theological Seminary'
+p640
+F42028
+F61862
+tp641
+a(S'Clear Creek Baptist Bible College'
+p642
+F17460
+F19555
+tp643
+a(S'Paul Mitchell the School-Lexington'
+p644
+F12949
+F14318
+tp645
+a(S'Collins School of Cosmetology'
+p646
+F6371.8999999999996
+F14727
+tp647
+a(S"Ezell's Cosmetology School"
+p648
+F12187
+F11751
+tp649
+a(S'Frontier Nursing University'
+p650
+F42027
+F52281
+tp651
+a(S'Jenny Lea Academy of Cosmetology'
+p652
+F12447
+F13251
+tp653
+a(S'The Salon Professional Academy-Lexington'
+p654
+F13241
+F15429
+tp655
+a(S'Kentucky Mountain Bible College'
+p656
+F21199
+F21596
+tp657
+a(S'Lexington Theological Seminary'
+p658
+F42029
+F57657
+tp659
+a(S'Louisville Presbyterian Theological Seminary'
+p660
+F42028
+F61783
+tp661
+a(S"Mr Jim's College of Cosmetology"
+p662
+F11059
+F14127
+tp663
+a(S'Nutek Academy of Beauty Inc'
+p664
+F6937.1999999999998
+F11582
+tp665
+a(S'Pat Wilsons Beauty College'
+p666
+F8496.7999999999993
+F11966
+tp667
+a(S'Central Louisiana Technical College-Alexandria Campus'
+p668
+F6802.8000000000002
+F20055
+tp669
+a(S'Baton Rouge School of Computers'
+p670
+F15211
+F24473
+tp671
+a(S'Capital Area Technical College-Baton Rouge Campus'
+p672
+F3740.4000000000001
+F21620
+tp673
+a(S'Cloyds Beauty School 1 Inc'
+p674
+F5631.8999999999996
+F13993
+tp675
+a(S'Northeast Louisiana Technical College'
+p676
+F6748.6999999999998
+F21393
+tp677
+a(S'Demmons School of Beauty'
+p678
+F7736.8999999999996
+F15344
+tp679
+a(S'Denham Springs Beauty School'
+p680
+F6251.8000000000002
+F17512
+tp681
+a(S'John Jay Beauty College'
+p682
+F4248.1000000000004
+F12094
+tp683
+a(S'John Jay Beauty College'
+p684
+F5330
+F14188
+tp685
+a(S'Acadiana Technical College-Lafayette Campus'
+p686
+F3963.6999999999998
+F19675
+tp687
+a(S'Louisiana Academy of Beauty'
+p688
+F5076.1999999999998
+F13118
+tp689
+a(S'Opelousas School of Cosmetology Inc'
+p690
+F5996
+F12537
+tp691
+a(S'Northwest Louisiana Technical College'
+p692
+F4903.1000000000004
+F21875
+tp693
+a(S'Notre Dame Seminary Graduate School of Theology'
+p694
+F42029
+F49217
+tp695
+a(S'Pat Goins Benton Road Beauty School'
+p696
+F7899.1000000000004
+F14034
+tp697
+a(S'Pat Goins Beauty School'
+p698
+F6669.6999999999998
+F12539
+tp699
+a(S'Pat Goins Ruston Beauty School'
+p700
+F4202.1999999999998
+F12724
+tp701
+a(S'Pineville Beauty School'
+p702
+F5150.5
+F13877
+tp703
+a(S'Saint Joseph Seminary College'
+p704
+F23132
+F28574
+tp705
+a(S'L E Fletcher Technical Community College'
+p706
+F4341.5
+F23742
+tp707
+a(S'Stevensons Academy of Hair Design'
+p708
+F4293.5
+F11474
+tp709
+a(S'Northshore Technical Community College'
+p710
+F3179.5
+F19840
+tp711
+a(S'South Central Louisiana Technical College-Young Memorial Campus'
+p712
+F2443.4000000000001
+F27614
+tp713
+a(S'Bangor Theological Seminary'
+p714
+F37500
+F44609
+tp715
+a(S'Landing School of Boat Building and Design'
+p716
+F15636
+F42583
+tp717
+a(S'Baltimore City Community College'
+p718
+F8920.7999999999993
+F19557
+tp719
+a(S'Bowie State University'
+p720
+F24061
+F32407
+tp721
+a(S'Chesapeake College'
+p722
+F9593.6000000000004
+F18416
+tp723
+a(S'Ner Israel Rabbinical College'
+p724
+F15112
+F26488
+tp725
+a(S"Prince George's Community College"
+p726
+F10269
+F28211
+tp727
+a(S"St Mary's Seminary & University"
+p728
+F14294
+F46577
+tp729
+a(S'Tai Sophia Institute'
+p730
+F42026
+F49158
+tp731
+a(S'Washington Theological Union'
+p732
+F33668
+F51353
+tp733
+a(S'New England College of Business and Finance'
+p734
+F21057
+F29017
+tp735
+a(S'Andover Newton Theological School'
+p736
+F42360
+F66424
+tp737
+a(S'Boston Graduate School of Psychoanalysis Inc'
+p738
+F42028
+F44989
+tp739
+a(S'Conway School of Landscape Design'
+p740
+F42030
+F51233
+tp741
+a(S'Diman Regional Technical Institute'
+p742
+F8747.7999999999993
+F31601
+tp743
+a(S'Episcopal Divinity School'
+p744
+F42030
+F55143
+tp745
+a(S'Gordon-Conwell Theological Seminary'
+p746
+F42028
+F53866
+tp747
+a(S'Hebrew College'
+p748
+F15022
+F32199
+tp749
+a(S'Hellenic College-Holy Cross Greek Orthodox School of Theology'
+p750
+F15219
+F23655
+tp751
+a(S'Longy School of Music'
+p752
+F21235
+F30331
+tp753
+a(S'Mansfield Beauty Schools-Springfield'
+p754
+F6729.6999999999998
+F16468
+tp755
+a(S'University of Massachusetts-Boston'
+p756
+F21536
+F37312
+tp757
+a(S'University of Massachusetts Medical School Worcester'
+p758
+F27288
+F60885
+tp759
+a(S'Massachusetts School of Professional Psychology'
+p760
+F42030
+F53340
+tp761
+a(S'Massachusetts School of Barbering'
+p762
+F6298.6000000000004
+F15369
+tp763
+a(S'MGH Institute of Health Professions'
+p764
+F15009
+F61182
+tp765
+a(S'New England College of Optometry'
+p766
+F19133
+F65104
+tp767
+a(S'New England School of Acupuncture'
+p768
+F42028
+F49746
+tp769
+a(S'New England School of Law'
+p770
+F27843
+F74947
+tp771
+a(S'Blessed John XXIII National Seminary'
+p772
+F42028
+F47661
+tp773
+a(S'Roxbury Community College'
+p774
+F7388
+F23730
+tp775
+a(S"Saint John's Seminary"
+p776
+F10480
+F41964
+tp777
+a(S'Hillsdale Beauty College'
+p778
+F6264
+F13326
+tp779
+a(S'Aquinas College'
+p780
+F25183
+F27258
+tp781
+a(S'Bayshire Academy of Beauty Craft Inc'
+p782
+F4947
+F11304
+tp783
+a(S'Calvin Theological Seminary'
+p784
+F42028
+F63510
+tp785
+a(S'Michigan School of Professional Psychology'
+p786
+F42026
+F56024
+tp787
+a(S'Cranbrook Academy of Art'
+p788
+F42029
+F54872
+tp789
+a(S'Michigan State University College of Law'
+p790
+F42030
+F58801
+tp791
+a(S'Flint Institute of Barbering Inc'
+p792
+F9002
+F14792
+tp793
+a(S'Great Lakes Christian College'
+p794
+F21402
+F20507
+tp795
+a(S'Jackson Community College'
+p796
+F11612
+F22181
+tp797
+a(S'Wright Beauty Academy'
+p798
+F5415.5
+F21278
+tp799
+a(S'M J Murphy Beauty College of Mount Pleasant'
+p800
+F6497.3000000000002
+F13060
+tp801
+a(S'Michigan Barber School Inc'
+p802
+F10872
+F15982
+tp803
+a(S'Paul Mitchell the School-Escanaba'
+p804
+F9528.1000000000004
+F14222
+tp805
+a(S'Sacred Heart Major Seminary'
+p806
+F20037
+F33058
+tp807
+a(S'Michigan Career and Technical Institute'
+p808
+F4117.6000000000004
+F17908
+tp809
+a(S'Thomas M. Cooley Law School'
+p810
+F42027
+F68307
+tp811
+a(S'Western Theological Seminary'
+p812
+F42030
+F49991
+tp813
+a(S'Wright Beauty Academy'
+p814
+F6172.3999999999996
+F12987
+tp815
+a(S'American Indian OIC Inc'
+p816
+F8688.3999999999996
+F13562
+tp817
+a(S'Riverland Community College'
+p818
+F12822
+F28160
+tp819
+a(S'Bethel Seminary-St. Paul'
+p820
+F43740
+F48055
+tp821
+a(S'Hazelden Graduate School of Addiction Studies'
+p822
+F43747
+F56572
+tp823
+a(S'Cosmetology Careers Unlimited-Hibbing'
+p824
+F9587.7999999999993
+F17118
+tp825
+a(S'Luther Seminary'
+p826
+F42029
+F52595
+tp827
+a(S'Mayo Medical School'
+p828
+F41812
+F47793
+tp829
+a(S'Mayo School of Health Sciences'
+p830
+F12505
+F57190
+tp831
+a(S'Minneapolis Community and Technical College'
+p832
+F15806
+F25029
+tp833
+a(S'Summit Academy Opportunities Industrialization Center'
+p834
+F7815.3999999999996
+F17630
+tp835
+a(S'United Theological Seminary of the Twin Cities'
+p836
+F42028
+F48852
+tp837
+a(S'William Mitchell College of Law'
+p838
+F43109
+F75902
+tp839
+a(S'Chris Beauty College'
+p840
+F5223.8999999999996
+F17166
+tp841
+a(S'Coahoma Community College'
+p842
+F7543.8999999999996
+F15431
+tp843
+a(S'Creations College of Cosmetology'
+p844
+F6252.5
+F14572
+tp845
+a(S'Delta Beauty College'
+p846
+F7133.1000000000004
+F9754.3999999999996
+tp847
+a(S'Fosters Cosmetology College'
+p848
+F7390.5
+F13027
+tp849
+a(S'Mississippi Delta Community College'
+p850
+F5242
+F17099
+tp851
+a(S'Mississippi College of Beauty Culture'
+p852
+F4328.8999999999996
+F13680
+tp853
+a(S'Mississippi Gulf Coast Community College'
+p854
+F5513.8999999999996
+F23482
+tp855
+a(S'Southeastern Baptist College'
+p856
+F16715
+F20458
+tp857
+a(S'Southwest Mississippi Community College'
+p858
+F4713
+F18441
+tp859
+a(S'Tougaloo College'
+p860
+F27051
+F19610
+tp861
+a(S'Wesley Biblical Seminary'
+p862
+F42028
+F52035
+tp863
+a(S'Aquinas Institute of Theology'
+p864
+F42029
+F50390
+tp865
+a(S'Assemblies of God Theological Seminary'
+p866
+F33665
+F55503
+tp867
+a(S'Boonslick Technical Education Center'
+p868
+F9482.5
+F35649
+tp869
+a(S'Grand River Technical School'
+p870
+F5974.1000000000004
+F20852
+tp871
+a(S'Chillicothe Beauty Academy Inc'
+p872
+F8564.6000000000004
+F15304
+tp873
+a(S'Conception Seminary College'
+p874
+F23958
+F21962
+tp875
+a(S'Concordia Seminary'
+p876
+F42029
+F53900
+tp877
+a(S'Covenant Theological Seminary'
+p878
+F42029
+F50996
+tp879
+a(S'Eden Theological Seminary'
+p880
+F42030
+F51182
+tp881
+a(S'Forest Institute of Professional Psychology'
+p882
+F42029
+F51547
+tp883
+a(S'Four Rivers Career Center'
+p884
+F10349
+F33435
+tp885
+a(S'Cosmetology Concepts Institute'
+p886
+F8178.1000000000004
+F14669
+tp887
+a(S'Kennett Career and Technology Center'
+p888
+F8484.7000000000007
+F19101
+tp889
+a(S'Kenrick Glennon Seminary'
+p890
+F21554
+F24148
+tp891
+a(S'A T Still University of Health Sciences'
+p892
+F42026
+F65229
+tp893
+a(S'Lake Career and Technical Center'
+p894
+F7151.8999999999996
+F21700
+tp895
+a(S'Lex La-Ray Technical Center'
+p896
+F5615.1999999999998
+F26910
+tp897
+a(S'Midwestern Baptist Theological Seminary'
+p898
+F9300
+F33176
+tp899
+a(S'Missouri School of Barbering & Hairstyling-St. Louis'
+p900
+F12693
+F17716
+tp901
+a(S'Nazarene Theological Seminary'
+p902
+F42029
+F51622
+tp903
+a(S'Northwest Technical School'
+p904
+F9459
+F15769
+tp905
+a(S'College of the Ozarks'
+p906
+F13260
+F24046
+tp907
+a(S'Poplar Bluff School District Practical Nurse Program'
+p908
+F7317.8000000000002
+F21207
+tp909
+a(S'Salem College of Hairstyling'
+p910
+F5139.3999999999996
+F14123
+tp911
+a(S'St Louis College of Pharmacy'
+p912
+F42666
+F58460
+tp913
+a(S'Saint Paul School of Theology'
+p914
+F42028
+F63336
+tp915
+a(S'Mercy Hospital Springfield-School of Radiologic Technology'
+p916
+F13739
+F52844
+tp917
+a(S'Eldon Career Center'
+p918
+F8371.7000000000007
+F25741
+tp919
+a(S'Truman Medical Center School of Nurse Anesthesia'
+p920
+F16771
+F39382
+tp921
+a(S'Kansas City University of Medicine and Biosciences'
+p922
+F42027
+F56184
+tp923
+a(S'Academy of Cosmetology Inc'
+p924
+F8805.6000000000004
+F12760
+tp925
+a(S'Blackfeet Community College'
+p926
+F9913.2000000000007
+F8203.5
+tp927
+a(S'Butte Academy of Beauty Culture'
+p928
+F7000.8000000000002
+F13946
+tp929
+a(S"Crevier's School of Cosmetology"
+p930
+F8664.7999999999993
+F8724.5
+tp931
+a(S'Chief Dull Knife College'
+p932
+F4940.3000000000002
+F13438
+tp933
+a(S'Fort Belknap College'
+p934
+F7502.8999999999996
+F16644
+tp935
+a(S'Fort Peck Community College'
+p936
+F-1978.4000000000001
+F12790
+tp937
+a(S'Little Big Horn College'
+p938
+F1616
+F13026
+tp939
+a(S'Modern Beauty School Inc'
+p940
+F10409
+F17141
+tp941
+a(S'Alegent Health School of Radiologic Technology'
+p942
+F17091
+F53777
+tp943
+a(S'Nebraska Indian Community College'
+p944
+F12105
+F23188
+tp945
+a(S'Regional West Medical Center School of Radiologic Technology'
+p946
+F10094
+F51536
+tp947
+a(S'Marinello Schools of Beauty-Reno'
+p948
+F14866
+F13625
+tp949
+a(S'University of New Hampshire School of Law'
+p950
+F33664
+F56725
+tp951
+a(S'Continental Academie of Hair Design-Manchester'
+p952
+F11306
+F18995
+tp953
+a(S'Lebanon College'
+p954
+F19369
+F26671
+tp955
+a(S'College of St. Mary Magdalen'
+p956
+F21310
+F17205
+tp957
+a(S'Portsmouth Beauty School of Hair Design'
+p958
+F9976.6000000000004
+F19023
+tp959
+a(S'Thomas More College of Liberal Arts'
+p960
+F22349
+F18708
+tp961
+a(S'Beth Medrash Govoha'
+p962
+F13154
+F30050
+tp963
+a(S'Adult & Continuing Education-BCTS'
+p964
+F6358.3000000000002
+F32373
+tp965
+a(S'Cooper Health System Center for Allied Health Education'
+p966
+F13823
+F52781
+tp967
+a(S'Cumberland County College'
+p968
+F7056.6999999999998
+F22174
+tp969
+a(S'duCret School of Arts'
+p970
+F6537.3000000000002
+F21319
+tp971
+a(S'Essex County College'
+p972
+F6261.1999999999998
+F23061
+tp973
+a(S'Hohokus School of Trade and Technical Sciences'
+p974
+F7548
+F24421
+tp975
+a(S'Joe Kubert School of Cartoon and Graphic Art'
+p976
+F10352
+F18574
+tp977
+a(S'Mercer County Community College'
+p978
+F7784.5
+F24350
+tp979
+a(S'New Brunswick Theological Seminary'
+p980
+F42027
+F62593
+tp981
+a(S'Princeton Theological Seminary'
+p982
+F42027
+F61290
+tp983
+a(S'Rabbinical College of America'
+p984
+F19795
+F27800
+tp985
+a(S'St Francis Medical Center-School of Radiologic Technology'
+p986
+F13968
+F52712
+tp987
+a(S'Saint Francis Medical Center School of Nursing'
+p988
+F14303
+F51841
+tp989
+a(S'Atlantic Beauty & Spa Academy LLC'
+p990
+F6525.6000000000004
+F15828
+tp991
+a(S'Talmudical Academy-New Jersey'
+p992
+F2220.1999999999998
+F43086
+tp993
+a(S'Navajo Technical College'
+p994
+F6262.3999999999996
+F14351
+tp995
+a(S'New Mexico Junior College'
+p996
+F7824.1000000000004
+F23442
+tp997
+a(S'Southwestern College'
+p998
+F42029
+F47261
+tp999
+a(S'Southwestern Indian Polytechnic Institute'
+p1000
+F8747.5
+F16094
+tp1001
+a(S'Mesalands Community College'
+p1002
+F5591.3000000000002
+F24536
+tp1003
+a(S'Albany Law School'
+p1004
+F42026
+F74850
+tp1005
+a(S'Albany Medical College'
+p1006
+F42027
+F50985
+tp1007
+a(S'The Ailey School'
+p1008
+F7979.1999999999998
+F19165
+tp1009
+a(S'Joffrey Ballet School-American Ballet Center'
+p1010
+F5065.5
+F13532
+tp1011
+a(S'Arnot Ogden Medical Center'
+p1012
+F14633
+F40924
+tp1013
+a(S'Associated Beth Rivkah Schools'
+p1014
+F5078.6999999999998
+F16666
+tp1015
+a(S'Bank Street College of Education'
+p1016
+F42026
+F70583
+tp1017
+a(S'Beth Hatalmud Rabbinical College'
+p1018
+F17841
+F23431
+tp1019
+a(S'Beth Hamedrash Shaarei Yosher Institute'
+p1020
+F35814
+F32439
+tp1021
+a(S'American Beauty School'
+p1022
+F6865.8000000000002
+F11434
+tp1023
+a(S'Brooklyn Law School'
+p1024
+F27287
+F83187
+tp1025
+a(S'Central Yeshiva Tomchei Tmimim Lubavitz'
+p1026
+F9709.7999999999993
+F24005
+tp1027
+a(S'Cheryl Fells School of Business'
+p1028
+F6036.8999999999996
+F18426
+tp1029
+a(S'Christ the King Seminary'
+p1030
+F42026
+F54551
+tp1031
+a(S'Circle in the Square Theater School'
+p1032
+F11136
+F20036
+tp1033
+a(S'Colgate Rochester Crozer Divinity School'
+p1034
+F42027
+F63643
+tp1035
+a(S'Weill Cornell Medical College'
+p1036
+F27795
+F41594
+tp1037
+a(S'CUNY School of Law at Queens College'
+p1038
+F42022
+F62060
+tp1039
+a(S'CVPH Medical Center School of Radiologic Technology'
+p1040
+F8828
+F35295
+tp1041
+a(S'Darkei Noam Rabbinical College'
+p1042
+F12752
+F40142
+tp1043
+a(S'The General Theological Seminary'
+p1044
+F42027
+F62088
+tp1045
+a(S'Global Business Institute'
+p1046
+F4011.4000000000001
+F16876
+tp1047
+a(S'Global Business Institute'
+p1048
+F4289.1999999999998
+F16326
+tp1049
+a(S'Institute of Design and Construction'
+p1050
+F16956
+F29918
+tp1051
+a(S'Jewish Theological Seminary of America'
+p1052
+F19013
+F35706
+tp1053
+a(S'Kehilath Yakov Rabbinical Seminary'
+p1054
+F9402.7000000000007
+F18527
+tp1055
+a(S'Kol Yaakov Torah Center'
+p1056
+F14917
+F27172
+tp1057
+a(S'Long Island University-Rockland Campus'
+p1058
+F42540
+F41603
+tp1059
+a(S'Machzikei Hadath Rabbinical College'
+p1060
+F13039
+F23957
+tp1061
+a(S'Marion S Whelan School of Nursing of Geneva General Hospital'
+p1062
+F10754
+F31402
+tp1063
+a(S'Memorial Hospital School of Radiation Therapy Technology'
+p1064
+F12877
+F61073
+tp1065
+a(S'Mesivta Torah Vodaath Rabbinical Seminary'
+p1066
+F-951.70000000000005
+F24921
+tp1067
+a(S'Mesivta of Eastern Parkway-Yeshiva Zichron Meilech'
+p1068
+F-2806
+F13841
+tp1069
+a(S'Mesivtha Tifereth Jerusalem of America'
+p1070
+F16403
+F17103
+tp1071
+a(S'Mirrer Yeshiva Cent Institute'
+p1072
+F14192
+F19707
+tp1073
+a(S'Mount Sinai School of Medicine'
+p1074
+F42023
+F60247
+tp1075
+a(S'Neighborhood Playhouse School of the Theater'
+p1076
+F5637.1999999999998
+F16338
+tp1077
+a(S'New School of Radio and Television'
+p1078
+F5846.6000000000004
+F21143
+tp1079
+a(S'New York Chiropractic College'
+p1080
+F42024
+F67277
+tp1081
+a(S'New York Law School'
+p1082
+F27288
+F84819
+tp1083
+a(S'New York Medical College'
+p1084
+F42027
+F61535
+tp1085
+a(S'New York Theological Seminary'
+p1086
+F42028
+F54233
+tp1087
+a(S'Empire Beauty School-Peekskill'
+p1088
+F8448.7000000000007
+F17025
+tp1089
+a(S'New York College of Podiatric Medicine'
+p1090
+F42026
+F58206
+tp1091
+a(S'Ohr Hameir Theological Seminary'
+p1092
+F15796
+F21350
+tp1093
+a(S'Rabbinical Academy Mesivta Rabbi Chaim Berlin'
+p1094
+F16079
+F18817
+tp1095
+a(S'Rabbinical College Bobover Yeshiva Bnei Zion'
+p1096
+F7107.3999999999996
+F16440
+tp1097
+a(S"Rabbinical College of Ch'san Sofer New York"
+p1098
+F9565.6000000000004
+F16732
+tp1099
+a(S'Rabbinical College Beth Shraga'
+p1100
+F3845.0999999999999
+F25672
+tp1101
+a(S"Rabbinical Seminary M'kor Chaim"
+p1102
+F5698.1999999999998
+F17581
+tp1103
+a(S'Rabbinical College of Long Island'
+p1104
+F13097
+F24687
+tp1105
+a(S'Rabbinical Seminary of America'
+p1106
+F12804
+F20484
+tp1107
+a(S"St Bernard's School of Theology and Ministry"
+p1108
+F42026
+F50111
+tp1109
+a(S"Sh'or Yoshuv Rabbinical College"
+p1110
+F14776
+F15723
+tp1111
+a(S'Saint Vladimirs Orthodox Theological Seminary'
+p1112
+F42026
+F50960
+tp1113
+a(S'Spanish-American Institute'
+p1114
+F11706
+F33267
+tp1115
+a(S"Faxton-St Luke's Healthcare School of Radiologic Technology"
+p1116
+F15484
+F55429
+tp1117
+a(S'St James Mercy Hospital School of Radiologic Science'
+p1118
+F12050
+F58237
+tp1119
+a(S'SUNY College of Optometry'
+p1120
+F27291
+F75309
+tp1121
+a(S'Talmudical Seminary Oholei Torah'
+p1122
+F10435
+F33317
+tp1123
+a(S'Talmudical Institute of Upstate New York'
+p1124
+F10309
+F19832
+tp1125
+a(S'Teachers College at Columbia University'
+p1126
+F27287
+F73537
+tp1127
+a(S'Torah Temimah Talmudical Seminary'
+p1128
+F7356.1999999999998
+F19201
+tp1129
+a(S'Excelsior College'
+p1130
+F19506
+F36210
+tp1131
+a(S'Union Theological Seminary'
+p1132
+F42026
+F68414
+tp1133
+a(S'United Talmudical Seminary'
+p1134
+F12558
+F21395
+tp1135
+a(S'Webb Institute'
+p1136
+F16896
+F49281
+tp1137
+a(S'Westchester School of Beauty Culture'
+p1138
+F6887.3999999999996
+F13552
+tp1139
+a(S'Yeshiva Karlin Stolin'
+p1140
+F6176.1000000000004
+F23021
+tp1141
+a(S'Yeshivat Mikdash Melech'
+p1142
+F11384
+F22260
+tp1143
+a(S'Yeshiva Derech Chaim'
+p1144
+F14438
+F22125
+tp1145
+a(S'Yeshiva of Nitra Rabbinical College'
+p1146
+F9552.2999999999993
+F13159
+tp1147
+a(S'Yeshiva Shaar Hatorah'
+p1148
+F7535.8999999999996
+F15440
+tp1149
+a(S'Yeshivath Viznitz'
+p1150
+F5542
+F19902
+tp1151
+a(S'Yeshivath Zichron Moshe'
+p1152
+F3275
+F27963
+tp1153
+a(S'South Piedmont Community College'
+p1154
+F8328.2999999999993
+F20576
+tp1155
+a(S'Brunswick Community College'
+p1156
+F8787.3999999999996
+F16619
+tp1157
+a(S'Carolina School of Broadcasting'
+p1158
+F9260.5
+F22516
+tp1159
+a(S'Central Carolina Community College'
+p1160
+F7522.1999999999998
+F19415
+tp1161
+a(S'Cleveland Community College'
+p1162
+F8202.6000000000004
+F19441
+tp1163
+a(S'Craven Community College'
+p1164
+F10554
+F21676
+tp1165
+a(S'Fayetteville Beauty College'
+p1166
+F7040.6000000000004
+F13710
+tp1167
+a(S'Gaston College'
+p1168
+F10393
+F19946
+tp1169
+a(S'Heritage Bible College'
+p1170
+F11704
+F25826
+tp1171
+a(S'Isothermal Community College'
+p1172
+F6263.6999999999998
+F19329
+tp1173
+a(S'Laurel University'
+p1174
+F22966
+F26863
+tp1175
+a(S'Lenoir Community College'
+p1176
+F8012.8999999999996
+F20150
+tp1177
+a(S'Leons Beauty School Inc'
+p1178
+F3269
+F14099
+tp1179
+a(S'Martin Community College'
+p1180
+F9268
+F21570
+tp1181
+a(S'Mayland Community College'
+p1182
+F4156
+F20598
+tp1183
+a(S'Mitchell Community College'
+p1184
+F5791.3000000000002
+F19106
+tp1185
+a(S'Mitchells Hairstyling Academy-Greenville'
+p1186
+F8374.5
+F15258
+tp1187
+a(S"Regina's College of Beauty-Monroe"
+p1188
+F8940
+F14105
+tp1189
+a(S'Montgomery Community College'
+p1190
+F5831.1999999999998
+F19516
+tp1191
+a(S'College of Wilmington'
+p1192
+F6241.8999999999996
+F14435
+tp1193
+a(S'Pamlico Community College'
+p1194
+F6004.6999999999998
+F18630
+tp1195
+a(S'Piedmont Community College'
+p1196
+F6514.8999999999996
+F20913
+tp1197
+a(S'Randolph Community College'
+p1198
+F8246.3999999999996
+F19362
+tp1199
+a(S'Richmond Community College'
+p1200
+F8483.1000000000004
+F19593
+tp1201
+a(S'Roanoke-Chowan Community College'
+p1202
+F7638.6999999999998
+F18770
+tp1203
+a(S'Robeson Community College'
+p1204
+F8351
+F18416
+tp1205
+a(S'Rockingham Community College'
+p1206
+F7163
+F19803
+tp1207
+a(S'Rowan-Cabarrus Community College'
+p1208
+F6337.5
+F20801
+tp1209
+a(S'Sampson Community College'
+p1210
+F6256.8999999999996
+F18833
+tp1211
+a(S'Sandhills Community College'
+p1212
+F7418.6999999999998
+F19748
+tp1213
+a(S'Paul Mitchell the School-Fayetteville'
+p1214
+F7587.1999999999998
+F16979
+tp1215
+a(S'Stanly Community College'
+p1216
+F8026.1000000000004
+F20464
+tp1217
+a(S'Surry Community College'
+p1218
+F7682.1999999999998
+F19793
+tp1219
+a(S'Alamance Community College'
+p1220
+F9194.7999999999993
+F20974
+tp1221
+a(S'Tri-County Community College'
+p1222
+F8486.8999999999996
+F18547
+tp1223
+a(S'Watts School of Nursing'
+p1224
+F14130
+F50165
+tp1225
+a(S'Western Piedmont Community College'
+p1226
+F8442.6000000000004
+F21175
+tp1227
+a(S'Carolina Christian College'
+p1228
+F19577
+F15255
+tp1229
+a(S'Winston Salem Barber School'
+p1230
+F2228.9000000000001
+F13722
+tp1231
+a(S'Fort Berthold Community College'
+p1232
+F3138.4000000000001
+F14876
+tp1233
+a(S'Cankdeska Cikana Community College'
+p1234
+F1334.3
+F7813.3999999999996
+tp1235
+a(S'Moler Barber College'
+p1236
+F8519.1000000000004
+F16644
+tp1237
+a(S'JZ Trend Academy Paul Mitchell Partner School'
+p1238
+F8661.1000000000004
+F14456
+tp1239
+a(S'Sitting Bull College'
+p1240
+F-909.30999999999995
+F15752
+tp1241
+a(S'Turtle Mountain Community College'
+p1242
+F4190.5
+F14268
+tp1243
+a(S'The Art Institute of Cincinnati'
+p1244
+F14076
+F21670
+tp1245
+a(S'Allegheny Wesleyan College'
+p1246
+F16218
+F14350
+tp1247
+a(S'Ashland County-West Holmes Career Center'
+p1248
+F3904.4000000000001
+F24779
+tp1249
+a(S'Auburn Career Center'
+p1250
+F5787.3999999999996
+F22720
+tp1251
+a(S'Valley Beauty School'
+p1252
+F9204.6000000000004
+F12165
+tp1253
+a(S'Carousel Beauty College-Middletown'
+p1254
+F9315.6000000000004
+F13333
+tp1255
+a(S'Carousel of Miami Valley Beauty College'
+p1256
+F7284.1000000000004
+F16190
+tp1257
+a(S'Columbiana County Career and Technical Center'
+p1258
+F2741.5999999999999
+F8931.1000000000004
+tp1259
+a(S'Dayton Barber College'
+p1260
+F6963.1999999999998
+F11960
+tp1261
+a(S'Chancellor University'
+p1262
+F36126
+F28005
+tp1263
+a(S'Franklin University'
+p1264
+F32496
+F41015
+tp1265
+a(S'Gerbers Akron Beauty School'
+p1266
+F5588.8999999999996
+F16915
+tp1267
+a(S'Hebrew Union College-Jewish Institute of Religion-New York'
+p1268
+F42026
+F55040
+tp1269
+a(S'Hocking College'
+p1270
+F10043
+F24205
+tp1271
+a(S'Hondros College'
+p1272
+F17166
+F27461
+tp1273
+a(S'Lorain County Community College'
+p1274
+F12569
+F20997
+tp1275
+a(S'Medina County Career Center'
+p1276
+F3135
+F24476
+tp1277
+a(S'Methodist Theological School in Ohio'
+p1278
+F42029
+F59107
+tp1279
+a(S'National Beauty College'
+p1280
+F8813.6000000000004
+F15861
+tp1281
+a(S'Northern Institute of Cosmetology'
+p1282
+F3196.3000000000002
+F11469
+tp1283
+a(S'Northeast Ohio Medical University'
+p1284
+F27291
+F64066
+tp1285
+a(S'Ohio College of Podiatric Medicine'
+p1286
+F33667
+F62421
+tp1287
+a(S'Paramount Beauty Academy'
+p1288
+F10293
+F12441
+tp1289
+a(S'Payne Theological Seminary'
+p1290
+F42029
+F53673
+tp1291
+a(S'Pontifical College Josephinum'
+p1292
+F25041
+F19425
+tp1293
+a(S'Rabbinical College Telshe'
+p1294
+F12480
+F16349
+tp1295
+a(S'University of Rio Grande'
+p1296
+F20387
+F24861
+tp1297
+a(S'Ohio Mid-Western College'
+p1298
+F17766
+F15654
+tp1299
+a(S'Tri-State Bible College'
+p1300
+F24131
+F17314
+tp1301
+a(S'Tri-County Adult Career Center'
+p1302
+F6427.1000000000004
+F18112
+tp1303
+a(S'Trinity Lutheran Seminary'
+p1304
+F42030
+F59022
+tp1305
+a(S'United Theological Seminary'
+p1306
+F42029
+F51045
+tp1307
+a(S'Valley Beauty School'
+p1308
+F7938
+F12751
+tp1309
+a(S'Cut Beauty School'
+p1310
+F15785
+F13249
+tp1311
+a(S'Winebrenner Theological Seminary'
+p1312
+F42030
+F46946
+tp1313
+a(S'Pontotoc Technology Center'
+p1314
+F4469.5
+F18237
+tp1315
+a(S'Claremore Beauty College'
+p1316
+F5769.8000000000002
+F13613
+tp1317
+a(S'Enid Beauty College'
+p1318
+F6394
+F14057
+tp1319
+a(S'Hollywood Cosmetology Center'
+p1320
+F4519.5
+F12540
+tp1321
+a(S'Beauty Technical College Inc'
+p1322
+F5226.8000000000002
+F11519
+tp1323
+a(S'Oklahoma State University Center for Health Sciences'
+p1324
+F42027
+F52338
+tp1325
+a(S'Oklahoma School of Photography'
+p1326
+F8345.8999999999996
+F16101
+tp1327
+a(S'Tulsa Technology Center-Peoria Campus'
+p1328
+F3587.0999999999999
+F20703
+tp1329
+a(S'Virgils Beauty College'
+p1330
+F6807.3999999999996
+F10048
+tp1331
+a(S'Indian Capital Technology Center-Tahlequah'
+p1332
+F6020
+F18667
+tp1333
+a(S'Woodward Beauty College'
+p1334
+F8045.3000000000002
+F14464
+tp1335
+a(S'High Plains Technology Center'
+p1336
+F2305
+F20488
+tp1337
+a(S'Clatsop Community College'
+p1338
+F10561
+F22555
+tp1339
+a(S'Mount Angel Seminary'
+p1340
+F19876
+F27852
+tp1341
+a(S'National College of Natural Medicine'
+p1342
+F42029
+F50104
+tp1343
+a(S'Northwest Nannies Institute'
+p1344
+F6944.1999999999998
+F2475.3000000000002
+tp1345
+a(S'Phagans School of Beauty'
+p1346
+F12969
+F16309
+tp1347
+a(S'Phagans School of Hair Design'
+p1348
+F13850
+F15722
+tp1349
+a(S'Phagans Tigard Beauty School'
+p1350
+F12851
+F15689
+tp1351
+a(S'Roseburg Beauty College'
+p1352
+F12241
+F14391
+tp1353
+a(S'Western Seminary'
+p1354
+F42028
+F57628
+tp1355
+a(S'Jolie Hair And Beauty Academy-Hazleton'
+p1356
+F8412.1000000000004
+F15525
+tp1357
+a(S'Bryn Athyn College of the New Church'
+p1358
+F15274
+F29450
+tp1359
+a(S'Academy of Vocal Arts'
+p1360
+F16524
+F41367
+tp1361
+a(S'DeSales University'
+p1362
+F28403
+F43926
+tp1363
+a(S'Biblical Theological Seminary'
+p1364
+F42027
+F50404
+tp1365
+a(S'Bidwell Training Center Inc'
+p1366
+F6282.5
+F22699
+tp1367
+a(S'Calvary Baptist Theological Seminary'
+p1368
+F33659
+F47869
+tp1369
+a(S'Curtis Institute of Music'
+p1370
+F20619
+F26163
+tp1371
+a(S'The Dickinson School of Law of the Pennsylvania State University'
+p1372
+F32586
+F53148
+tp1373
+a(S'Empire Beauty School-State College'
+p1374
+F11192
+F18376
+tp1375
+a(S'Empire Beauty School-Lebanon'
+p1376
+F9957.3999999999996
+F16783
+tp1377
+a(S'Evangelical Theological Seminary'
+p1378
+F42028
+F55039
+tp1379
+a(S'Gratz College'
+p1380
+F7445.3999999999996
+F33557
+tp1381
+a(S'Commonwealth Technical Institute'
+p1382
+F4950.6000000000004
+F13239
+tp1383
+a(S'Jolie Hair and Beauty Academy of Wilkes-Barre'
+p1384
+F9556.7000000000007
+F17460
+tp1385
+a(S'Lancaster Theological Seminary'
+p1386
+F42027
+F53576
+tp1387
+a(S'Lutheran Theological Seminary at Gettysburg'
+p1388
+F42026
+F50605
+tp1389
+a(S'Lutheran Theological Seminary at Philadelphia'
+p1390
+F42026
+F49676
+tp1391
+a(S"Pittsburgh's Ohio Valley Hospital School of Nursing"
+p1392
+F12956
+F32506
+tp1393
+a(S'Salus University'
+p1394
+F42024
+F61945
+tp1395
+a(S'Pennsylvania State University-Penn State Great Valley'
+p1396
+F32586
+F51683
+tp1397
+a(S'Pennsylvania State University-College of Medicine'
+p1398
+F32587
+F43274
+tp1399
+a(S'Pennsylvania Gunsmith School'
+p1400
+F17549
+F32442
+tp1401
+a(S'Pennsylvania Institute of Taxidermy Inc'
+p1402
+F10023
+F25679
+tp1403
+a(S'Philadelphia College of Osteopathic Medicine'
+p1404
+F27288
+F59427
+tp1405
+a(S'Pittsburgh Theological Seminary'
+p1406
+F42027
+F57810
+tp1407
+a(S'The Salon Professional Academy'
+p1408
+F7366.6999999999998
+F18295
+tp1409
+a(S'Reconstructionist Rabbinical College'
+p1410
+F42025
+F51978
+tp1411
+a(S'Reformed Presbyterian Theological Seminary'
+p1412
+F42026
+F59156
+tp1413
+a(S'Saint Francis University'
+p1414
+F25660
+F37122
+tp1415
+a(S'Saint Vincent Seminary'
+p1416
+F33778
+F50212
+tp1417
+a(S'Sharon Regional Health System School of Nursing'
+p1418
+F16365
+F42602
+tp1419
+a(S'Saint Charles Borromeo Seminary-Overbrook'
+p1420
+F26059
+F24937
+tp1421
+a(S'Stroudsburg School of Cosmetology'
+p1422
+F10077
+F16287
+tp1423
+a(S'Talmudical Yeshiva of Philadelphia'
+p1424
+F11103
+F16637
+tp1425
+a(S'Trinity Episcopal School for Ministry'
+p1426
+F42027
+F50651
+tp1427
+a(S'Welder Training and Testing Institute'
+p1428
+F8870.8999999999996
+F30373
+tp1429
+a(S'Westminster Theological Seminary'
+p1430
+F42027
+F55857
+tp1431
+a(S'Yeshivath Beth Moshe'
+p1432
+F14725
+F15065
+tp1433
+a(S'Charzanne Beauty College'
+p1434
+F5885.8999999999996
+F14030
+tp1435
+a(S'Northeastern Technical College'
+p1436
+F7987.3999999999996
+F19140
+tp1437
+a(S'Lutheran Theological Southern Seminary'
+p1438
+F33666
+F58829
+tp1439
+a(S'Sherman College of Straight Chiropractic'
+p1440
+F42026
+F50219
+tp1441
+a(S'Sumter Beauty College'
+p1442
+F7204.1999999999998
+F13021
+tp1443
+a(S'Tri-County Technical College'
+p1444
+F9544
+F22663
+tp1445
+a(S'Williamsburg Technical College'
+p1446
+F9773.1000000000004
+F15838
+tp1447
+a(S'Avera McKennan Hospital School of Radiologic Technology'
+p1448
+F14272
+F56286
+tp1449
+a(S'Sioux Falls Seminary'
+p1450
+F42029
+F59651
+tp1451
+a(S'Oglala Lakota College'
+p1452
+F12292
+F6159.3999999999996
+tp1453
+a(S'Avera Sacred Heart Hospital'
+p1454
+F12695
+F49930
+tp1455
+a(S'Sinte Gleska University'
+p1456
+F4896.5
+F11881
+tp1457
+a(S'Sanford Medical Center'
+p1458
+F12779
+F50825
+tp1459
+a(S'Sisseton Wahpeton College'
+p1460
+F8998
+F18381
+tp1461
+a(S'American Baptist College'
+p1462
+F25803
+F21531
+tp1463
+a(S'Tennessee Technology Center at Athens'
+p1464
+F3128.5999999999999
+F22641
+tp1465
+a(S'Pentecostal Theological Seminary'
+p1466
+F42029
+F56143
+tp1467
+a(S'Tennessee Technology Center at Covington'
+p1468
+F10130
+F24381
+tp1469
+a(S'Tennessee Technology Center at Dickson'
+p1470
+F6615.6000000000004
+F22056
+tp1471
+a(S'Tennessee Technology Center at Elizabethton'
+p1472
+F2216
+F23718
+tp1473
+a(S'Emmanuel Christian Seminary'
+p1474
+F42029
+F56774
+tp1475
+a(S'Tennessee Technology Center at Harriman'
+p1476
+F5632.8000000000002
+F18554
+tp1477
+a(S'Tennessee Technology Center at Hartsville'
+p1478
+F3185.5999999999999
+F22474
+tp1479
+a(S'Hiwassee College'
+p1480
+F15562
+F17284
+tp1481
+a(S'Tennessee Technology Center at Hohenwald'
+p1482
+F6756
+F15959
+tp1483
+a(S'Tennessee Technology Center at Jacksboro'
+p1484
+F6316.5
+F23555
+tp1485
+a(S'Jackson State Community College'
+p1486
+F5940.5
+F18454
+tp1487
+a(S'Paul Mitchell the School-Nashville'
+p1488
+F9145.6000000000004
+F15965
+tp1489
+a(S'Knoxville Institute of Hair Design'
+p1490
+F6777.6999999999998
+F13762
+tp1491
+a(S'Le Moyne-Owen College'
+p1492
+F32434
+F18148
+tp1493
+a(S'Tennessee Technology Center at Livingston'
+p1494
+F-1092.3
+F20774
+tp1495
+a(S'Maryville College'
+p1496
+F25077
+F29142
+tp1497
+a(S'Tennessee Technology Center at McKenzie'
+p1498
+F7356.3000000000002
+F20670
+tp1499
+a(S'Meharry Medical College'
+p1500
+F42029
+F54382
+tp1501
+a(S'Tennessee Technology Center at Memphis'
+p1502
+F4604.6000000000004
+F23571
+tp1503
+a(S'Memphis Theological Seminary'
+p1504
+F42029
+F51762
+tp1505
+a(S'Victory University'
+p1506
+F33117
+F21940
+tp1507
+a(S'Middle Tennessee School of Anesthesia Inc'
+p1508
+F42028
+F64535
+tp1509
+a(S'Tennessee Technology Center at Morristown'
+p1510
+F3845.0999999999999
+F20804
+tp1511
+a(S'Tennessee Technology Center at Murfreesboro'
+p1512
+F5344.6000000000004
+F24952
+tp1513
+a(S'Tennessee Technology Center at Newbern'
+p1514
+F7282.3999999999996
+F22465
+tp1515
+a(S'Tennessee Technology Center at Paris'
+p1516
+F2741.5999999999999
+F15912
+tp1517
+a(S'Tennessee Technology Center at Pulaski'
+p1518
+F-17.247
+F24470
+tp1519
+a(S'Tennessee Technology Center at Ripley'
+p1520
+F599.35000000000002
+F23699
+tp1521
+a(S'Tennessee Technology Center at Crump'
+p1522
+F5666.8000000000002
+F23805
+tp1523
+a(S'Southwest Tennessee Community College'
+p1524
+F5501.5
+F19172
+tp1525
+a(S'Tennessee Technology Center at Shelbyville'
+p1526
+F5467
+F23281
+tp1527
+a(S'Tennessee Technology Center at Oneida-Huntsville'
+p1528
+F3214.3000000000002
+F20435
+tp1529
+a(S'Tennessee Technology Center at Crossville'
+p1530
+F1869.4000000000001
+F20275
+tp1531
+a(S'Tennessee Technology Center at McMinnville'
+p1532
+F2098.5
+F20615
+tp1533
+a(S'Tennessee Technology Center at Jackson'
+p1534
+F3213.4000000000001
+F23240
+tp1535
+a(S'Tennessee Technology Center at Knoxville'
+p1536
+F2711.0999999999999
+F20627
+tp1537
+a(S'Tennessee Technology Center at Whiteville'
+p1538
+F3882.5
+F22331
+tp1539
+a(S'Southern College of Optometry'
+p1540
+F42026
+F68893
+tp1541
+a(S'Tennessee School of Beauty of Knoxville Inc'
+p1542
+F7354.3999999999996
+F17088
+tp1543
+a(S'New Concepts School of Cosmetology'
+p1544
+F7278.1000000000004
+F14344
+tp1545
+a(S'William Moore College of Technology'
+p1546
+F14639
+F28242
+tp1547
+a(S'Angelina College'
+p1548
+F3456.4000000000001
+F20800
+tp1549
+a(S'Austin Presbyterian Theological Seminary'
+p1550
+F42030
+F51819
+tp1551
+a(S'Baldwin Beauty School-South Austin'
+p1552
+F6334.1999999999998
+F15484
+tp1553
+a(S'Baptist Health System School of Health Professions'
+p1554
+F12997
+F53082
+tp1555
+a(S'Baptist Missionary Association Theological Seminary'
+p1556
+F16970
+F22750
+tp1557
+a(S'Texas A&M Health Science Center'
+p1558
+F11719
+F57558
+tp1559
+a(S'Baylor College of Medicine'
+p1560
+F42029
+F65682
+tp1561
+a(S'Coastal Bend College'
+p1562
+F6361
+F20049
+tp1563
+a(S'Brookhaven College'
+p1564
+F8600.7999999999993
+F25396
+tp1565
+a(S'Cedar Valley College'
+p1566
+F8184.8999999999996
+F24150
+tp1567
+a(S"Conlee's College of Cosmetology"
+p1568
+F3548
+F14273
+tp1569
+a(S'Dallas Theological Seminary'
+p1570
+F42029
+F61320
+tp1571
+a(S'Eastfield College'
+p1572
+F8203.7000000000007
+F25032
+tp1573
+a(S'El Centro College'
+p1574
+F10608
+F24624
+tp1575
+a(S'University of Houston-Victoria'
+p1576
+F16004
+F41739
+tp1577
+a(S'Jacksonville College-Main Campus'
+p1578
+F11189
+F16640
+tp1579
+a(S'Laredo Beauty College Inc'
+p1580
+F2236.5
+F16484
+tp1581
+a(S'Lubbock Hair Academy'
+p1582
+F4433.8000000000002
+F14301
+tp1583
+a(S'Metroplex Beauty School'
+p1584
+F6389.3000000000002
+F17667
+tp1585
+a(S'Mims Classic Beauty College'
+p1586
+F3898.1999999999998
+F15540
+tp1587
+a(S'Mountain View College'
+p1588
+F8407
+F23651
+tp1589
+a(S'Neilson Beauty College'
+p1590
+F3729.8000000000002
+F15234
+tp1591
+a(S'North Lake College'
+p1592
+F9073.1000000000004
+F26290
+tp1593
+a(S'Oblate School of Theology'
+p1594
+F42030
+F49832
+tp1595
+a(S'Aviation Institute of Maintenance-Houston'
+p1596
+F21147
+F27316
+tp1597
+a(S'Richland College'
+p1598
+F7767.8999999999996
+F25847
+tp1599
+a(S'South Texas Barber College Inc'
+p1600
+F2395.4000000000001
+F11073
+tp1601
+a(S'South Texas College of Law'
+p1602
+F42747
+F68533
+tp1603
+a(S'Texarkana College'
+p1604
+F2305
+F19736
+tp1605
+a(S'Texas Chiropractic College Foundation Inc'
+p1606
+F42029
+F48418
+tp1607
+a(S'University of North Texas Health Science Center'
+p1608
+F42026
+F55765
+tp1609
+a(S'International Renowned Beauty Academy'
+p1610
+F8273.7000000000007
+F14506
+tp1611
+a(S'Bridgerland Applied Technology College'
+p1612
+F1496.9000000000001
+F24768
+tp1613
+a(S"Sherman Kendall's Academy-Sugarhouse"
+p1614
+F7717.1000000000004
+F14826
+tp1615
+a(S'Sherman Kendalls Academy of Beauty Arts & Sciences'
+p1616
+F8651.1000000000004
+F13574
+tp1617
+a(S'Davis Applied Technology College'
+p1618
+F-384.24000000000001
+F15442
+tp1619
+a(S'Evans Hairstyling College-Cedar City'
+p1620
+F7984.3999999999996
+F12213
+tp1621
+a(S'Evans Hairstyling College-St George'
+p1622
+F7048.8000000000002
+F11493
+tp1623
+a(S'Premier Hair Academy'
+p1624
+F7094.6999999999998
+F13991
+tp1625
+a(S'Ogden-Weber Applied Technology College'
+p1626
+F474.94999999999999
+F19109
+tp1627
+a(S'Uintah Basin Applied Technology College'
+p1628
+F-1060.2
+F19687
+tp1629
+a(S'School for International Training'
+p1630
+F42026
+F64943
+tp1631
+a(S'Sterling College'
+p1632
+F21209
+F26597
+tp1633
+a(S'Vermont Law School'
+p1634
+F42026
+F69226
+tp1635
+a(S'Central School of Practical Nursing'
+p1636
+F10648
+F22717
+tp1637
+a(S'Central Virginia Community College'
+p1638
+F4170.8999999999996
+F22760
+tp1639
+a(S'Eastern Virginia Medical School'
+p1640
+F42028
+F45292
+tp1641
+a(S'Eastern Shore Community College'
+p1642
+F4766.6999999999998
+F20220
+tp1643
+a(S'Suffolk Public Schools-Sentara Obici Hospital School of Practical Nursing'
+p1644
+F12122
+F26807
+tp1645
+a(S'Mountain Empire Community College'
+p1646
+F2606.0999999999999
+F17433
+tp1647
+a(S'Tidewater Tech-Trades'
+p1648
+F13472
+F24156
+tp1649
+a(S'Patrick Henry Community College'
+p1650
+F5499
+F18568
+tp1651
+a(S'Paul D Camp Community College'
+p1652
+F7612.3999999999996
+F22003
+tp1653
+a(S'Legends Institute'
+p1654
+F8740.2999999999993
+F15300
+tp1655
+a(S'Rappahannock Community College'
+p1656
+F7427.5
+F18838
+tp1657
+a(S"Bon Secours St Mary's Hospital School of Medical Imaging"
+p1658
+F14972
+F39235
+tp1659
+a(S'Saint Pauls College'
+p1660
+F25901
+F23925
+tp1661
+a(S'Southside Virginia Community College'
+p1662
+F2976.4000000000001
+F20125
+tp1663
+a(S'Southwest Virginia Community College'
+p1664
+F2023.8
+F20045
+tp1665
+a(S'Staunton School of Cosmetology'
+p1666
+F9469.3999999999996
+F17557
+tp1667
+a(S'Union Presbyterian Seminary'
+p1668
+F42030
+F60300
+tp1669
+a(S'Virginia Highlands Community College'
+p1670
+F4107.3000000000002
+F19170
+tp1671
+a(S'Virginia School of Hair Design'
+p1672
+F5810.3000000000002
+F13824
+tp1673
+a(S'Virginia University of Lynchburg'
+p1674
+F25096
+F16654
+tp1675
+a(S'Washington County Adult Skill Center'
+p1676
+F4767.1999999999998
+F19625
+tp1677
+a(S'Woodrow Wilson Rehabilitation Center'
+p1678
+F3735.0999999999999
+F23683
+tp1679
+a(S'Evergreen Beauty & Barber College-Bellevue'
+p1680
+F11215
+F14828
+tp1681
+a(S'Centralia College'
+p1682
+F7041
+F19261
+tp1683
+a(S'Trinity Lutheran College'
+p1684
+F20999
+F34308
+tp1685
+a(S'Cascade Beauty College'
+p1686
+F8330.2999999999993
+F12482
+tp1687
+a(S'Seattle Community College-North Campus'
+p1688
+F10650
+F25502
+tp1689
+a(S'Seattle Community College-South Campus'
+p1690
+F11780
+F26893
+tp1691
+a(S'Seattle Community College-Central Campus'
+p1692
+F6655.8000000000002
+F22852
+tp1693
+a(S'Appalachian Beauty School'
+p1694
+F8524.2000000000007
+F11881
+tp1695
+a(S'B M Spurr School of Practical Nursing'
+p1696
+F7825
+F26396
+tp1697
+a(S'Ben Franklin Career Center'
+p1698
+F5223.3999999999996
+F24784
+tp1699
+a(S'Cabell County Career Technology Center'
+p1700
+F5945.8999999999996
+F23360
+tp1701
+a(S'HRDE-Stanley Technical Institute-Clarksburg'
+p1702
+F5692.3000000000002
+F19443
+tp1703
+a(S'James Rumsey Technical Institute'
+p1704
+F3422.1999999999998
+F26739
+tp1705
+a(S'Ralph R Willis Career and Technical Center'
+p1706
+F4161.5
+F18373
+tp1707
+a(S'Mercer County Technical Education Center'
+p1708
+F935.85000000000002
+F22847
+tp1709
+a(S'Meredith Manor International Equestrian Center'
+p1710
+F11099
+F25473
+tp1711
+a(S'Monongalia County Technical Education Center'
+p1712
+F4667.8999999999996
+F24813
+tp1713
+a(S'Academy of Careers and Technology'
+p1714
+F4070.3000000000002
+F17962
+tp1715
+a(S'Southern West Virginia Community and Technical College'
+p1716
+F6515.3000000000002
+F17157
+tp1717
+a(S'Fred W Eberle Technical Center'
+p1718
+F1134.9000000000001
+F21314
+tp1719
+a(S'West Virginia School of Osteopathic Medicine'
+p1720
+F27291
+F60307
+tp1721
+a(S'West Virginia University Hospital Departments of Rad Tech and Nutrition'
+p1722
+F8943.5
+F39040
+tp1723
+a(S'West Virginia Northern Community College'
+p1724
+F15300
+F21916
+tp1725
+a(S'Wood County School of Practical Nursing'
+p1726
+F10086
+F27546
+tp1727
+a(S'Columbia College of Nursing'
+p1728
+F18981
+F253340
+tp1729
+a(S'Medical College of Wisconsin'
+p1730
+F42025
+F45659
+tp1731
+a(S'Nashotah House'
+p1732
+F42029
+F48605
+tp1733
+a(S'Sacred Heart School of Theology'
+p1734
+F42029
+F49284
+tp1735
+a(S'Wisconsin School of Professional Psychology'
+p1736
+F42027
+F40770
+tp1737
+a(S'Casper College'
+p1738
+F6896.6999999999998
+F26501
+tp1739
+a(S'American Samoa Community College'
+p1740
+F-2057.8000000000002
+F20766
+tp1741
+a(S'Guam Community College'
+p1742
+F642.21000000000004
+F32948
+tp1743
+a(S'University of Guam'
+p1744
+F7756.6999999999998
+F32775
+tp1745
+a(S'Northern Marianas College'
+p1746
+F-5059.8000000000002
+F26589
+tp1747
+a(S'Institute of Beauty Careers'
+p1748
+F-238.22
+F10258
+tp1749
+a(S'Educational Technical College-Recinto de Bayamon'
+p1750
+F-468.75999999999999
+F11063
+tp1751
+a(S'American Educational College'
+p1752
+F-588.71000000000004
+F10124
+tp1753
+a(S'Antilles School of Technical Careers'
+p1754
+F3230.9000000000001
+F15246
+tp1755
+a(S'Columbia Centro Universitario-Caguas'
+p1756
+F5297.5
+F8499.7999999999993
+tp1757
+a(S'Universidad Teologica del Caribe'
+p1758
+F6579.5
+F16733
+tp1759
+a(S'Colegio Universitario de San Juan'
+p1760
+F3312.9000000000001
+F19023
+tp1761
+a(S'Center for Advanced Studies On Puerto Rico & the Caribbean'
+p1762
+F42027
+F40622
+tp1763
+a(S"Emma's Beauty Academy-Mayaguez"
+p1764
+F-623.23000000000002
+F11355
+tp1765
+a(S'Escuela de Artes Plasticas de Puerto Rico'
+p1766
+F4869.3999999999996
+F11753
+tp1767
+a(S'Instituto Tecnologico de Puerto Rico- Recinto de Manati'
+p1768
+F1023.9
+F18943
+tp1769
+a(S'Humacao Community College'
+p1770
+F3637.5
+F15569
+tp1771
+a(S'ICPR Junior College-Arecibo'
+p1772
+F2715.1999999999998
+F8382.6000000000004
+tp1773
+a(S'ICPR Junior College-Mayaguez'
+p1774
+F3113.3000000000002
+F7878.1000000000004
+tp1775
+a(S'Instituto de Educacion Tecnica Ocupacional La Reine-Manati'
+p1776
+F-2502.1999999999998
+F11841
+tp1777
+a(S'Hispanic American College'
+p1778
+F-2796
+F15090
+tp1779
+a(S'Instituto Tecnologico de Puerto Rico-Recinto de Guayama'
+p1780
+F1253.9000000000001
+F15425
+tp1781
+a(S'Instituto Tecnologico de Puerto Rico-Recinto de Ponce'
+p1782
+F626.37
+F18367
+tp1783
+a(S'Instituto Tecnologico de Puerto Rico-Recinto de San Juan'
+p1784
+F814.21000000000004
+F18317
+tp1785
+a(S'Inter American University of Puerto Rico-School of Law'
+p1786
+F43092
+F25011
+tp1787
+a(S'International Technical College'
+p1788
+F-652.20000000000005
+F14830
+tp1789
+a(S'MBTI Business Training Institute'
+p1790
+F-3383.5
+F8340.7999999999993
+tp1791
+a(S'Modern Hairstyling Institute'
+p1792
+F-1397.3
+F11341
+tp1793
+a(S'Modern Hairstyling Institute'
+p1794
+F-563.46000000000004
+F14222
+tp1795
+a(S'Ponce School of Medicine and Health Sciences'
+p1796
+F42030
+F47925
+tp1797
+a(S'University of Puerto Rico-Aguadilla'
+p1798
+F6456.5
+F23392
+tp1799
+a(S'University of Puerto Rico-Arecibo'
+p1800
+F12893
+F23418
+tp1801
+a(S'University of Puerto Rico-Bayamon'
+p1802
+F7482.3999999999996
+F25481
+tp1803
+a(S'University of Puerto Rico-Carolina'
+p1804
+F12065
+F25217
+tp1805
+a(S'University of Puerto Rico-Cayey'
+p1806
+F8705.3999999999996
+F23496
+tp1807
+a(S'University of Puerto Rico-Humacao'
+p1808
+F10672
+F25888
+tp1809
+a(S'University of Puerto Rico-Utuado'
+p1810
+F5489.6999999999998
+F21381
+tp1811
+a(S'University of Puerto Rico-Mayaguez'
+p1812
+F14854
+F27788
+tp1813
+a(S'University of Puerto Rico-Medical Sciences'
+p1814
+F7610
+F41025
+tp1815
+a(S'University of Puerto Rico-Ponce'
+p1816
+F9177.7000000000007
+F21830
+tp1817
+a(S'University of Puerto Rico-Rio Piedras'
+p1818
+F11316
+F24534
+tp1819
+a(S'Ryder Memorial School for Practical Nursing'
+p1820
+F-1475.7
+F16206
+tp1821
+a(S'Rogies School of Beauty Culture-Santurce'
+p1822
+F1284
+F11938
+tp1823
+a(S'Seminario Evangelico de Puerto Rico'
+p1824
+F42030
+F45024
+tp1825
+a(S'Universidad Central Del Caribe'
+p1826
+F-1638.8
+F22902
+tp1827
+a(S'College of Micronesia-FSM'
+p1828
+F-6797.8999999999996
+F15454
+tp1829
+a(S'Palau Community College'
+p1830
+F-1017.3
+F36584
+tp1831
+a(S'ICPR Junior College-General Institutional'
+p1832
+F1983.9000000000001
+F8404.2999999999993
+tp1833
+a(S'Georgia Piedmont Technical College'
+p1834
+F6466.1000000000004
+F22559
+tp1835
+a(S'Traxlers School of Hair'
+p1836
+F3999.0999999999999
+F14505
+tp1837
+a(S'Yeshiva and Kollel Harbotzas Torah'
+p1838
+F13974
+F40563
+tp1839
+a(S'Bais Medrash Elyon'
+p1840
+F11164
+F29662
+tp1841
+a(S'Antioch University-New England'
+p1842
+F43286
+F45240
+tp1843
+a(S'Ponca City Beauty College'
+p1844
+F5169.3999999999996
+F12847
+tp1845
+a(S'Central Technology Center'
+p1846
+F1518.0999999999999
+F23458
+tp1847
+a(S'Houston Graduate School of Theology'
+p1848
+F42027
+F56015
+tp1849
+a(S'Central Texas Beauty College-Round Rock'
+p1850
+F2485.0999999999999
+F14863
+tp1851
+a(S'Unification Theological Seminary'
+p1852
+F42023
+F55306
+tp1853
+a(S'Athens Technical College'
+p1854
+F4341.8999999999996
+F20205
+tp1855
+a(S'Headmasters School of Hair Design'
+p1856
+F13771
+F14333
+tp1857
+a(S'Ecumenical Theological Seminary'
+p1858
+F8044.6999999999998
+F30519
+tp1859
+a(S'Yeshiva Gedolah of Greater Detroit'
+p1860
+F17852
+F16873
+tp1861
+a(S'Austin Graduate School of Theology'
+p1862
+F15299
+F35231
+tp1863
+a(S'Collin County Community College District'
+p1864
+F10803
+F29013
+tp1865
+a(S'Ingalls Memorial Hospital Dietetic Internship'
+p1866
+F16319
+F39081
+tp1867
+a(S'Heads West Kentucky Beauty College'
+p1868
+F6476.6999999999998
+F10917
+tp1869
+a(S'Jenny Lea Academy of Cosmetology'
+p1870
+F8415.3999999999996
+F11518
+tp1871
+a(S'Southeast School of Cosmetology'
+p1872
+F9091.7999999999993
+F12089
+tp1873
+a(S'Cloyds Beauty School 3 Inc'
+p1874
+F5863.3999999999996
+F14828
+tp1875
+a(S'Moore Norman Technology Center'
+p1876
+F7712.3000000000002
+F33269
+tp1877
+a(S'Paul Mitchell The School-Knoxville'
+p1878
+F7834.3999999999996
+F11816
+tp1879
+a(S'Okefenokee Technical College'
+p1880
+F6559.6000000000004
+F18867
+tp1881
+a(S'Red River Technology Center'
+p1882
+F3199.4000000000001
+F22121
+tp1883
+a(S'Clinton Technical School'
+p1884
+F9365.6000000000004
+F19340
+tp1885
+a(S'Greene County Career and Technology Center'
+p1886
+F12709
+F29899
+tp1887
+a(S'Lac Courte Oreilles Ojibwa Community College'
+p1888
+F1501.7
+F7451.8000000000002
+tp1889
+a(S'Christian Life College'
+p1890
+F25500
+F28257
+tp1891
+a(S'Knowledge Systems Institute'
+p1892
+F42034
+F51129
+tp1893
+a(S'Tulsa Technology Center-Lemley Campus'
+p1894
+F3013.5
+F26408
+tp1895
+a(S'Tulsa Technology Center-Riverside Campus'
+p1896
+F15393
+F35822
+tp1897
+a(S'Tulsa Technology Center-Broken Arrow Campus'
+p1898
+F3148.3000000000002
+F25041
+tp1899
+a(S'Taylortown School of Beauty Inc'
+p1900
+F6698
+F12058
+tp1901
+a(S'Pike-Lincoln Technical Center'
+p1902
+F8224.5
+F28236
+tp1903
+a(S'Bethel Seminary San Diego'
+p1904
+F43746
+F48731
+tp1905
+a(S'Brandman University'
+p1906
+F24637
+F40833
+tp1907
+a(S'Adrians Beauty College of Turlock'
+p1908
+F8565.8999999999996
+F12657
+tp1909
+a(S'California Career School'
+p1910
+F-4230.8000000000002
+F30399
+tp1911
+a(S'Rolf Institute of Structural Integration (The)'
+p1912
+F12436
+F39193
+tp1913
+a(S'Empire Beauty School-Highland'
+p1914
+F17919
+F13792
+tp1915
+a(S"Raphael's School of Beauty Culture Inc-Alliance"
+p1916
+F10618
+F15113
+tp1917
+a(S'Yeshivah Gedolah Rabbinical College'
+p1918
+F15515
+F29556
+tp1919
+a(S'University of the District of Columbia David A Clarke School of Law'
+p1920
+F43135
+F47514
+tp1921
+a(S'Paradise Valley Community College'
+p1922
+F8247.8999999999996
+F26422
+tp1923
+a(S'St Johns Hospital School of Clinical Lab Science'
+p1924
+F13467
+F39530
+tp1925
+a(S'Great Plains Technology Center'
+p1926
+F3723.0999999999999
+F30646
+tp1927
+a(S'Roane-Jackson Technical Center'
+p1928
+F7073.3999999999996
+F20387
+tp1929
+a(S'Total Cosmetology Training Center'
+p1930
+F7458.3999999999996
+F11439
+tp1931
+a(S'Pioneer Technology Center'
+p1932
+F4183.3999999999996
+F16572
+tp1933
+a(S'Bell Mar Beauty College'
+p1934
+F2281.8000000000002
+F12929
+tp1935
+a(S'Cannella School of Hair Design-Chicago'
+p1936
+F2403.6999999999998
+F12978
+tp1937
+a(S'Caddo Kiowa Technology Center'
+p1938
+F3594.5999999999999
+F18863
+tp1939
+a(S'Southern Oklahoma Technology Center'
+p1940
+F3073.9000000000001
+F21885
+tp1941
+a(S'Autry Technology Center'
+p1942
+F8202.2000000000007
+F28821
+tp1943
+a(S'Canadian Valley Technology Center'
+p1944
+F2164
+F22461
+tp1945
+a(S'Mayo Graduate School'
+p1946
+F41682
+F47019
+tp1947
+a(S'American Beauty Institute'
+p1948
+F8444.7000000000007
+F11912
+tp1949
+a(S'Meridian Technology Center'
+p1950
+F1168.5
+F22399
+tp1951
+a(S'Connecticut Institute of Hair Design'
+p1952
+F7471
+F19641
+tp1953
+a(S'Morris County Vocational School District'
+p1954
+F8682.2000000000007
+F34947
+tp1955
+a(S'South Florida Bible College and Theological Seminary'
+p1956
+F21432
+F17401
+tp1957
+a(S'Cloyds Beauty School 2 Inc'
+p1958
+F5337.3999999999996
+F12952
+tp1959
+a(S'Stone Child College'
+p1960
+F1461.5
+F11062
+tp1961
+a(S'New York Academy of Art'
+p1962
+F42025
+F62624
+tp1963
+a(S'Las Positas College'
+p1964
+F7055.6000000000004
+F24729
+tp1965
+a(S'Altamaha Technical College'
+p1966
+F7311.6999999999998
+F18637
+tp1967
+a(S"Mercy/St Luke's School of Radiologic Technology"
+p1968
+F13349
+F51869
+tp1969
+a(S'Southwest Acupuncture College-Santa Fe'
+p1970
+F42021
+F48450
+tp1971
+a(S'Northwest Technology Center-Alva'
+p1972
+F2253.5
+F20092
+tp1973
+a(S"DeVry University's Keller Graduate School of Management-Arizona"
+p1974
+F25027
+F50315
+tp1975
+a(S"DeVry University's Keller Graduate School of Management-Missouri"
+p1976
+F25023
+F51351
+tp1977
+a(S'Baptist Theological Seminary at Richmond'
+p1978
+F42029
+F48555
+tp1979
+a(S'Hair Arts Academy'
+p1980
+F7702.8999999999996
+F14831
+tp1981
+a(S'Madera Beauty College'
+p1982
+F7273.1000000000004
+F12795
+tp1983
+a(S'Colorado Heights University'
+p1984
+F11259
+F26489
+tp1985
+a(S'Brewster Technical Center'
+p1986
+F5091.5
+F21743
+tp1987
+a(S'University of St Augustine for Health Sciences'
+p1988
+F43749
+F60673
+tp1989
+a(S'Hannibal Career and Technical Center'
+p1990
+F6363.1999999999998
+F38427
+tp1991
+a(S'Southwest Technology Center'
+p1992
+F4611.6000000000004
+F32385
+tp1993
+a(S'Mineral County Vocational Technical Center'
+p1994
+F9574.2000000000007
+F19318
+tp1995
+a(S'Thanh Le College School of Cosmetology'
+p1996
+F5014.8000000000002
+F21987
+tp1997
+a(S'Massachusetts School of Law'
+p1998
+F42025
+F67498
+tp1999
+a(S'Dahls College of Beauty'
+p2000
+F9672.8999999999996
+F15089
+tp2001
+a(S'D G Erwin Technical Center'
+p2002
+F4632.6999999999998
+F29411
+tp2003
+a(S'Rosel School of Cosmetology'
+p2004
+F3706.5
+F17396
+tp2005
+a(S'Oregon College of Oriental Medicine'
+p2006
+F42026
+F44342
+tp2007
+a(S'Central Pennsylvania Institute of Science and Technology'
+p2008
+F7238.5
+F38062
+tp2009
+a(S'Northwest Educational Center'
+p2010
+F4964.1000000000004
+F13193
+tp2011
+a(S'Windham Memorial Hospital-Radiologic Technology Program'
+p2012
+F13720
+F59259
+tp2013
+a(S'Bethel Seminary of the East'
+p2014
+F20261
+F48642
+tp2015
+a(S'Hamrick School'
+p2016
+F6727.1999999999998
+F22870
+tp2017
+a(S'Alabama State College of Barber Styling'
+p2018
+F4603.6999999999998
+F12324
+tp2019
+a(S'Arkansas Beauty School'
+p2020
+F9299
+F14001
+tp2021
+a(S'Downey Adult School'
+p2022
+F9144.3999999999996
+F26687
+tp2023
+a(S'Thuy Princess Beauty College'
+p2024
+F-428.57999999999998
+F15261
+tp2025
+a(S'Pomona Unified School District Adult and Career Education'
+p2026
+F3325.5
+F21660
+tp2027
+a(S'Universal College of Beauty Inc-Los Angeles 2'
+p2028
+F9175.1000000000004
+F12529
+tp2029
+a(S'Jonesville Beauty School'
+p2030
+F8263
+F14783
+tp2031
+a(S'New England Hair Academy'
+p2032
+F2691.5
+F15211
+tp2033
+a(S'Upper Cape Cod Regional Technical School'
+p2034
+F7890
+F39009
+tp2035
+a(S'Adler Graduate School'
+p2036
+F42027
+F58671
+tp2037
+a(S'Lebanon Technology and Career Center'
+p2038
+F11618
+F19588
+tp2039
+a(S'Final Touch Beauty School'
+p2040
+F2821
+F10668
+tp2041
+a(S'Mitchells Hairstyling Academy-Goldsboro'
+p2042
+F6856.3999999999996
+F17918
+tp2043
+a(S"Yeshiva Gedolah Imrei Yosef D'spinka"
+p2044
+F9423.7999999999993
+F20868
+tp2045
+a(S'Madison Adult Career Center'
+p2046
+F4728.3000000000002
+F22094
+tp2047
+a(S'US Grant Joint Vocational School'
+p2048
+F9512.8999999999996
+F38816
+tp2049
+a(S'Chisholm Trail Technology Center'
+p2050
+F2679.3000000000002
+F18633
+tp2051
+a(S'Gordon Cooper Technology Center'
+p2052
+F2022.5
+F25123
+tp2053
+a(S'Kiamichi Technology Center-Atoka'
+p2054
+F3646.5999999999999
+F16241
+tp2055
+a(S'Kiamichi Technology Center-Durant'
+p2056
+F5567.1000000000004
+F19600
+tp2057
+a(S'Kiamichi Technology Center-Hugo'
+p2058
+F4739.6000000000004
+F16209
+tp2059
+a(S'Kiamichi Technology Center-McAlester'
+p2060
+F4706.3000000000002
+F16952
+tp2061
+a(S'Kiamichi Technology Center-Idabel'
+p2062
+F5841.8000000000002
+F16195
+tp2063
+a(S'Kiamichi Technology Center-Poteau'
+p2064
+F4934.6999999999998
+F17457
+tp2065
+a(S'Kiamichi Technology Center-Spiro'
+p2066
+F4548.8999999999996
+F19465
+tp2067
+a(S'Kiamichi Technology Center-Talihina'
+p2068
+F1706.4000000000001
+F21610
+tp2069
+a(S'Colegio Mayor de Tecnologia Inc'
+p2070
+F-400.19
+F14806
+tp2071
+a(S'Institucion Chaviano de Mayaguez'
+p2072
+F-2013.4000000000001
+F15180
+tp2073
+a(S'EDIC College'
+p2074
+F-998.61000000000001
+F12302
+tp2075
+a(S'Liceo de Arte-Dise-O y Comercio'
+p2076
+F-870.67999999999995
+F9508.5
+tp2077
+a(S'Universal Technology College of Puerto Rico'
+p2078
+F-311.19999999999999
+F12819
+tp2079
+a(S'Mr Waynes School of Unisex Hair Design'
+p2080
+F7818
+F15278
+tp2081
+a(S'Queen City College'
+p2082
+F4340
+F14134
+tp2083
+a(S'College of the Marshall Islands'
+p2084
+F-4859.5
+F41163
+tp2085
+a(S'SW School of Business and Technical Careers-Cosmetology'
+p2086
+F6913.8999999999996
+F14962
+tp2087
+a(S'SW School of Business and Technical Careers'
+p2088
+F6393.5
+F12920
+tp2089
+a(S'Texas College of Cosmetology-Abilene'
+p2090
+F5892.1000000000004
+F11795
+tp2091
+a(S'Virginia Beach City Public Schools School of Practical Nursing'
+p2092
+F12145
+F26855
+tp2093
+a(S'Northwest College of Art'
+p2094
+F26554
+F17371
+tp2095
+a(S'Valley College-Princeton'
+p2096
+F10260
+F16260
+tp2097
+a(S'Pacific College of Oriental Medicine LLC-San Diego'
+p2098
+F15973
+F32665
+tp2099
+a(S"Cain's Barber College Inc"
+p2100
+F6956.3999999999996
+F13730
+tp2101
+a(S'Astrodome Career Centers'
+p2102
+F6032.5
+F19584
+tp2103
+a(S'Houston Training School-Jacinto City'
+p2104
+F3153.8000000000002
+F12177
+tp2105
+a(S'Bay Mills Community College'
+p2106
+F1354.2
+F15267
+tp2107
+a(S'Northwest Indian College'
+p2108
+F6111.3999999999996
+F12091
+tp2109
+a(S'Marinello Schools of Beauty-Ogden'
+p2110
+F8038
+F10801
+tp2111
+a(S'Colorado School of Traditional Chinese Medicine'
+p2112
+F42020
+F50229
+tp2113
+a(S'Massage Therapy Institute of Colorado'
+p2114
+F10837
+F20662
+tp2115
+a(S'Phoenix Seminary'
+p2116
+F42025
+F47725
+tp2117
+a(S'Seattle Vocational Institute'
+p2118
+F12045
+F24474
+tp2119
+a(S'Healing Arts Institute'
+p2120
+F8346.8999999999996
+F34556
+tp2121
+a(S'Mt Diablo Adult Education'
+p2122
+F6699.3999999999996
+F27515
+tp2123
+a(S'Midwest College of Oriental Medicine-Racine'
+p2124
+F20081
+F47784
+tp2125
+a(S'Hacienda La Puente Adult Education'
+p2126
+F5240.6999999999998
+F21020
+tp2127
+a(S'Advanced Technical Centers'
+p2128
+F9326
+F24103
+tp2129
+a(S'Buckeye Joint Vocational School'
+p2130
+F1379.4000000000001
+F17954
+tp2131
+a(S'Northeastern Hospital School of Nursing'
+p2132
+F17106
+F64418
+tp2133
+a(S'Central Texas Beauty College-Temple'
+p2134
+F2630.1999999999998
+F14381
+tp2135
+a(S'Dance Theatre of Harlem Inc'
+p2136
+F13507
+F37190
+tp2137
+a(S'Houston Training School-Gulfgate'
+p2138
+F4353.5
+F12548
+tp2139
+a(S'Beacon College'
+p2140
+F27374
+F36972
+tp2141
+a(S'Acupuncture and Integrative Medicine College-Berkeley'
+p2142
+F42026
+F55941
+tp2143
+a(S'Rabbi Jacob Joseph School'
+p2144
+F18303
+F20685
+tp2145
+a(S"Seminar L'moros Bais Yaakov"
+p2146
+F-2485.5999999999999
+F18539
+tp2147
+a(S'Coral Ridge Nurses Assistant Training School Inc'
+p2148
+F6196.1000000000004
+F27794
+tp2149
+a(S'Emil Fries Piano Hospital and Training Center'
+p2150
+F21266
+F50322
+tp2151
+a(S'Fairview Beauty Academy'
+p2152
+F5784.3999999999996
+F13746
+tp2153
+a(S'Inner State Beauty School'
+p2154
+F6854.8000000000002
+F13997
+tp2155
+a(S'Polaris Career Center'
+p2156
+F6147.6000000000004
+F25808
+tp2157
+a(S'P&A Scholars Beauty School'
+p2158
+F9376.7000000000007
+F11400
+tp2159
+a(S'ICC Technical Institute'
+p2160
+F5536.3000000000002
+F21422
+tp2161
+a(S'School of Professional Horticulture at the New York Botanical Garden'
+p2162
+F16123
+F48068
+tp2163
+a(S'Chicago ORT Technical Institute'
+p2164
+F5636.8999999999996
+F23130
+tp2165
+a(S'Alhambra Beauty College'
+p2166
+F1296.3
+F13452
+tp2167
+a(S'American Auto Institute'
+p2168
+F8674.2000000000007
+F20514
+tp2169
+a(S'Asian American International Beauty College'
+p2170
+F615.74000000000001
+F20355
+tp2171
+a(S'Avance Beauty College'
+p2172
+F7057.8999999999996
+F15322
+tp2173
+a(S'Copper Mountain Community College'
+p2174
+F9205.2000000000007
+F21345
+tp2175
+a(S'Bristol University'
+p2176
+F11607
+F37577
+tp2177
+a(S'Soka University of America'
+p2178
+F17823
+F34015
+tp2179
+a(S'Advance Beauty College'
+p2180
+F2736
+F23055
+tp2181
+a(S'World Mission University'
+p2182
+F14342
+F12025
+tp2183
+a(S'Yo San University of Traditional Chinese Medicine'
+p2184
+F42026
+F58435
+tp2185
+a(S'Coast Career Institute'
+p2186
+F4065
+F14230
+tp2187
+a(S'Widener University-Harrisburg Campus'
+p2188
+F43084
+F51021
+tp2189
+a(S'American Institute of Interior Design'
+p2190
+F10284
+F18359
+tp2191
+a(S'Inter American University of Puerto Rico-School of Optometry'
+p2192
+F43091
+F23199
+tp2193
+a(S'Schiller International University'
+p2194
+F30504
+F29697
+tp2195
+a(S"Emma's Beauty Academy-Juana Diaz"
+p2196
+F-1389.9000000000001
+F10244
+tp2197
+a(S'Columbia Centro Universitario-Yauco'
+p2198
+F6938.8999999999996
+F8792.3999999999996
+tp2199
+a(S'Yeshivas Novominsk'
+p2200
+F16012
+F17702
+tp2201
+a(S'Kiamichi Technology Center-Stigler'
+p2202
+F-472.18000000000001
+F22021
+tp2203
+a(S'Rabbinical College of Ohr Shimon Yisroel'
+p2204
+F7982.3000000000002
+F37763
+tp2205
+a(S'Carroll Community College'
+p2206
+F5477.1999999999998
+F20352
+tp2207
+a(S'Southeastern Beauty School-Columbus Midtown'
+p2208
+F8595.2999999999993
+F13725
+tp2209
+a(S'Delaware Area Career Center'
+p2210
+F4758.6000000000004
+F17912
+tp2211
+a(S'Mahoning County Career and Technical Center'
+p2212
+F4999.6999999999998
+F19783
+tp2213
+a(S'Pioneer Career and Technology Center'
+p2214
+F7559.1000000000004
+F22419
+tp2215
+a(S"Raphael's School of Beauty Culture Inc-Boardman"
+p2216
+F9784.5
+F14332
+tp2217
+a(S'Northwest Technology Center-Fairview'
+p2218
+F1965.9000000000001
+F18627
+tp2219
+a(S'Lake Erie College of Osteopathic Medicine'
+p2220
+F42023
+F65218
+tp2221
+a(S'Warren County Career Center'
+p2222
+F4279.1999999999998
+F31578
+tp2223
+a(S'Pinnacle Institute of Cosmetology'
+p2224
+F6938.6999999999998
+F17556
+tp2225
+a(S'Nouvelle Institute'
+p2226
+F4293.5
+F14873
+tp2227
+a(S'Professional Technical Institution Inc'
+p2228
+F-597.51999999999998
+F15106
+tp2229
+a(S'Erikson Institute'
+p2230
+F35808
+F50682
+tp2231
+a(S'South Texas College'
+p2232
+F6209.3999999999996
+F17568
+tp2233
+a(S'Pike County Joint Vocational School District'
+p2234
+F6595.3999999999996
+F17503
+tp2235
+a(S'Roger Williams University School of Law'
+p2236
+F42769
+F49105
+tp2237
+a(S'Academy of Somatic Healing Arts'
+p2238
+F10189
+F18616
+tp2239
+a(S'Ann Arbor Institute of Massage Therapy'
+p2240
+F8739.5
+F20197
+tp2241
+a(S'EINE Inc'
+p2242
+F7998.1999999999998
+F16122
+tp2243
+a(S'Cleveland Clinic Health System-School of Diagnostic Imaging'
+p2244
+F15564
+F53867
+tp2245
+a(S'Shawsheen Valley Regional Vocational Technical School'
+p2246
+F7840.1999999999998
+F38432
+tp2247
+a(S'Shear Ego International School of Hair Design'
+p2248
+F4691.1000000000004
+F14556
+tp2249
+a(S'Fayette Institute of Technology'
+p2250
+F6588
+F16675
+tp2251
+a(S'College of Menominee Nation'
+p2252
+F2831.4000000000001
+F14195
+tp2253
+a(S'Southwest Acupuncture College-Albuquerque'
+p2254
+F27733
+F48404
+tp2255
+a(S'East San Gabriel Valley Regional Occupational Program'
+p2256
+F7584.3000000000002
+F18435
+tp2257
+a(S'Yukon Beauty College Inc'
+p2258
+F7554
+F12848
+tp2259
+a(S'Salon Academy'
+p2260
+F8474.5
+F13723
+tp2261
+a(S'Phagans Newport Academy of Cosmetology Careers'
+p2262
+F10404
+F17607
+tp2263
+a(S'Baldwin Beauty School-North Austin'
+p2264
+F6859
+F15847
+tp2265
+a(S'Cosmetology Schools Inc'
+p2266
+F5567.8999999999996
+F11478
+tp2267
+a(S'Pacific College of Oriental Medicine-New York'
+p2268
+F21231
+F33824
+tp2269
+a(S'Honors Beauty College'
+p2270
+F10716
+F14904
+tp2271
+a(S'Phillips Theological Seminary'
+p2272
+F42027
+F57897
+tp2273
+a(S'Faris Technical Institute Inc'
+p2274
+F7795.1999999999998
+F19163
+tp2275
+a(S'Paul Mitchell the School-Huntsville'
+p2276
+F10076
+F11210
+tp2277
+a(S'Baldwin Park Adult & Community Education'
+p2278
+F3691
+F21935
+tp2279
+a(S'Albert I Prince Technical High School'
+p2280
+F8790.7999999999993
+F34936
+tp2281
+a(S'Bullard-Havens Technical High School'
+p2282
+F15631
+F44395
+tp2283
+a(S'Howell Cheney Technical High School'
+p2284
+F8411
+F34205
+tp2285
+a(S'W F Kaynor Technical High School'
+p2286
+F10358
+F40148
+tp2287
+a(S'Platt Technical High School'
+p2288
+F12040
+F29912
+tp2289
+a(S'Augusta Area Dietetic Internship-University Hospital'
+p2290
+F16750
+F40368
+tp2291
+a(S"Michael's School of Beauty"
+p2292
+F10264
+F14630
+tp2293
+a(S'Hastings Beauty School'
+p2294
+F9192.6000000000004
+F16751
+tp2295
+a(S'Kirksville Area Technical Center'
+p2296
+F7755.6000000000004
+F23634
+tp2297
+a(S'Saline County Career Center'
+p2298
+F7591.5
+F29917
+tp2299
+a(S'Cass Career Center'
+p2300
+F9216.7999999999993
+F34973
+tp2301
+a(S'Central College of Cosmetology'
+p2302
+F5160.6000000000004
+F11523
+tp2303
+a(S'Dallas County Technical Center'
+p2304
+F10686
+F26014
+tp2305
+a(S'Messenger College'
+p2306
+F22315
+F14896
+tp2307
+a(S'Clinton Essex Warren Washington BOCES-Practical Nursing Program'
+p2308
+F9823.1000000000004
+F36489
+tp2309
+a(S'Broome Delaware Tioga BOCES-Practical Nursing Program'
+p2310
+F9543.8999999999996
+F33931
+tp2311
+a(S'Charles Stuart School of Diamond Setting'
+p2312
+F9681.2000000000007
+F24853
+tp2313
+a(S'Penta County Joint Vocational School'
+p2314
+F9621.6000000000004
+F25950
+tp2315
+a(S'Career and Technology Education Centers of Licking County'
+p2316
+F3163.0999999999999
+F24701
+tp2317
+a(S'Washington County Career Center-Adult Technical Training'
+p2318
+F8998.3999999999996
+F25049
+tp2319
+a(S'Vantage Career Center'
+p2320
+F4175.1000000000004
+F21368
+tp2321
+a(S'Tri County Technology Center'
+p2322
+F2886.9000000000001
+F18429
+tp2323
+a(S'Indian Capital Technology Center-Muskogee'
+p2324
+F3366.9000000000001
+F20592
+tp2325
+a(S'Western Technology Center'
+p2326
+F3032.5999999999999
+F15006
+tp2327
+a(S'Mid-America Technology Center'
+p2328
+F3888.4000000000001
+F17034
+tp2329
+a(S'Northeast Technology Center-Pryor'
+p2330
+F3342.5
+F18218
+tp2331
+a(S'Eastern Oklahoma County Technology Center'
+p2332
+F3372.4000000000001
+F14404
+tp2333
+a(S'Wes Watkins Technology Center'
+p2334
+F4819.5
+F25344
+tp2335
+a(S'Technical Institute of Cosmetology Arts and Sciences'
+p2336
+F9473.7000000000007
+F12751
+tp2337
+a(S'Jefferson County Dubois Area Vocational Technical Practical Nursing Program'
+p2338
+F12901
+F35398
+tp2339
+a(S'Venango County Area Vocational Technical School'
+p2340
+F10100
+F30713
+tp2341
+a(S'Indiana County Technology Center'
+p2342
+F12362
+F24662
+tp2343
+a(S'Northern Tier Career Center'
+p2344
+F11420
+F33331
+tp2345
+a(S'Hazleton Area Career Center'
+p2346
+F11912
+F33644
+tp2347
+a(S'Carlos F Daniels Area Vocational School'
+p2348
+F2117
+F13481
+tp2349
+a(S'Serbias Technical College'
+p2350
+F-1016.9
+F11675
+tp2351
+a(S'Colegio Tecnologico y Comercial de Puerto Rico'
+p2352
+F-1604.4000000000001
+F15404
+tp2353
+a(S'Quality Technical and Beauty College'
+p2354
+F-513.83000000000004
+F12423
+tp2355
+a(S"D'Mart Institute"
+p2356
+F-4033.3000000000002
+F11041
+tp2357
+a(S'North Central Institute'
+p2358
+F18374
+F28331
+tp2359
+a(S'Pipo Academy of Hair Design'
+p2360
+F1482.4000000000001
+F14883
+tp2361
+a(S'United Technical Center'
+p2362
+F8527.8999999999996
+F22970
+tp2363
+a(S'Charles H McCann Technical School'
+p2364
+F8135.5
+F28599
+tp2365
+a(S'Mercy Hospital School of Practical Nursing'
+p2366
+F8642.1000000000004
+F23371
+tp2367
+a(S'Marion County Community Technical and Adult Education Center'
+p2368
+F3527.5
+F17121
+tp2369
+a(S'Marion Community Schools Tucker Career and Technology Center'
+p2370
+F9718.7000000000007
+F25989
+tp2371
+a(S'St Louis Hair Academy'
+p2372
+F9990.2999999999993
+F16277
+tp2373
+a(S'New Dimensions School of Hair Design'
+p2374
+F7448.8000000000002
+F16317
+tp2375
+a(S'Adirondack Beauty School'
+p2376
+F7507.1999999999998
+F16605
+tp2377
+a(S'Forbes Road Career and Technology Center'
+p2378
+F11007
+F21558
+tp2379
+a(S'Putnam Career and Technical Center'
+p2380
+F3152.6999999999998
+F19316
+tp2381
+a(S'Mountaineer Beauty College'
+p2382
+F6152.8999999999996
+F12234
+tp2383
+a(S'Crawford County Career and Technical Center Practical Nursing Program'
+p2384
+F12436
+F34089
+tp2385
+a(S"DeVry University's Keller Graduate School of Management-Georgia"
+p2386
+F37500
+F51262
+tp2387
+a(S'Texas College of Cosmetology-San Angelo'
+p2388
+F7892.6000000000004
+F13957
+tp2389
+a(S'Southwest College of Naturopathic Medicine & Health Sciences'
+p2390
+F42026
+F53726
+tp2391
+a(S'Escuela de Peritos Electricitas de Isabela'
+p2392
+F-1666.0999999999999
+F13103
+tp2393
+a(S"Yeshiva D'monsey Rabbinical College"
+p2394
+F8530.7999999999993
+F22897
+tp2395
+a(S'The College of Saint Thomas More'
+p2396
+F18519
+F15579
+tp2397
+a(S'Northeast Technology Center-Afton'
+p2398
+F4225.8999999999996
+F19131
+tp2399
+a(S'Columbia Gorge Community College'
+p2400
+F11684
+F22308
+tp2401
+a(S'Bakke Graduate University'
+p2402
+F42026
+F49299
+tp2403
+a(S"DeVry University's Keller Graduate School of Management-California"
+p2404
+F25013
+F51034
+tp2405
+a(S'Manhattan School of Computer Technology'
+p2406
+F4790.1000000000004
+F21113
+tp2407
+a(S'Indian Capital Technology Center-Sallisaw'
+p2408
+F5159.6999999999998
+F17776
+tp2409
+a(S'Indian Capital Technology Center-Stilwell'
+p2410
+F5769.5
+F19451
+tp2411
+a(S'Globelle Technical Institute'
+p2412
+F-1928.5999999999999
+F12264
+tp2413
+a(S'Hairitage Hair Academy'
+p2414
+F5243.3999999999996
+F11256
+tp2415
+a(S'Houghton Lake Institute of Cosmetology LLC'
+p2416
+F5430.1999999999998
+F11726
+tp2417
+a(S'Vanguard Career Center'
+p2418
+F4784.5
+F19602
+tp2419
+a(S'Academia Serrant Inc'
+p2420
+F-2519
+F9854.2000000000007
+tp2421
+a(S'Champion Institute of Cosmetology'
+p2422
+F7036.5
+F11930
+tp2423
+a(S'Compu-Med Vocational Careers Corp'
+p2424
+F5787
+F15447
+tp2425
+a(S'Professional Electrical School Inc'
+p2426
+F-1676.7
+F14246
+tp2427
+a(S'Mid-Cities Barber College'
+p2428
+F3273.3000000000002
+F11501
+tp2429
+a(S'Midwestern University-Glendale'
+p2430
+F18072
+F62111
+tp2431
+a(S'Oregon Coast Community College'
+p2432
+F8306.1000000000004
+F24967
+tp2433
+a(S'Central Mass School of Massage & Therapy Inc.'
+p2434
+F7648.6999999999998
+F17780
+tp2435
+a(S'Computer Systems Institute'
+p2436
+F10225
+F14575
+tp2437
+a(S'Merkaz Bnos-Business School'
+p2438
+F8714
+F42921
+tp2439
+a(S'Technical Education Center-Osceola'
+p2440
+F3111.5999999999999
+F23688
+tp2441
+a(S'Green Country Technology Center'
+p2442
+F5069.8999999999996
+F16998
+tp2443
+a(S'Nova College de Puerto Rico'
+p2444
+F-225.47999999999999
+F17637
+tp2445
+a(S'Styles and Profiles Beauty College'
+p2446
+F4481
+F14084
+tp2447
+a(S'John Wesley International Barber and Beauty College'
+p2448
+F5092.8000000000002
+F11512
+tp2449
+a(S'Klamath Community College'
+p2450
+F15177
+F21232
+tp2451
+a(S'Aerosim Flight Academy'
+p2452
+F13864
+F41909
+tp2453
+a(S'American College of Acupuncture and Oriental Med'
+p2454
+F43691
+F50649
+tp2455
+a(S'Academy of Oriental Medicine at Austin'
+p2456
+F43531
+F46780
+tp2457
+a(S'Urban College of Boston'
+p2458
+F4124.6000000000004
+F35724
+tp2459
+a(S'Cayce Reilly School of Massotherapy'
+p2460
+F9361.8999999999996
+F24779
+tp2461
+a(S'Moberly Area Technical Center'
+p2462
+F5549.1999999999998
+F29465
+tp2463
+a(S'Studio Jewelers'
+p2464
+F6537.6999999999998
+F23547
+tp2465
+a(S'American College of Traditional Chinese Medicine'
+p2466
+F42026
+F53436
+tp2467
+a(S'Herndon Career Center'
+p2468
+F9509.8999999999996
+F28618
+tp2469
+a(S'San Juan Bautista School of Medicine'
+p2470
+F43740
+F40295
+tp2471
+a(S'Texas College of Traditional Chinese Medicine'
+p2472
+F27841
+F67987
+tp2473
+a(S'Carver Career Center'
+p2474
+F666.78999999999996
+F20645
+tp2475
+a(S'Clearfield County Career and Technology Center'
+p2476
+F10070
+F30635
+tp2477
+a(S'Colegio de Cinematograf\xc3\xada Artes y Television'
+p2478
+F5401.3999999999996
+F12887
+tp2479
+a(S'The Institute for Health Education'
+p2480
+F5442.8999999999996
+F18012
+tp2481
+a(S'Mid-Del Technology Center'
+p2482
+F6680.6999999999998
+F22003
+tp2483
+a(S'Jolie Hair and Beauty Academy-Ludlow'
+p2484
+F7343.8000000000002
+F15138
+tp2485
+a(S'Escuela Tecnica de Electricidad'
+p2486
+F-442.35000000000002
+F20404
+tp2487
+a(S'Garnet Career Center'
+p2488
+F4504.3000000000002
+F22800
+tp2489
+a(S'Bristol Technical Education Center'
+p2490
+F8392.7999999999993
+F30821
+tp2491
+a(S'Hamilton Fulton Montgomery BOCES-Practical Nursing Program'
+p2492
+F12224
+F27092
+tp2493
+a(S'The Colorado Center for Medical Laboratory Science'
+p2494
+F12643
+F47024
+tp2495
+a(S'Henrico County-Saint Marys Hospital School of Practical Nursing'
+p2496
+F12831
+F34637
+tp2497
+a(S'International Beauty College 3'
+p2498
+F5207.3999999999996
+F41208
+tp2499
+a(S'John Dewey College'
+p2500
+F848.05999999999995
+F14258
+tp2501
+a(S'Lee County High Tech Center North'
+p2502
+F6287.8000000000002
+F20566
+tp2503
+a(S'Massachusetts General Hospital Dietetic Internship'
+p2504
+F14536
+F40437
+tp2505
+a(S'Northland Career Center'
+p2506
+F8529
+F28671
+tp2507
+a(S'Norwich Technical High School'
+p2508
+F15704
+F57443
+tp2509
+a(S'Sullivan County BOCES-Practical Nursing Program'
+p2510
+F8767.8999999999996
+F24224
+tp2511
+a(S'Trinity College of Puerto Rico'
+p2512
+F-499.64999999999998
+F17216
+tp2513
+a(S'Yeshiva of the Telshe Alumni'
+p2514
+F15669
+F25533
+tp2515
+a(S'Northeast Technology Center-Kansas'
+p2516
+F3776.6999999999998
+F18191
+tp2517
+a(S'Kenneth Shuler School of Cosmetology-Rock Hill'
+p2518
+F9375.6000000000004
+F11417
+tp2519
+a(S'Appalachian School of Law'
+p2520
+F42025
+F65092
+tp2521
+a(S'Long Island University-Westchester Campus'
+p2522
+F42539
+F40927
+tp2523
+a(S'Delaware College of Art and Design'
+p2524
+F15911
+F26781
+tp2525
+a(S'Monty Tech'
+p2526
+F9194.3999999999996
+F35591
+tp2527
+a(S'CHOICE High School and Technical Center'
+p2528
+F3237
+F20086
+tp2529
+a(S'Lester E Cox Medical Center-School of Medical Technology'
+p2530
+F22558
+F39128
+tp2531
+a(S'Sullivan and Cogliano Training Center'
+p2532
+F7499.6999999999998
+F16133
+tp2533
+a(S'Little Priest Tribal College'
+p2534
+F1990.7
+F18431
+tp2535
+a(S'National Labor College'
+p2536
+F26710
+F46127
+tp2537
+a(S'South Louisiana Community College'
+p2538
+F508.93000000000001
+F18115
+tp2539
+a(S'HRDE-Stanley Technical Institute-Parkersburg'
+p2540
+F5233
+F31152
+tp2541
+a(S'Academy of Hair Design'
+p2542
+F1769.2
+F12255
+tp2543
+a(S'Academy of Hair Design'
+p2544
+F4212.3999999999996
+F15873
+tp2545
+a(S'David Demuth Institute of Cosmetology'
+p2546
+F12043
+F13865
+tp2547
+a(S'Toni & Guy Hairdressing Academy-Worcester'
+p2548
+F8519.2999999999993
+F15802
+tp2549
+a(S'Michigan Jewish Institute'
+p2550
+F22213
+F19074
+tp2551
+a(S'Florida College of Integrative Medicine'
+p2552
+F43742
+F47637
+tp2553
+a(S'Ilisagvik College'
+p2554
+F7669.6000000000004
+F27064
+tp2555
+a(S'Florida Coastal School of Law'
+p2556
+F27850
+F60983
+tp2557
+a(S'White Earth Tribal and Community College'
+p2558
+F9669
+F16005
+tp2559
+a(S'John Dewey College-Carolina Campus'
+p2560
+F1006.4
+F12700
+tp2561
+a(S'Yeshiva College of the Nations Capital'
+p2562
+F13726
+F29403
+tp2563
+a(S'Franklin Career Institute'
+p2564
+F6915.6999999999998
+F19507
+tp2565
+a(S'Montessori Institute of Milwaukee'
+p2566
+F18134
+F43872
+tp2567
+a(S'Hair Academy II'
+p2568
+F6911.6999999999998
+F21570
+tp2569
+a(S'Southwest Acupuncture College-Boulder'
+p2570
+F27733
+F50192
+tp2571
+a(S'Los Angeles Film School'
+p2572
+F18460
+F17144
+tp2573
+a(S'John Dewey College'
+p2574
+F1231.8
+F13648
+tp2575
+a(S'A.B.I. School of Barbering & Cosmetology of Chelsea Inc.'
+p2576
+F1580.7
+F13097
+tp2577
+a(S'Century College'
+p2578
+F1340.0999999999999
+F15082
+tp2579
+a(S'FINE Mortuary College LLC'
+p2580
+F19148
+F37763
+tp2581
+a(S'International Baptist College'
+p2582
+F19601
+F20870
+tp2583
+a(S'The Medical Arts School'
+p2584
+F8373.2999999999993
+F19334
+tp2585
+a(S'University of Management and Technology (The)'
+p2586
+F26304
+F50185
+tp2587
+a(S'International Yacht Restoration School'
+p2588
+F17031
+F32974
+tp2589
+a(S"DeVry University's Keller Graduate School of Management-Virginia"
+p2590
+F25019
+F51341
+tp2591
+a(S"DeVry University's Keller Graduate School of Management-Wisconsin"
+p2592
+F25027
+F48708
+tp2593
+a(S'Advanced Barber College and Hair Design'
+p2594
+F3022.9000000000001
+F14842
+tp2595
+a(S'The English Center'
+p2596
+F7428.6000000000004
+F24385
+tp2597
+a(S'Monteclaro Escuela de Hoteleria y Artes Culinarias'
+p2598
+F-2833.6999999999998
+F17702
+tp2599
+a(S'New Community Workforce Development Center'
+p2600
+F10602
+F25849
+tp2601
+a(S'Modern Hairstyling Institute'
+p2602
+F-1863.5
+F11126
+tp2603
+a(S'Eastern West Virginia Community and Technical College'
+p2604
+F14825
+F19415
+tp2605
+a(S'IVAEM College'
+p2606
+F-1178.9000000000001
+F9329.3999999999996
+tp2607
+a(S'Midwest College of Oriental Medicine-Chicago'
+p2608
+F20155
+F46840
+tp2609
+a(S'East West College of Natural Medicine'
+p2610
+F27305
+F52659
+tp2611
+a(S'J & J Hair Design College'
+p2612
+F4470.8999999999996
+F14648
+tp2613
+a(S'Atlantic Institute of Oriental Medicine'
+p2614
+F17981
+F49462
+tp2615
+a(S'Fayette Beauty Academy'
+p2616
+F6399.3999999999996
+F15140
+tp2617
+a(S"King's University"
+p2618
+F17380
+F29064
+tp2619
+a(S'Lacy Cosmetology School-Aiken'
+p2620
+F10276
+F14107
+tp2621
+a(S"My Le's Beauty College"
+p2622
+F4863.8000000000002
+F23523
+tp2623
+a(S'NAWCC School of Horology'
+p2624
+F16080
+F28816
+tp2625
+a(S'New Concept Massage and Beauty School'
+p2626
+F494.41000000000003
+F9154.8999999999996
+tp2627
+a(S'New York College of Traditional Chinese Medicine'
+p2628
+F27850
+F79352
+tp2629
+a(S'Northeastern Seminary'
+p2630
+F42023
+F60248
+tp2631
+a(S'Omega Institute of Cosmetology'
+p2632
+F6858.1000000000004
+F13912
+tp2633
+a(S'Pacific Islands University'
+p2634
+F11449
+F30286
+tp2635
+a(S'Rosedale Bible College'
+p2636
+F8669.7000000000007
+F17519
+tp2637
+a(S'Seattle Institute of Oriental Medicine'
+p2638
+F42020
+F47146
+tp2639
+a(S'Shawnee Beauty College'
+p2640
+F5065.3999999999996
+F9470.3999999999996
+tp2641
+a(S'Southeastern School of Cosmetology'
+p2642
+F6870.8000000000002
+F16624
+tp2643
+a(S'Upper Valley Educators Institute'
+p2644
+F13636
+F42569
+tp2645
+a(S'Keck Graduate Institute'
+p2646
+F42025
+F58297
+tp2647
+a(S'Huntingdon County Career and Technology Center'
+p2648
+F9637.2999999999993
+F28632
+tp2649
+a(S"DeVry University's Keller Graduate School of Management-Ohio"
+p2650
+F24394
+F48473
+tp2651
+a(S"DeVry University's Keller Graduate School of Management-Texas"
+p2652
+F25024
+F51285
+tp2653
+a(S'Louisiana Delta Community College-Monroe Campus'
+p2654
+F7160
+F18293
+tp2655
+a(S'Atenas College'
+p2656
+F-1618.9000000000001
+F13026
+tp2657
+a(S'Somerset Christian College'
+p2658
+F27479
+F40574
+tp2659
+a(S'Southern University Law Center'
+p2660
+F42257
+F39870
+tp2661
+a(S'Saginaw Chippewa Tribal College'
+p2662
+F-2611.9000000000001
+F4644.8999999999996
+tp2663
+a(S'Richmont Graduate University'
+p2664
+F42026
+F59638
+tp2665
+a(S'The Seattle School of Theology & Psychology'
+p2666
+F42027
+F50783
+tp2667
+a(S"DeVry University's Keller Graduate School of Management-Washington"
+p2668
+F25010
+F50989
+tp2669
+a(S'East Valley Institute of Technology'
+p2670
+F5632.5
+F25616
+tp2671
+a(S'Paul Mitchell the School-Santa Barbara'
+p2672
+F9603.8999999999996
+F15399
+tp2673
+a(S'University of the Rockies'
+p2674
+F43823
+F54412
+tp2675
+a(S'Eli Whitney Technical High School'
+p2676
+F8180.1000000000004
+F30473
+tp2677
+a(S'Vinal Technical High School'
+p2678
+F12946
+F59162
+tp2679
+a(S'Windham Technical High School'
+p2680
+F7632.1000000000004
+F35953
+tp2681
+a(S'M-DCPS The English Center'
+p2682
+F4547.8000000000002
+F15042
+tp2683
+a(S'National Graduate School of Quality Management'
+p2684
+F21232
+F52771
+tp2685
+a(S'Apex School of Theology'
+p2686
+F20653
+F18219
+tp2687
+a(S'Orleans Niagara BOCES-Practical Nursing Program'
+p2688
+F10112
+F32590
+tp2689
+a(S'Yeshiva Shaarei Torah of Rockland'
+p2690
+F11572
+F24716
+tp2691
+a(S"St Joseph's Medical Center School of Radiography"
+p2692
+F12381
+F61832
+tp2693
+a(S'Susquehanna County Career and Technology Center'
+p2694
+F9202.5
+F21033
+tp2695
+a(S'Centro de Capacitacion y Asesoramiento Vetelba'
+p2696
+F705.69000000000005
+F14873
+tp2697
+a(S'Universidad Pentecostal Mizpa'
+p2698
+F4344.6000000000004
+F20539
+tp2699
+a(S'Caribbean Forensic and Technical College'
+p2700
+F3707.6999999999998
+F14835
+tp2701
+a(S'Charleston School of Massage'
+p2702
+F10720
+F17930
+tp2703
+a(S'Kussad Institute of Court Reporting'
+p2704
+F18671
+F24756
+tp2705
+a(S'Healing Mountain Massage School'
+p2706
+F6517.6999999999998
+F20804
+tp2707
+a(S'South Branch Career and Technical Center'
+p2708
+F8778.7999999999993
+F22170
+tp2709
+a(S'Franklin W. Olin College of Engineering'
+p2710
+F17878
+F67817
+tp2711
+a(S'Won Institute of Graduate Studies'
+p2712
+F42022
+F47297
+tp2713
+a(S"David's Academy of Beauty"
+p2714
+F3788.5
+F23494
+tp2715
+a(S'Birthwise Midwifery School'
+p2716
+F13627
+F45892
+tp2717
+a(S'Ave Maria School of Law'
+p2718
+F42025
+F62287
+tp2719
+a(S'Alaska Christian College'
+p2720
+F4587.6000000000004
+F8374.1000000000004
+tp2721
+a(S'Grantham University'
+p2722
+F27821
+F27562
+tp2723
+a(S"Tohono O'Odham Community College"
+p2724
+F4124.3000000000002
+F5834.3000000000002
+tp2725
+a(S'Edward Via College of Osteopathic Medicine'
+p2726
+F42025
+F50323
+tp2727
+a(S'Pacific College of Oriental Medicine-Chicago'
+p2728
+F21759
+F29616
+tp2729
+a(S"Ronny J's Barber Styling"
+p2730
+F9522
+F13943
+tp2731
+a(S'Birthingway College of Midwifery'
+p2732
+F28447
+F56609
+tp2733
+a(S'Blue Water College of Cosmetology Inc'
+p2734
+F9504.8999999999996
+F14673
+tp2735
+a(S'Pima Medical Institute-Albuquerque Massage School'
+p2736
+F9548.5
+F16999
+tp2737
+a(S"Brighton Center's Center for Employment Training"
+p2738
+F6516.3000000000002
+F20383
+tp2739
+a(S'Dallas Barber & Stylist College'
+p2740
+F2343.8000000000002
+F10306
+tp2741
+a(S'NorthShore University HealthSystem School of Nurse Anesthesia'
+p2742
+F15668
+F38280
+tp2743
+a(S'Faith Evangelical College & Seminary'
+p2744
+F28948
+F36418
+tp2745
+a(S'Family of Faith College'
+p2746
+F20037
+F-2024.7
+tp2747
+a(S'Hood Theological Seminary'
+p2748
+F11596
+F30463
+tp2749
+a(S'Colegio Educativo Tecnologico Industrial Inc'
+p2750
+F-683.00999999999999
+F16539
+tp2751
+a(S"Mr John's School of Cosmetology Esthetics & Nails-Jacksonville"
+p2752
+F7630.3999999999996
+F14861
+tp2753
+a(S'South Florida Institute of Technology'
+p2754
+F1086.7
+F19595
+tp2755
+a(S'Keiser Career College-Jacksonville'
+p2756
+F13827
+F24281
+tp2757
+a(S'Trend Barber College'
+p2758
+F8172
+F12632
+tp2759
+a(S'Illinois CareerPath Institute'
+p2760
+F14103
+F23075
+tp2761
+a(S'Williamson Christian College'
+p2762
+F31699
+F32950
+tp2763
+a(S'Pierpont Community and Technical College'
+p2764
+F8157.6000000000004
+F22565
+tp2765
+a(S'Universal College of Beauty Inc-Compton'
+p2766
+F10043
+F27635
+tp2767
+a(S'John Dewey College-University Division'
+p2768
+F-4821.1999999999998
+F11633
+tp2769
+a(S'Bexley Hall Episcopal Seminary'
+p2770
+F42025
+F43397
+tp2771
+a(S"Charlie's Guard-Detective Bureau and Academy Inc"
+p2772
+F-3850.3000000000002
+F12663
+tp2773
+a(S"DeVry University's Keller Graduate School of Management-Pennsylvania"
+p2774
+F24982
+F54620
+tp2775
+a(S'Byzantine Catholic Seminary of Saints Cyril and Methodius'
+p2776
+F42022
+F43778
+tp2777
+a(S'Northcentral University'
+p2778
+F27569
+F24253
+tp2779
+a(S'American Career Institute-Wheaton'
+p2780
+F9225.2999999999993
+F21719
+tp2781
+a(S'Bayamon Community College'
+p2782
+F118.58
+F16705
+tp2783
+a(S'LeGrand Institute of Cosmetology Inc'
+p2784
+F8289.2999999999993
+F13173
+tp2785
+a(S'Cambridge Technical Institute'
+p2786
+F-6333.1000000000004
+F16422
+tp2787
+a(S'Advanced Tech College'
+p2788
+F-209.36000000000001
+F9815.5
+tp2789
+a(S'Advanced Training Associates'
+p2790
+F7596.1999999999998
+F17307
+tp2791
+a(S'Baptist University of the Americas'
+p2792
+F16209
+F19744
+tp2793
+a(S'The Beauty Institute'
+p2794
+F3771.1999999999998
+F11638
+tp2795
+a(S'Beis Medrash Heichal Dovid'
+p2796
+F9631.8999999999996
+F17923
+tp2797
+a(S'Burlington Technical Center'
+p2798
+F15440
+F27775
+tp2799
+a(S'Career Beauty College'
+p2800
+F5358.5
+F12891
+tp2801
+a(S'Court Reporting Institute of Louisiana'
+p2802
+F22879
+F23725
+tp2803
+a(S'Auguste Escoffier School of Culinary Arts-Austin'
+p2804
+F11691
+F19898
+tp2805
+a(S'Expertise Cosmetology Institute'
+p2806
+F11852
+F17336
+tp2807
+a(S'Paul Mitchell the School-Monroe'
+p2808
+F11561
+F12103
+tp2809
+a(S'Hawaii Technology Institute'
+p2810
+F4344.3999999999996
+F79432
+tp2811
+a(S'Healing Arts Institute'
+p2812
+F10624
+F29185
+tp2813
+a(S'Health Works Institute'
+p2814
+F6851.3999999999996
+F23067
+tp2815
+a(S'In Session Arts of Cosmetology Beauty School'
+p2816
+F2350
+F11132
+tp2817
+a(S'Moore Career College'
+p2818
+F7911.5
+F17728
+tp2819
+a(S'Industrial Technical College'
+p2820
+F-1458.4000000000001
+F10130
+tp2821
+a(S'Institute of Beauty Occupation and Technology Course'
+p2822
+F3656.3000000000002
+F16041
+tp2823
+a(S'Institute of Clinical Acupuncture & Oriental Med'
+p2824
+F42023
+F35526
+tp2825
+a(S'Institute of Hair Design'
+p2826
+F3797.5
+F10864
+tp2827
+a(S'Leston College'
+p2828
+F-3043.4000000000001
+F11098
+tp2829
+a(S'Lynndale Fundamentals of Beauty LLC'
+p2830
+F9510.7999999999993
+F13664
+tp2831
+a(S'Medical Professional Institute'
+p2832
+F10888
+F24117
+tp2833
+a(S'New Life Theological Seminary'
+p2834
+F24415
+F21680
+tp2835
+a(S'Princeton Information Technology Center'
+p2836
+F14608
+F28433
+tp2837
+a(S'Technical Learning Centers Inc'
+p2838
+F7247.3000000000002
+F19780
+tp2839
+a(S'Total Look School of Cosmetology & Massage Therapy'
+p2840
+F9186.8999999999996
+F20505
+tp2841
+a(S'Turning Point Beauty College'
+p2842
+F5529.1000000000004
+F12718
+tp2843
+a(S'Mountwest Community and Technical College'
+p2844
+F10390
+F20582
+tp2845
+a(S'Kanawha Valley Community and Technical College'
+p2846
+F13162
+F25317
+tp2847
+a(S'University of California-Merced'
+p2848
+F20854
+F28333
+tp2849
+a(S'Colegio Tecnico de Electricidad Galloza'
+p2850
+F-3240.0999999999999
+F14455
+tp2851
+a(S'Bridgemont Community and Technical College'
+p2852
+F11490
+F22216
+tp2853
+a(S'Roseman University of Health Sciences'
+p2854
+F19105
+F68842
+tp2855
+a(S'Cosmetology School of Arts and Sciences'
+p2856
+F9813.6000000000004
+F11454
+tp2857
+a(S'Institute for the Psychological Sciences'
+p2858
+F42025
+F50466
+tp2859
+a(S'Aguadilla Technical College'
+p2860
+F-915.57000000000005
+F13067
+tp2861
+a(S'American Academy of Acupuncture and Oriental Medicine'
+p2862
+F27306
+F54579
+tp2863
+a(S'Arizona School of Acupuncture and Oriental Medicine'
+p2864
+F33654
+F40435
+tp2865
+a(S'Buchanan Beauty College'
+p2866
+F4310.6000000000004
+F13015
+tp2867
+a(S'Cambridge Junior College-Yuba City'
+p2868
+F6692.3999999999996
+F14574
+tp2869
+a(S'Community Christian College'
+p2870
+F11719
+F18166
+tp2871
+a(S'Crossett School of Cosmetology'
+p2872
+F7687.3000000000002
+F12683
+tp2873
+a(S'Culpeper Cosmetology Training Center'
+p2874
+F9855.7000000000007
+F24360
+tp2875
+a(S'Day Spa Career College'
+p2876
+F6397.8000000000002
+F14630
+tp2877
+a(S'Eastern School of Acupuncture and Traditional Medicine'
+p2878
+F12544
+F68099
+tp2879
+a(S'Ecclesia College'
+p2880
+F26680
+F20615
+tp2881
+a(S'Employment Solutions-College for Technical Education'
+p2882
+F10151
+F15870
+tp2883
+a(S'Evergreen Beauty & Barber College-Everett'
+p2884
+F11704
+F17156
+tp2885
+a(S'Hudson Valley School of Advanced Aesthetic Skin Care'
+p2886
+F7628.6999999999998
+F17304
+tp2887
+a(S'John D Rockefeller IV Career Center'
+p2888
+F8932.8999999999996
+F24463
+tp2889
+a(S'Ladera Career Paths Training Centers'
+p2890
+F7356.8999999999996
+F17018
+tp2891
+a(S'Los Angeles Music Academy'
+p2892
+F16866
+F19801
+tp2893
+a(S'Maple Springs Baptist Bible College and Seminary'
+p2894
+F21443
+F28348
+tp2895
+a(S'Oregon Career & Technology Center'
+p2896
+F9443.7999999999993
+F15604
+tp2897
+a(S'Performance Training Institute'
+p2898
+F8947.1000000000004
+F15161
+tp2899
+a(S'Pacific Coast Trade School'
+p2900
+F3843.0999999999999
+F17082
+tp2901
+a(S'Precision Manufacturing Institute'
+p2902
+F12217
+F33958
+tp2903
+a(S'Regency School of Hair Design'
+p2904
+F11216
+F12627
+tp2905
+a(S'Renaissance School of Therapeutic Massage'
+p2906
+F7633.3000000000002
+F16845
+tp2907
+a(S'Rosslyn Training Academy of Cosmetology'
+p2908
+F-3779.3000000000002
+F12377
+tp2909
+a(S'Eclipse School of Cosmetology and Barbering'
+p2910
+F9015.2000000000007
+F13897
+tp2911
+a(S'Shear Academy'
+p2912
+F7779.6000000000004
+F14446
+tp2913
+a(S'Southern Technical College'
+p2914
+F15807
+F19368
+tp2915
+a(S'Stanbridge College'
+p2916
+F17062
+F32959
+tp2917
+a(S'Styletrends Barber and Hairstyling Academy'
+p2918
+F7942.8999999999996
+F13524
+tp2919
+a(S'Universal College of Healing Arts'
+p2920
+F16493
+F22753
+tp2921
+a(S'Uta Mesivta of Kiryas Joel'
+p2922
+F7564.1999999999998
+F21871
+tp2923
+a(S'W L Bonner College'
+p2924
+F27812
+F34122
+tp2925
+a(S'Harrisburg University of Science and Technology'
+p2926
+F29034
+F35270
+tp2927
+a(S'Union Graduate College'
+p2928
+F42022
+F61577
+tp2929
+a(S'Daytona College'
+p2930
+F13086
+F13420
+tp2931
+a(S'United States University'
+p2932
+F20991
+F42341
+tp2933
+a(S'Academy of Hair Design'
+p2934
+F2563.6999999999998
+F11045
+tp2935
+a(S'Instituto de Educacion Tecnica Ocupacional La Reine-Aguadilla'
+p2936
+F-2912.5
+F11230
+tp2937
+a(S'New River Community and Technical College'
+p2938
+F12219
+F21048
+tp2939
+a(S'Georgia Gwinnett College'
+p2940
+F20050
+F29914
+tp2941
+a(S'Phoenix Institute of Herbal Medicine & Acupuncture'
+p2942
+F42016
+F48785
+tp2943
+a(S'Tucson College of Beauty'
+p2944
+F8511.7999999999993
+F12753
+tp2945
+a(S'Palladium Technical Academy'
+p2946
+F4041.9000000000001
+F17665
+tp2947
+a(S'Palace Beauty College'
+p2948
+F4490.8000000000002
+F12796
+tp2949
+a(S'National Polytechnic College'
+p2950
+F8876.1000000000004
+F20903
+tp2951
+a(S'TechSkills of Sacramento'
+p2952
+F9263.1000000000004
+F21739
+tp2953
+a(S'American Institute of Massage Therapy'
+p2954
+F6881.8000000000002
+F20916
+tp2955
+a(S'University of East-West Medicine'
+p2956
+F43872
+F47514
+tp2957
+a(S'Blake Austin College'
+p2958
+F10734
+F24785
+tp2959
+a(S'Mojave Barber College'
+p2960
+F10364
+F10431
+tp2961
+a(S"Cuttin' Up Beauty Academy"
+p2962
+F13406
+F16115
+tp2963
+a(S'Aviator College of Aeronautical Science and Technology'
+p2964
+F22705
+F47114
+tp2965
+a(S'Total International Career Institute'
+p2966
+F5602.8999999999996
+F15870
+tp2967
+a(S'Trendsetters School of Beauty & Barbering'
+p2968
+F6742.5
+F12511
+tp2969
+a(S'CDA Technical Institute'
+p2970
+F10295
+F25793
+tp2971
+a(S'American Institute of Beauty'
+p2972
+F10346
+F10464
+tp2973
+a(S'North Florida Cosmetology Institute Inc'
+p2974
+F10904
+F12506
+tp2975
+a(S'Florida Academy of Health & Beauty'
+p2976
+F4831.1000000000004
+F12273
+tp2977
+a(S'Augusta School of Massage'
+p2978
+F8132.3999999999996
+F18481
+tp2979
+a(S'SUM Bible College and Theological Seminary'
+p2980
+F20536
+F23559
+tp2981
+a(S'Compass Career College'
+p2982
+F7223
+F14766
+tp2983
+a(S'Hair Expressions Academy'
+p2984
+F8919.7999999999993
+F19068
+tp2985
+a(S'Nuvo College of Cosmetology'
+p2986
+F6828.3000000000002
+F12473
+tp2987
+a(S'WellSpring School of Allied Health'
+p2988
+F11367
+F20587
+tp2989
+a(S'Hair Academy 110'
+p2990
+F8013.5
+F13830
+tp2991
+a(S'Healing Touch School of Massage Therapy'
+p2992
+F5730.8999999999996
+F16143
+tp2993
+a(S'Salon Professional Academy'
+p2994
+F10630
+F17255
+tp2995
+a(S'Massage Therapy Trainining Institute'
+p2996
+F7076.1000000000004
+F19360
+tp2997
+a(S'Institute of Professional Careers'
+p2998
+F6386.5
+F18835
+tp2999
+a(S'Elite Academy of Beauty Arts'
+p3000
+F5083.5
+F14154
+tp3001
+a(S'Brookline College-Oklahoma City'
+p3002
+F7782.3000000000002
+F14210
+tp3003
+a(S'Northwest Regional Technology Institute'
+p3004
+F4608.1999999999998
+F19078
+tp3005
+a(S'MyrAngel Beauty Institute'
+p3006
+F1134
+F11206
+tp3007
+a(S'Institute of Hair Design'
+p3008
+F8095.1000000000004
+F14608
+tp3009
+a(S'Tennessee Career Institute'
+p3010
+F5498.6000000000004
+F11422
+tp3011
+a(S'Mai-trix Beauty College'
+p3012
+F6187
+F19186
+tp3013
+a(S'North West Beauty School'
+p3014
+F8757.5
+F15130
+tp3015
+a(S'Maximum Style Tec School of Cosmetology'
+p3016
+F8804.2999999999993
+F11596
+tp3017
+a(S'Careers Unlimited'
+p3018
+F16237
+F43856
+tp3019
+a(S'Mountainland Applied Technology College'
+p3020
+F558.19000000000005
+F20754
+tp3021
+a(S'Avi Career Training'
+p3022
+F8727.2999999999993
+F18937
+tp3023
+a(S'Yakima Beauty School Beautyworks'
+p3024
+F10957
+F12858
+tp3025
+a(S'Mountain State School of Massage'
+p3026
+F8077.8999999999996
+F15347
+tp3027
+a(S'West Hills College Lemoore'
+p3028
+F8826.7000000000007
+F23349
+tp3029
+a(S'Educational Technical College-Recinto de Coamo'
+p3030
+F868.73000000000002
+F11082
+tp3031
+a(S'Educational Technical College-Recinto de san Sebastian'
+p3032
+F946.82000000000005
+F9686
+tp3033
+a(S'The Robert B Miller College'
+p3034
+F23302
+F34366
+tp3035
+a(S'John Dewey College-Juana Diaz Branch'
+p3036
+F-482.44999999999999
+F11598
+tp3037
+a(S'John Dewey College\xe2\x80\x93Fajardo Branch'
+p3038
+F1982.8
+F15376
+tp3039
+a(S'John Dewey College\xe2\x80\x93Arroyo Branch'
+p3040
+F1383.0999999999999
+F13821
+tp3041
+a(S'Huntsville Bible College'
+p3042
+F17497
+F26746
+tp3043
+a(S'Beaumont Adult School'
+p3044
+F13233
+F36808
+tp3045
+a(S'Make-up Designory'
+p3046
+F7388.1999999999998
+F16787
+tp3047
+a(S'Video Symphony EnterTraining Inc'
+p3048
+F12702
+F22137
+tp3049
+a(S'Gnomon School of Visual Effects'
+p3050
+F12842
+F36478
+tp3051
+a(S'Coachella Valley Beauty College'
+p3052
+F6912.3000000000002
+F10226
+tp3053
+a(S'The Academy of Barbering Arts'
+p3054
+F7324.5
+F10952
+tp3055
+a(S'Career College of California'
+p3056
+F7240.3999999999996
+F13344
+tp3057
+a(S'Valley College of Medical Careers'
+p3058
+F9803.5
+F18147
+tp3059
+a(S'Academy of Natural Therapy'
+p3060
+F9449.2000000000007
+F18863
+tp3061
+a(S'Academy Di Capelli-School of Cosmetology'
+p3062
+F9104.7999999999993
+F18359
+tp3063
+a(S'Delaware Learning Institute of Cosmetology'
+p3064
+F5994.3000000000002
+F17317
+tp3065
+a(S'Dragon Rises College of Oriental Medicine'
+p3066
+F27306
+F46467
+tp3067
+a(S'Palm Beach Academy of Health & Beauty'
+p3068
+F8809.7000000000007
+F16636
+tp3069
+a(S'SABER'
+p3070
+F12222
+F21581
+tp3071
+a(S'Taylor College'
+p3072
+F16954
+F23727
+tp3073
+a(S'Pensacola School of Massage Therapy & Health Careers'
+p3074
+F7961.6000000000004
+F15543
+tp3075
+a(S'Savannah School of Massage Therapy Training'
+p3076
+F12682
+F21972
+tp3077
+a(S'Traditional Chinese Medical College of Hawaii'
+p3078
+F33658
+F43143
+tp3079
+a(S'Ideal Beauty Academy'
+p3080
+F10134
+F11646
+tp3081
+a(S'Success Schools LLC'
+p3082
+F10081
+F10128
+tp3083
+a(S'Louisiana Culinary Institute'
+p3084
+F15582
+F24806
+tp3085
+a(S'Bais Medrash Toras Chesed'
+p3086
+F15448
+F11676
+tp3087
+a(S'Center for Natural Wellness School of Massage Therapy'
+p3088
+F9682.2000000000007
+F25107
+tp3089
+a(S'Ace Computer Training Center'
+p3090
+F8656.5
+F31175
+tp3091
+a(S'New Age Training'
+p3092
+F4443
+F18854
+tp3093
+a(S'Dayton School of Medical Massage'
+p3094
+F12217
+F18598
+tp3095
+a(S'Northcoast Medical Training Academy'
+p3096
+F9554.5
+F16933
+tp3097
+a(S'American Institute of Medical Technology'
+p3098
+F11103
+F22552
+tp3099
+a(S'Carib Technological Institute'
+p3100
+F-1481.4000000000001
+F14362
+tp3101
+a(S'ASPIRA Inc of Puerto Rico'
+p3102
+F7695.8000000000002
+F37227
+tp3103
+a(S'Visible Music College'
+p3104
+F24491
+F19451
+tp3105
+a(S'CCI Training Center'
+p3106
+F6665.8000000000002
+F20893
+tp3107
+a(S'Champion Beauty College'
+p3108
+F10015
+F13364
+tp3109
+a(S'Professional Careers Institute'
+p3110
+F7858.8000000000002
+F14885
+tp3111
+a(S'Southeast Texas Career Institute'
+p3112
+F5858.1000000000004
+F12447
+tp3113
+a(S'Southwest Applied Technology Center'
+p3114
+F4014.3000000000002
+F21663
+tp3115
+a(S'ImageWorks Academy of Hair Design'
+p3116
+F11796
+F14419
+tp3117
+a(S'Academy of Cosmetology'
+p3118
+F12192
+F11088
+tp3119
+a(S'Milwaukee Career College'
+p3120
+F10637
+F16341
+tp3121
+a(S'University of the West'
+p3122
+F29884
+F48071
+tp3123
+a(S'A.B.I. School of Barbering & Cosmetology of Tribeca Inc.'
+p3124
+F4042.8000000000002
+F18112
+tp3125
+a(S'Paul Mitchell the School-Sherman Oaks'
+p3126
+F11006
+F13371
+tp3127
+a(S'Brite Divinity School'
+p3128
+F50598
+F46531
+tp3129
+a(S'Lexington Healing Arts Academy'
+p3130
+F9072.5
+F30646
+tp3131
+a(S'The Institute of Beauty and Wellness'
+p3132
+F12758
+F17885
+tp3133
+a(S'Columbia Southern University'
+p3134
+F29214
+F28947
+tp3135
+a(S'Phoenix School of Law'
+p3136
+F27853
+F59327
+tp3137
+a(S'Arizona Culinary Institute'
+p3138
+F11964
+F17780
+tp3139
+a(S'InfoTech Career College'
+p3140
+F6124.3000000000002
+F16339
+tp3141
+a(S'Trident University International'
+p3142
+F26472
+F33813
+tp3143
+a(S'Coastline Beauty College'
+p3144
+F4128.6000000000004
+F21706
+tp3145
+a(S'Career College Consultants'
+p3146
+F9470.8999999999996
+F22082
+tp3147
+a(S'Career College of San Deigo'
+p3148
+F7013.8000000000002
+F17072
+tp3149
+a(S'Proteus'
+p3150
+F9166.7000000000007
+F22279
+tp3151
+a(S'Montessori Casa International'
+p3152
+F7623
+F28032
+tp3153
+a(S'Branford Academy of Hair & Cosmetology'
+p3154
+F9085
+F19050
+tp3155
+a(S'Academy of Massage and Bodywork'
+p3156
+F10342
+F23807
+tp3157
+a(S'Digital Media Arts College'
+p3158
+F29023
+F18263
+tp3159
+a(S'Academy for Five Element Acupuncture'
+p3160
+F42025
+F40105
+tp3161
+a(S'FastTrain of Jacksonville'
+p3162
+F12267
+F16163
+tp3163
+a(S'Academy of Career Training'
+p3164
+F5618.8000000000002
+F9429.7999999999993
+tp3165
+a(S'Management Resources Institute'
+p3166
+F6102
+F5618.3000000000002
+tp3167
+a(S'FastTrain of Miami'
+p3168
+F10750
+F10361
+tp3169
+a(S'Hi-Tech School of Cosmetology'
+p3170
+F10849
+F11662
+tp3171
+a(S'Wolford College'
+p3172
+F27845
+F66933
+tp3173
+a(S'Aveda Institute-Saint Petersburg'
+p3174
+F11278
+F15448
+tp3175
+a(S'Aveda Institute-Tallahassee'
+p3176
+F10658
+F15988
+tp3177
+a(S'Shear Excellence Hair Academy'
+p3178
+F7756.8000000000002
+F12350
+tp3179
+a(S'Carlson College of Massage Therapy'
+p3180
+F8715.8999999999996
+F18919
+tp3181
+a(S'Bio-Chi Institute of Massage Therapy'
+p3182
+F9208.7000000000007
+F18606
+tp3183
+a(S'SOLEX Medical Academy'
+p3184
+F8534.3999999999996
+F15363
+tp3185
+a(S'TechSkills-Indianapolis'
+p3186
+F11933
+F13454
+tp3187
+a(S'Z Hair Academy'
+p3188
+F9815.7999999999993
+F10897
+tp3189
+a(S"Alden's School of Cosmetology"
+p3190
+F6130.1999999999998
+F11094
+tp3191
+a(S'DiGrigoli School of Cosmetology'
+p3192
+F8372.6000000000004
+F13769
+tp3193
+a(S'Millennium Training Institute'
+p3194
+F5622.1000000000004
+F20606
+tp3195
+a(S'Gallery College of Beauty'
+p3196
+F9351.8999999999996
+F10310
+tp3197
+a(S'Lakewood School of Therapeutic Massage'
+p3198
+F10859
+F28319
+tp3199
+a(S'School of Designing Arts'
+p3200
+F8399.2000000000007
+F11554
+tp3201
+a(S'Trend Setters School of Cosmetology'
+p3202
+F7342.1000000000004
+F11063
+tp3203
+a(S'Pemiscot County Special School District'
+p3204
+F9643.2000000000007
+F24734
+tp3205
+a(S'Academy of Hair Design'
+p3206
+F8519.2000000000007
+F10853
+tp3207
+a(S'Corinth Academy of Cosmetology'
+p3208
+F9687.2000000000007
+F14473
+tp3209
+a(S'Southeastern Institute-Charlotte'
+p3210
+F7987.6999999999998
+F19094
+tp3211
+a(S'Gentle Healing School of Massage'
+p3212
+F8751
+F20208
+tp3213
+a(S"Yeshivas Be'er Yitzchok"
+p3214
+F14995
+F30596
+tp3215
+a(S'Yeshiva Toras Chaim'
+p3216
+F13124
+F35278
+tp3217
+a(S'Talmudical Seminary of Bobov'
+p3218
+F7863.6000000000004
+F14154
+tp3219
+a(S'New York Methodist Hospital Center for Allied Health Education'
+p3220
+F14396
+F53243
+tp3221
+a(S'Institute of Allied Medical Professions-New York'
+p3222
+F11875
+F33952
+tp3223
+a(S'Hudson Valley School of Massage Therapy'
+p3224
+F9782.5
+F31304
+tp3225
+a(S'Micropower Career Institute'
+p3226
+F7859.1999999999998
+F16980
+tp3227
+a(S'Monroe 2-Orleans BOCES Center for Workforce Development'
+p3228
+F8220.3999999999996
+F24159
+tp3229
+a(S"Aveda Fredric's Institute"
+p3230
+F8481.3999999999996
+F14343
+tp3231
+a(S'TechSkills-Columbus'
+p3232
+F9634.8999999999996
+F13253
+tp3233
+a(S'NewBold Technical Institute'
+p3234
+F8077.6999999999998
+F27564
+tp3235
+a(S'CDE Careeer Institute'
+p3236
+F8265.5
+F16130
+tp3237
+a(S'Instituto Educativo Premier'
+p3238
+F-198.93000000000001
+F15344
+tp3239
+a(S'Charleston School of Law'
+p3240
+F27854
+F62847
+tp3241
+a(S'Elite College of Cosmetology'
+p3242
+F7610.6999999999998
+F12801
+tp3243
+a(S'Memphis Institute of Barbering'
+p3244
+F8906.7000000000007
+F12710
+tp3245
+a(S"Manuel and Theresa's School of Hair Design"
+p3246
+F8741.3999999999996
+F13879
+tp3247
+a(S'Southwest Career College'
+p3248
+F12621
+F15089
+tp3249
+a(S'Paul Mitchell The school-Austin'
+p3250
+F9550.3999999999996
+F12124
+tp3251
+a(S'Aveda Institute-Provo'
+p3252
+F11895
+F14219
+tp3253
+a(S'Dixie Applied Technology College'
+p3254
+F6314.6000000000004
+F23525
+tp3255
+a(S'Centura College-Alexandria'
+p3256
+F10168
+F18027
+tp3257
+a(S'Southeast Culinary & Hospitality College'
+p3258
+F14920
+F15661
+tp3259
+a(S'Dominion School of Hair Design'
+p3260
+F8824
+F12881
+tp3261
+a(S"Victoria's Academy of Cosmetology"
+p3262
+F7868.8000000000002
+F12106
+tp3263
+a(S'Inland Massage Institute'
+p3264
+F11470
+F18042
+tp3265
+a(S'Sunnyside Beauty Academy'
+p3266
+F8979.7999999999993
+F12662
+tp3267
+a(S'Wisconsin Academy'
+p3268
+F6674.1999999999998
+F12533
+tp3269
+a(S'Lacy Cosmetology School-Lexington'
+p3270
+F9696.7999999999993
+F12931
+tp3271
+a(S'Lacy Cosmetology School-Goose Creek'
+p3272
+F10277
+F12346
+tp3273
+a(S'Jenny Lea Academy of Cosmetology and Aesthetics'
+p3274
+F7396.1000000000004
+F12524
+tp3275
+a(S'The Hair Academy'
+p3276
+F9952.7000000000007
+F10697
+tp3277
+a(S'Escuela De Troqueleria Y Herramentaje'
+p3278
+F4759.5
+F24925
+tp3279
+a(S'Institute of Therapeutic Massage Inc'
+p3280
+F8075.1999999999998
+F16612
+tp3281
+a(S'TechSkills-Charlotte'
+p3282
+F12827
+F15361
+tp3283
+a(S'Toledo Restaurant Training Center'
+p3284
+F8759.3999999999996
+F14572
+tp3285
+a(S'The King\xe2\x80\x99s College'
+p3286
+F20731
+F22848
+tp3287
+a(S'FastTrain of Kendall'
+p3288
+F11654
+F11801
+tp3289
+a(S'FastTrain of Ft Lauderdale'
+p3290
+F12880
+F11973
+tp3291
+a(S'FastTrain of Pembroke Pines'
+p3292
+F13720
+F12858
+tp3293
+a(S'FastTrain of Tampa'
+p3294
+F13519
+F14022
+tp3295
+a(S'FastTrain of Clearwater'
+p3296
+F15348
+F14314
+tp3297
+a(S'The Salon Professional Academy-Appleton'
+p3298
+F9296.2000000000007
+F10408
+tp3299
+a(S'Institute of Production and Recording'
+p3300
+F20061
+F25539
+tp3301
+a(S'Xcell Academy-A Paul Mitchell Partner School'
+p3302
+F9011.6000000000004
+F12140
+tp3303
+a(S'Taft University System'
+p3304
+F30000
+F44522
+tp3305
+a(S'Mayfield College'
+p3306
+F6978.8000000000002
+F17576
+tp3307
+a(S'International Polytechnic Institute'
+p3308
+F7807.1999999999998
+F21982
+tp3309
+a(S'Academy of Esthetics and Cosmetology'
+p3310
+F5317.6000000000004
+F11934
+tp3311
+a(S'BioHealth College'
+p3312
+F51468
+F20798
+tp3313
+a(S'International Professional School of Bodywork'
+p3314
+F17462
+F22257
+tp3315
+a(S"Borner's Barber College"
+p3316
+F8149.8999999999996
+F13646
+tp3317
+a(S'Paul Mitchell The School-Pasadena'
+p3318
+F9433
+F12916
+tp3319
+a(S'San Francisco Institute of Esthetics and Cosmetology'
+p3320
+F11885
+F16775
+tp3321
+a(S'Laurus College'
+p3322
+F9563.5
+F16514
+tp3323
+a(S'Healing Hands School of Holistic Health'
+p3324
+F10977
+F17783
+tp3325
+a(S'Career Development Institute'
+p3326
+F12517
+F21565
+tp3327
+a(S'Auguste Escoffier School of Culinary Arts'
+p3328
+F11751
+F19222
+tp3329
+a(S'Aspen University'
+p3330
+F34310
+F26730
+tp3331
+a(S'Institute of Taoist Education and Acupuncture'
+p3332
+F42026
+F53480
+tp3333
+a(S'National Beauty College'
+p3334
+F5151.8000000000002
+F17849
+tp3335
+a(S'Denver School of Nursing'
+p3336
+F24443
+F45440
+tp3337
+a(S'Cambridge Institute of Health & Technology'
+p3338
+F11683
+F20198
+tp3339
+a(S'Cozmo The School'
+p3340
+F8276.7999999999993
+F10421
+tp3341
+a(S'Allied Health Institute'
+p3342
+F10868
+F15383
+tp3343
+a(S'North Florida Academy'
+p3344
+F7798
+F12772
+tp3345
+a(S'Professional Hands Institute'
+p3346
+F5235.1000000000004
+F13202
+tp3347
+a(S'Celebrity School of Beauty'
+p3348
+F3879.0999999999999
+F12177
+tp3349
+a(S'Paul Mitchell the School-Atlanta'
+p3350
+F12311
+F14598
+tp3351
+a(S'Evans Hairstyling College-Rexburg'
+p3352
+F9244.8999999999996
+F9905
+tp3353
+a(S'Hair Academy Paul Mitchell Partner School'
+p3354
+F10228
+F9817.3999999999996
+tp3355
+a(S'University of Aesthetics-Chicago'
+p3356
+F7561
+F14358
+tp3357
+a(S'University of Aesthetics-Downers Grove'
+p3358
+F7932.1999999999998
+F15364
+tp3359
+a(S'Tricoci University of Beauty Culture-Chicago'
+p3360
+F9457.7999999999993
+F13931
+tp3361
+a(S'Tricoci University of Beauty Culture-Glendale Heights'
+p3362
+F9091
+F13311
+tp3363
+a(S'Tricoci University of Beauty Culture-Peoria'
+p3364
+F8716.1000000000004
+F13076
+tp3365
+a(S'Tricoci University of Beauty Culture-Rockford'
+p3366
+F9075.7000000000007
+F12801
+tp3367
+a(S'Frederick School of Cosmetology'
+p3368
+F7160.8999999999996
+F13529
+tp3369
+a(S"Omega Studios' School of Applied Recording Arts & Sciences"
+p3370
+F10603
+F33336
+tp3371
+a(S'Focus-Hope Information Technologies Center'
+p3372
+F7220.1999999999998
+F21688
+tp3373
+a(S'International Cosmetology Academy'
+p3374
+F10721
+F11937
+tp3375
+a(S'French Academy of Cosmetology'
+p3376
+F8336.7000000000007
+F10620
+tp3377
+a(S'Healing Arts Center'
+p3378
+F11915
+F28991
+tp3379
+a(S'System - A Paul Mitchell Partner School'
+p3380
+F10302
+F12005
+tp3381
+a(S'Urshan Graduate School of Theology'
+p3382
+F42024
+F55179
+tp3383
+a(S'Mississippi Institute of Aesthetics Nails & Cosmetology'
+p3384
+F7623.8999999999996
+F14720
+tp3385
+a(S'Aveda Institute-Chapel Hill'
+p3386
+F9150
+F15652
+tp3387
+a(S'Charlotte School of Law'
+p3388
+F27854
+F58530
+tp3389
+a(S'Daoist Traditions College of Chinese Medical Arts'
+p3390
+F13972
+F39282
+tp3391
+a(S'Total Image Beauty Academy'
+p3392
+F4914.1000000000004
+F15013
+tp3393
+a(S'Center for Allied Health & Nursing Education'
+p3394
+F11657
+F33599
+tp3395
+a(S'American Institute of Medical Sciences & Education'
+p3396
+F10494
+F29259
+tp3397
+a(S'Casal Institute of Nevada'
+p3398
+F11630
+F18400
+tp3399
+a(S'Career School of NY'
+p3400
+F8248.7000000000007
+F16738
+tp3401
+a(S"John Paolo's Xtreme Beauty Institute/Goldwell Product Artistry"
+p3402
+F8350
+F11711
+tp3403
+a(S"Ann Marie's World of Beauty School"
+p3404
+F8267.2000000000007
+F14076
+tp3405
+a(S'Yeshiva of Machzikai Hadas'
+p3406
+F12242
+F8271.8999999999996
+tp3407
+a(S'Aveda Institute-Columbus'
+p3408
+F9914.5
+F11397
+tp3409
+a(S'Paul Mitchell The School-Cincinnati'
+p3410
+F8642.7000000000007
+F11712
+tp3411
+a(S"Cutter's Edge School of Cosmetology"
+p3412
+F8502.7999999999993
+F12046
+tp3413
+a(S'Hands on Therapy'
+p3414
+F7438.3000000000002
+F15059
+tp3415
+a(S'MediaTech Institute-Irving'
+p3416
+F12851
+F19934
+tp3417
+a(S'PCCenter'
+p3418
+F9173
+F17230
+tp3419
+a(S'Aveda Institute-San Antonio'
+p3420
+F8602.5
+F13304
+tp3421
+a(S'Skin Institute'
+p3422
+F10804
+F18414
+tp3423
+a(S'Skin Science Institute'
+p3424
+F9226
+F15710
+tp3425
+a(S'Global Health Nurse Training Services'
+p3426
+F12066
+F28243
+tp3427
+a(S'Pacific Northwest University of Health Sciences'
+p3428
+F16773
+F43779
+tp3429
+a(S'Visions in Hair Design Institute of Cosmetology'
+p3430
+F9146
+F12134
+tp3431
+a(S'PC ProSchools'
+p3432
+F12556
+F22407
+tp3433
+a(S'The Chicago School of Professional Psychology at Irvine'
+p3434
+F42022
+F57106
+tp3435
+a(S'Woodland Community College'
+p3436
+F12347
+F22417
+tp3437
+a(S'The Chicago School of Professional Psychology at Los Angeles'
+p3438
+F33658
+F59392
+tp3439
+a(S'The Chicago School of Professional Psychology at Westwood'
+p3440
+F43280
+F58851
+tp3441
+a(S'Cardiac and Vascular Institute of Ultrasound'
+p3442
+F11268
+F45934
+tp3443
+a(S'Studio Academy of Beauty'
+p3444
+F10120
+F11889
+tp3445
+a(S'California Nurses Educational Institute'
+p3446
+F11764
+F25753
+tp3447
+a(S'Central Nursing College'
+p3448
+F12075
+F26820
+tp3449
+a(S'RWM Fiber Optics'
+p3450
+F12274
+F22355
+tp3451
+a(S'Paul Mitchell The School-Sacramento'
+p3452
+F9964
+F13375
+tp3453
+a(S'Providence Christian College'
+p3454
+F18844
+F16596
+tp3455
+a(S'Summit Salon & Beauty School'
+p3456
+F13885
+F13724
+tp3457
+a(S'Oxford Academy of Hair Design'
+p3458
+F10151
+F16404
+tp3459
+a(S'Institute of World Politics'
+p3460
+F42021
+F60259
+tp3461
+a(S'Pontifical John Paul II Institute for Studies on Marriage and Family'
+p3462
+F42022
+F49687
+tp3463
+a(S'Medical Institute of Palm Beach'
+p3464
+F6507.5
+F13211
+tp3465
+a(S'Lake Lanier School of Massage'
+p3466
+F6428.5
+F15233
+tp3467
+a(S'Oliver Finley Academy of Cosmetology'
+p3468
+F11387
+F10479
+tp3469
+a(S'National Career College'
+p3470
+F8657.6000000000004
+F17990
+tp3471
+a(S'Aveda Institute-Chicago'
+p3472
+F10211
+F17772
+tp3473
+a(S'Tricoci University of Beauty Culture-Libertyville'
+p3474
+F8609.1000000000004
+F15678
+tp3475
+a(S'Tricoci University of Beauty Culture-Bridgeview'
+p3476
+F9782.3999999999996
+F14642
+tp3477
+a(S'The Temple-A Paul Mitchell Partner School'
+p3478
+F9309.8999999999996
+F15284
+tp3479
+a(S'Center for Massage & Natural Health'
+p3480
+F5555.6000000000004
+F16720
+tp3481
+a(S'Academy of Hair Design'
+p3482
+F10105
+F13371
+tp3483
+a(S'Education and Technology Institute'
+p3484
+F9669.7999999999993
+F20376
+tp3485
+a(S'Pulse Beauty Academy-A Paul Mitchell Partner School'
+p3486
+F10718
+F16957
+tp3487
+a(S'Liberty Technical College'
+p3488
+F264.56
+F16883
+tp3489
+a(S'Toni & Guy Hairdressing Academy-Cranston'
+p3490
+F9975.7000000000007
+F9235.1000000000004
+tp3491
+a(S'South Texas Training Center'
+p3492
+F5099.5
+F19594
+tp3493
+a(S'Columbia College'
+p3494
+F8377.7999999999993
+F21881
+tp3495
+a(S'Vermont College of Fine Arts'
+p3496
+F42030
+F44119
+tp3497
+a(S'Advanced Welding Institute'
+p3498
+F8015.8000000000002
+F24461
+tp3499
+a(S'Paul Mitchell the School-Memphis'
+p3500
+F9714.3999999999996
+F16583
+tp3501
+a(S'The Ohio Academy Paul Mitchell Partner School-Cleveland'
+p3502
+F10062
+F13363
+tp3503
+a(S'The Ohio Academy Paul Mitchell Partner School-Columbus'
+p3504
+F10674
+F14991
+tp3505
+a(S'Georgia Beauty Academy'
+p3506
+F6663.1999999999998
+F12086
+tp3507
+a(S'MediaTech Institute-Austin'
+p3508
+F13399
+F17350
+tp3509
+a(S'MediaTech Institute-Houston'
+p3510
+F12505
+F18771
+tp3511
+a(S'The Commonwealth Medical College'
+p3512
+F42022
+F42773
+tp3513
+a(S'Northeast Technology Center\xe2\x80\x93Claremore'
+p3514
+F6276.1000000000004
+F15179
+tp3515
+a(S'The Fila Academy'
+p3516
+F9341.6000000000004
+F14143
+tp3517
+a(S'Homestead Schools'
+p3518
+F12974
+F31074
+tp3519
+a(S'Washington Barber College Inc'
+p3520
+F6220.8999999999996
+F10979
+tp3521
+a(S'Universal Barber College'
+p3522
+F9433.6000000000004
+F14127
+tp3523
+a(S'Horizon College San Diego'
+p3524
+F21545
+F27065
+tp3525
+a(S'San Diego Culinary Institute'
+p3526
+F11825
+F20624
+tp3527
+a(S'Beyond 21st Century Beauty Academy'
+p3528
+F7718.8000000000002
+F12764
+tp3529
+a(S'Franklin Career College'
+p3530
+F7816.3999999999996
+F21322
+tp3531
+a(S'Academy for Jewish Religion-California'
+p3532
+F42024
+F41383
+tp3533
+a(S'Hollywood Beauty College'
+p3534
+F8869.6000000000004
+F12895
+tp3535
+a(S'Angeles College'
+p3536
+F10993
+F19256
+tp3537
+a(S'LA Barber College'
+p3538
+F9160.2000000000007
+F12525
+tp3539
+a(S'Angeles Institute'
+p3540
+F10877
+F23877
+tp3541
+a(S'Esthetiques Cosmetology Institute'
+p3542
+F9127.7999999999993
+F14043
+tp3543
+a(S'European Academy of Cosmetology and Hairdressing'
+p3544
+F11676
+F22915
+tp3545
+a(S'International Institute of Cosmetology'
+p3546
+F10912
+F19463
+tp3547
+a(S'Florida School of Traditional Midwifery'
+p3548
+F15894
+F48187
+tp3549
+a(S'Walton Career Development Center'
+p3550
+F10329
+F21887
+tp3551
+a(S'Immokalee Technical Center'
+p3552
+F3997.1999999999998
+F22001
+tp3553
+a(S'American Academy of Cosmetology'
+p3554
+F9335.6000000000004
+F14612
+tp3555
+a(S'University of Fort Lauderdale'
+p3556
+F20261
+F21781
+tp3557
+a(S'Aviation Institute of Maintenance-Orlando'
+p3558
+F25313
+F27956
+tp3559
+a(S'The Salon Professional Academy-Tampa'
+p3560
+F10541
+F15442
+tp3561
+a(S'The Salon Professional Academy-Gainesville'
+p3562
+F9359.2999999999993
+F13431
+tp3563
+a(S'The Salon Professional Academy-The Villages'
+p3564
+F9802.5
+F12083
+tp3565
+a(S'Kevosnik School of Hair Design'
+p3566
+F7762.8000000000002
+F12093
+tp3567
+a(S'Profile Institute of Barber-Styling'
+p3568
+F9866.6000000000004
+F14237
+tp3569
+a(S'The Process Institute of Cosmetology'
+p3570
+F10471
+F16683
+tp3571
+a(S'D & L Academy of Hair Design'
+p3572
+F10911
+F12860
+tp3573
+a(S'Master Educators Beauty School'
+p3574
+F11851
+F16232
+tp3575
+a(S'Ambria College of Nursing'
+p3576
+F13254
+F25312
+tp3577
+a(S'Midwestern Career College'
+p3578
+F8968
+F17641
+tp3579
+a(S'Paul Mitchell the School-Normal'
+p3580
+F8926.7000000000007
+F15728
+tp3581
+a(S'Innovations Design Academy'
+p3582
+F8392.6000000000004
+F13616
+tp3583
+a(S"Aveda Fredric's Institute-Indianapolis"
+p3584
+F10723
+F13032
+tp3585
+a(S'The Salon Professional Academy-Anderson'
+p3586
+F9904.6000000000004
+F11708
+tp3587
+a(S'Eric Fisher Academy'
+p3588
+F10216
+F12229
+tp3589
+a(S'A & W Healthcare Educators'
+p3590
+F11713
+F32600
+tp3591
+a(S"My-Le's Beauty College"
+p3592
+F6903.3000000000002
+F16044
+tp3593
+a(S'Southern Worcester County Regional Voc School District'
+p3594
+F12230
+F32482
+tp3595
+a(S"L'esprit Academy"
+p3596
+F10402
+F12790
+tp3597
+a(S'Marketti Academy of Cosmetology'
+p3598
+F8606.3999999999996
+F12468
+tp3599
+a(S'CenterPoint Massage and Shiatsu Therapy School and Clinic'
+p3600
+F9898.6000000000004
+F17708
+tp3601
+a(S'Avalon School of Cosmetology'
+p3602
+F12165
+F13916
+tp3603
+a(S'American College of Technology'
+p3604
+F17372
+F17285
+tp3605
+a(S'City Vision College'
+p3606
+F22596
+F35091
+tp3607
+a(S'Transformed Barber and Cosmetology Academy'
+p3608
+F9408.1000000000004
+F14365
+tp3609
+a(S'Mississippi School of Therapeutic Massage'
+p3610
+F11344
+F18230
+tp3611
+a(S'Bitterroot School of Cosmetology'
+p3612
+F8166.3999999999996
+F12209
+tp3613
+a(S'Atlanta Beauty Academy'
+p3614
+F6446
+F16719
+tp3615
+a(S'The Salon Professional Academy-Great Falls'
+p3616
+F8387.6000000000004
+F16624
+tp3617
+a(S'Park West Barber School'
+p3618
+F9112.6000000000004
+F13246
+tp3619
+a(S'National Career Institute'
+p3620
+F7501.1000000000004
+F18279
+tp3621
+a(S'Toni & Guy Hairdressing Academy-Albuquerque'
+p3622
+F9029.5
+F11769
+tp3623
+a(S'International Academy of Style'
+p3624
+F9577.5
+F9066.6000000000004
+tp3625
+a(S'EDP School of Computer Programming'
+p3626
+F9314.7000000000007
+F27644
+tp3627
+a(S'New York Medical Career Training Center'
+p3628
+F5648.6000000000004
+F17242
+tp3629
+a(S'Institute of Culinary Education'
+p3630
+F7065
+F34939
+tp3631
+a(S'New Life Business Institute'
+p3632
+F4747.8000000000002
+F17718
+tp3633
+a(S'The Salon Professional Academy-Tonawanda'
+p3634
+F8119.6000000000004
+F12869
+tp3635
+a(S'Onondaga School of Therapeutic Massage-Syracuse'
+p3636
+F9920.2999999999993
+F19203
+tp3637
+a(S'Academy of Cosmetology and Esthetics NYC'
+p3638
+F8505.6000000000004
+F13739
+tp3639
+a(S'Finger Lakes School of Massage'
+p3640
+F9740.7000000000007
+F21563
+tp3641
+a(S'Four County Career Center'
+p3642
+F12933
+F24501
+tp3643
+a(S'Vanity School of Cosmetology'
+p3644
+F8679.3999999999996
+F12985
+tp3645
+a(S'Tolles Career and Technical Center'
+p3646
+F8191.1000000000004
+F21147
+tp3647
+a(S'The Salon Professional Academy-Perrysburg'
+p3648
+F9247.6000000000004
+F16928
+tp3649
+a(S'Portland Actors Conservatory'
+p3650
+F8301.8999999999996
+F16822
+tp3651
+a(S'Somerset County Technology Center'
+p3652
+F12198
+F33199
+tp3653
+a(S'Metro Beauty Academy'
+p3654
+F10586
+F14484
+tp3655
+a(S'Barone Beauty Academy'
+p3656
+F9533.7999999999993
+F14021
+tp3657
+a(S'Scotland Educational Institute'
+p3658
+F7430.3999999999996
+F15623
+tp3659
+a(S'Marion County Technical Education Center'
+p3660
+F9733
+F22305
+tp3661
+a(S'Aiken School of Cosmetology'
+p3662
+F10308
+F13770
+tp3663
+a(S'Love Beauty School'
+p3664
+F6474.1999999999998
+F13103
+tp3665
+a(S'Professional Career Training Institute'
+p3666
+F7582.1000000000004
+F16960
+tp3667
+a(S'Cannon Institute of Higher Learning'
+p3668
+F15142
+F36204
+tp3669
+a(S'Cardiotech Ultrasound School'
+p3670
+F11013
+F25125
+tp3671
+a(S"DuVall's School of Cosmetology"
+p3672
+F10237
+F13700
+tp3673
+a(S'Advanced Beauty College'
+p3674
+F8296.7000000000007
+F34444
+tp3675
+a(S'Texas Beauty College'
+p3676
+F5211.6000000000004
+F25911
+tp3677
+a(S'Avenue Five Institute'
+p3678
+F11849
+F15358
+tp3679
+a(S'Corpus Christi Beauty Academy'
+p3680
+F9551.2000000000007
+F12432
+tp3681
+a(S'The Salon Professional Academy-Lewisville'
+p3682
+F11018
+F15782
+tp3683
+a(S'Renaissance Academie'
+p3684
+F8315.3999999999996
+F14042
+tp3685
+a(S'Bethel College'
+p3686
+F20395
+F13448
+tp3687
+a(S'Institute of Advanced Medical Esthetics'
+p3688
+F10663
+F16919
+tp3689
+a(S'Gary Manuel Aveda Institute'
+p3690
+F11221
+F17491
+tp3691
+a(S'Northwest School of Wooden Boat Building'
+p3692
+F15652
+F39068
+tp3693
+a(S'Bainbridge Graduate Institute'
+p3694
+F42024
+F55443
+tp3695
+a(S'The Salon Professional Academy-Onalaska'
+p3696
+F9189.2000000000007
+F13565
+tp3697
+a(S'Paul Mitchell the School-Chicago'
+p3698
+F11029
+F16925
+tp3699
+a(S"Regina's College of Beauty-High Point"
+p3700
+F10314
+F13220
+tp3701
+a(S'Tonsorial Academy of Cosmetology and Barber Styling'
+p3702
+F8833.7000000000007
+F18077
+tp3703
+a(S'Paul Mitchell the School-Phoenix'
+p3704
+F9790.7000000000007
+F13320
+tp3705
+a(S'All Beauty College'
+p3706
+F8936.6000000000004
+F12490
+tp3707
+a(S'Northern California Institute of Cosmetology Inc'
+p3708
+F9051.6000000000004
+F16399
+tp3709
+a(S'Golden State College of Court Reporting'
+p3710
+F17327
+F21625
+tp3711
+a(S'Preferred College of Nursing-Los Angeles'
+p3712
+F10546
+F26446
+tp3713
+a(S'Trinity Vocational Center'
+p3714
+F10627
+F28592
+tp3715
+a(S'SICE Paul Mitchell Partner School'
+p3716
+F8656.7999999999993
+F13123
+tp3717
+a(S'Cosmo Beauty Academy'
+p3718
+F7754.3999999999996
+F14735
+tp3719
+a(S'Paul Mitchell the School-Fresno'
+p3720
+F8213.2999999999993
+F11882
+tp3721
+a(S'Unitek College'
+p3722
+F13121
+F33987
+tp3723
+a(S'Gurnick Academy of Medical Arts'
+p3724
+F10811
+F31063
+tp3725
+a(S'Southern California University SOMA'
+p3726
+F42019
+F49172
+tp3727
+a(S'Paul Mitchell the School-East Bay'
+p3728
+F10323
+F13298
+tp3729
+a(S'Aveda Institute Denver'
+p3730
+F10183
+F18538
+tp3731
+a(S'Paul Mitchell the School-Colorado Springs'
+p3732
+F11727
+F19626
+tp3733
+a(S'The Salon Professional Academy-Colorado Springs'
+p3734
+F8933.2000000000007
+F15471
+tp3735
+a(S'Paul Mitchell The School-Delaware'
+p3736
+F8599.2999999999993
+F19472
+tp3737
+a(S'Future-Tech Institute'
+p3738
+F5261.3000000000002
+F15080
+tp3739
+a(S'Marchman Technical Education Center'
+p3740
+F8006.8000000000002
+F16738
+tp3741
+a(S'Eureka Institute of Health and Beauty'
+p3742
+F7529.6000000000004
+F29113
+tp3743
+a(S'The Salon Professional Academy-Ft Myers'
+p3744
+F8459.8999999999996
+F13103
+tp3745
+a(S'SOLEX College'
+p3746
+F8295
+F23136
+tp3747
+a(S'Unity Cosmetology College'
+p3748
+F8834.8999999999996
+F13495
+tp3749
+a(S'Universal Spa Training Academy'
+p3750
+F6838.5
+F16360
+tp3751
+a(S'The Salon Professional Academy-Evansville'
+p3752
+F8535.5
+F11793
+tp3753
+a(S'Tri County Regional Vocational Technical High School'
+p3754
+F8624.6000000000004
+F20826
+tp3755
+a(S'Compass College of Cinematic Arts'
+p3756
+F13472
+F18832
+tp3757
+a(S'Nova Academy of Cosmetology'
+p3758
+F10018
+F14405
+tp3759
+a(S'Victory Trade School'
+p3760
+F13760
+F15811
+tp3761
+a(S'Starting Points Inc'
+p3762
+F7793.6000000000004
+F18361
+tp3763
+a(S'The Lab-Paul Mitchell Partner School'
+p3764
+F9298.7000000000007
+F18366
+tp3765
+a(S'SAE Institute of Technology-New York'
+p3766
+F9586.8999999999996
+F20527
+tp3767
+a(S"John Paolo's Xtreme Beauty Institute-Goldwell Pro"
+p3768
+F9288
+F15663
+tp3769
+a(S'The Artisan College of Cosmetology'
+p3770
+F9835.3999999999996
+F12681
+tp3771
+a(S'Sage School of Massage & Healing Arts'
+p3772
+F8807.2000000000007
+F17994
+tp3773
+a(S"Lawyer's Assistant School of Dallas"
+p3774
+F8942.6000000000004
+F18406
+tp3775
+a(S'ABC Beauty Academy'
+p3776
+F2770.6999999999998
+F23329
+tp3777
+a(S'Salon & Spa Institute'
+p3778
+F7448
+F13663
+tp3779
+a(S'American Beauty Academy'
+p3780
+F7252.6999999999998
+F11852
+tp3781
+a(S'The Salon Professional Academy-Tacoma'
+p3782
+F9843.7999999999993
+F15497
+tp3783
+a(S'Academy of Cosmetology'
+p3784
+F13163
+F15650
+tp3785
+a(S'The Academy Waukesha'
+p3786
+F11381
+F16824
+tp3787
+a(S'Touro College Los Angeles'
+p3788
+F19923
+F31615
+tp3789
+a(S'Touro University California'
+p3790
+F43795
+F60069
+tp3791
+a(S'The Chicago School of Professional Psychology at Washington DC'
+p3792
+F19401
+F59139
+tp3793
+a(S'Touro University Nevada'
+p3794
+F19380
+F51324
+tp3795
+a(S'American Career Institute\xe2\x80\x93Baltimore'
+p3796
+F9500.6000000000004
+F21694
+tp3797
+a(S'American Career Institute\xe2\x80\x93Columbia'
+p3798
+F10036
+F20274
+tp3799
+a(S'American Career Institute\xe2\x80\x93Braintree'
+p3800
+F8878.2000000000007
+F20331
+tp3801
+a(S'American Career Institute\xe2\x80\x93Cambridge'
+p3802
+F9209.7000000000007
+F19910
+tp3803
+a(S'American Career Institute\xe2\x80\x93Springfield'
+p3804
+F8529
+F20206
+tp3805
+a(S'American Career Institute\xe2\x80\x93Framingham'
+p3806
+F9028.3999999999996
+F19891
+tp3807
+a(S'American Career Institute\xe2\x80\x93Woburn'
+p3808
+F8778.2999999999993
+F20042
+tp3809
+a(S"Regina's College of Beauty-Charlotte"
+p3810
+F11101
+F12854
+tp3811
+a(S'Avant Gard The School'
+p3812
+F9994.6000000000004
+F13113
+tp3813
+a(S'Moreno Valley College'
+p3814
+F10495
+F21392
+tp3815
+a(S'Onondaga School of Therapeutic Massage-Rochester'
+p3816
+F10339
+F19403
+tp3817
+a(S'Norco College'
+p3818
+F13741
+F27381
+tp3819
+a(S'Finger Lakes School of Massage'
+p3820
+F11704
+F19633
+tp3821
+a(S'Park Avenue School of Cosmetology'
+p3822
+F7364.8000000000002
+F12630
+tp3823
+a(S'Stratford School of Aviation Maintenance Technicians'
+p3824
+F19159
+F49345
+tp3825
+a(S'Hollywood Institute of Beauty Careers'
+p3826
+F8798.3999999999996
+F12387
+tp3827
+a(S'Cambridge Junior College-Woodland'
+p3828
+F8050.6000000000004
+F16089
+tp3829
+a(S'ICPR Junior College\xe2\x80\x93Manat\xc3\xad'
+p3830
+F-64.632000000000005
+F12489
+tp3831
+a(S'Paul Mitchell the School-Murfreesboro'
+p3832
+F10034
+F15352
+tp3833
+a(S'American Sentinel University'
+p3834
+F24099
+F42022
+tp3835
+a(S'Hawaii Medical Institute'
+p3836
+F11657
+F21263
+tp3837
+a(S'Carolina College of Hair Design'
+p3838
+F7795.6000000000004
+F13299
+tp3839
+a(S'College of Massage Therapy'
+p3840
+F10240
+F27156
+tp3841
+a(S'Aveda Institute Portland'
+p3842
+F13269
+F16493
+tp3843
+a(S'The Salon Professional Academy'
+p3844
+F9723.5
+F13920
+tp3845
+a(S'Penrose Academy'
+p3846
+F8876.3999999999996
+F16668
+tp3847
+a(S'Skin Institute'
+p3848
+F12985
+F15958
+tp3849
+a(S'Northwest Institute of Literary Arts'
+p3850
+F15702
+F39962
+tp3851
+a(S'Body Therapy Institute'
+p3852
+F8246.6000000000004
+F17507
+tp3853
+a(S'Beauty Academy of South Florida'
+p3854
+F5958.1999999999998
+F13007
+tp3855
+a(S'Salon Professional Academy (The)'
+p3856
+F10586
+F12951
+tp3857
+a(S'The Salon Professional Academy'
+p3858
+F9673.2999999999993
+F14913
+tp3859
+a(S'National Paralegal College'
+p3860
+F28093
+F29747
+tp3861
+a(S'Carolina Bible College'
+p3862
+F21337
+F23236
+tp3863
+a(S'Allstate Hairstyling & Barber College'
+p3864
+F10380
+F11935
+tp3865
+a(S'Oxford Graduate School'
+p3866
+F42025
+F40794
+tp3867
+a(S'Jung Tao School of Classical Chinese Medicine'
+p3868
+F42025
+F38934
+tp3869
+a(S'New York Film Academy'
+p3870
+F11411
+F16674
+tp3871
+a(S'The Collective School Of Music'
+p3872
+F6963.5
+F28644
+tp3873
+a(S'Vocational Institute of Florida'
+p3874
+F11427
+F16557
+tp3875
+a(S'International College of Cosmetology'
+p3876
+F7598.1000000000004
+F18582
+tp3877
+a(S'GP Institute of Cosmetology'
+p3878
+F12634
+F26125
+tp3879
+a(S'Bella Capelli Academy'
+p3880
+F10508
+F14449
+tp3881
+a(S'Institute of Medical Careers'
+p3882
+F11111
+F32191
+tp3883
+a(S'Toni & Guy Hairdressing Academy'
+p3884
+F9092.2000000000007
+F13772
+tp3885
+a(S'Georgia Christian University'
+p3886
+F11697
+F35134
+tp3887
+a(S'Flagler Technical Institute'
+p3888
+F10367
+F15882
+tp3889
+a(S'Galaxy Medical College'
+p3890
+F9200
+F16917
+tp3891
+a(S'American Medical Sciences Center'
+p3892
+F10663
+F23882
+tp3893
+a(S'Mandalyn Academy'
+p3894
+F9888.2000000000007
+F15153
+tp3895
+a(S'Jose Maria Vargas University'
+p3896
+F10242
+F6503
+tp3897
+a(S'Laird Institute of Spa Therapy'
+p3898
+F8086.5
+F14947
+tp3899
+a(S'D. A. Dorsey Educational Center'
+p3900
+F9689.1000000000004
+F43083
+tp3901
+a(S'Keweenaw Bay Ojibwa Community College'
+p3902
+F14248
+F49381
+tp3903
+a(S'Meridian Institute of Surgical Assisting'
+p3904
+F12684
+F33734
+tp3905
+a(S'Mauna Loa Helicopters'
+p3906
+F9669.2000000000007
+F-9327.1000000000004
+tp3907
+a(S'Acaydia School of Aesthetics'
+p3908
+F7146.8000000000002
+F10932
+tp3909
+a(S'Manhattan Institute (The)'
+p3910
+F5100.8000000000002
+F21240
+tp3911
+a(S'Cosmetic Arts Institute'
+p3912
+F9164.7000000000007
+F12909
+tp3913
+a(S'Holistic Massage Training Institute'
+p3914
+F13306
+F44236
+tp3915
+a(S'Diamonds Cosmetology College'
+p3916
+F7858
+F13369
+tp3917
+a(S'Tramy Beauty School'
+p3918
+F3636.1999999999998
+F17216
+tp3919
+a(S'Scholars Cosmetology University'
+p3920
+F8948.3999999999996
+F11774
+tp3921
+a(S'Northern Virginia School of Therapeutic Massage'
+p3922
+F8411.6000000000004
+F31999
+tp3923
+a(S'Paul Mitchell The School St Louis'
+p3924
+F10714
+F13400
+tp3925
+a(S'Advanced Training Institute'
+p3926
+F12681
+F33789
+tp3927
+a(S'Cosmopolitan Beauty & Tech School'
+p3928
+F8085.1000000000004
+F22881
+tp3929
+a(S'Salon Professional Academy of Elgin (The)'
+p3930
+F8220
+F14300
+tp3931
+a(S'CCIC Beauty College'
+p3932
+F12094
+F12925
+tp3933
+a(S'Salon 496 Barber Academy'
+p3934
+F8420.5
+F14912
+tp3935
+a(S'Shepherds Theological Seminary'
+p3936
+F43701
+F44939
+tp3937
+a(S'Taylor Andrews Academy of Hair Design'
+p3938
+F10242
+F14833
+tp3939
+a(S'Santa Ana Beauty Academy'
+p3940
+F4398.8999999999996
+F13302
+tp3941
+a(S'Notter School of Pastry Arts'
+p3942
+F10533
+F15772
+tp3943
+a(S'Grace College of Divinity'
+p3944
+F16426
+F23092
+tp3945
+a(S'Cosmetology College of Franklin County'
+p3946
+F9767.5
+F12266
+tp3947
+a(S'Rochester School of Hair Design'
+p3948
+F9773.2999999999993
+F15375
+tp3949
+a(S'Aveda Institute of New Mexico (The)'
+p3950
+F8700.1000000000004
+F14383
+tp3951
+a(S'Nashville Barber and Style Academy'
+p3952
+F6058.8000000000002
+F13564
+tp3953
+a(S'American Trade School'
+p3954
+F12648
+F22352
+tp3955
+a(S'Skin Care and Spa Institute'
+p3956
+F6363.5
+F17583
+tp3957
+a(S'Paul Mitchell The School Honolulu'
+p3958
+F10645
+F16734
+tp3959
+a(S'Elite Cosmetology School'
+p3960
+F8538.8999999999996
+F11938
+tp3961
+a(S'Academy of Aesthetic Arts'
+p3962
+F11522
+F14899
+tp3963
+a(S'American Technical Institute'
+p3964
+F3028.5999999999999
+F17223
+tp3965
+a(S'Twin Rivers Adult School'
+p3966
+F6883.8999999999996
+F29516
+tp3967
+a(S'Bergin University of Canine Studies'
+p3968
+F12177
+F40632
+tp3969
+a(S"D'Shaw Institute of Cosmetology"
+p3970
+F12415
+F11586
+tp3971
+a(S'Progressive Training Centers'
+p3972
+F7256.3000000000002
+F18180
+tp3973
+a(S'American Health Institute'
+p3974
+F8718.6000000000004
+F17258
+tp3975
+a(S'Pima Medical Institute-South Denver'
+p3976
+F15352
+F33495
+tp3977
+a(S'Real Barbers College (The)'
+p3978
+F6924.6000000000004
+F12187
+tp3979
+a(S'Capilo School of Hair Design'
+p3980
+F8325.1000000000004
+F12398
+tp3981
+a(S'Pure Aesthetics'
+p3982
+F6436
+F13114
+tp3983
+a(S'Lindsey Institute of Cosmetology'
+p3984
+F14437
+F13192
+tp3985
+a(S'Salon Professional Academy (The)'
+p3986
+F12736
+F12757
+tp3987
+a(S'Buckner Barber School'
+p3988
+F4580.1999999999998
+F12034
+tp3989
+a(S'Simmons College of Kentucky'
+p3990
+F17437
+F20961
+tp3991
+a(S'Atelier Esthetique Institute of Esthetics'
+p3992
+F6175
+F16983
+tp3993
+a(S'Hands-on Medical Massage School'
+p3994
+F13261
+F36427
+tp3995
+a(S'Advanced College of Cosmetology'
+p3996
+F9922.2000000000007
+F13806
+tp3997
+a(S'North American College'
+p3998
+F18038
+F25300
+tp3999
+a(S'Entourage Institute of Beauty and Esthetics'
+p4000
+F10687
+F14267
+tp4001
+a(S'United Beauty College'
+p4002
+F8214.8999999999996
+F37374
+tp4003
+a(S'Cinta Aveda Institute'
+p4004
+F12268
+F15461
+tp4005
+a(S'Long Island Nail & Skin Care Institute'
+p4006
+F5666
+F17355
+tp4007
+a(S'Mesivta Keser Torah'
+p4008
+F14789
+F12371
+tp4009
+a(S'Southern California Health Institute (SOCHI)'
+p4010
+F9507.8999999999996
+F22343
+tp4011
+a(S'Best Care Training Institute'
+p4012
+F7382.6000000000004
+F21549
+tp4013
+a(S'First Class Cosmetology School'
+p4014
+F14801
+F16234
+tp4015
+a(S'Millennia Atlantic University'
+p4016
+F22135
+F30635
+tp4017
+a(S'Abcott Institute'
+p4018
+F8664.1000000000004
+F15572
+tp4019
+a(S'Salon Professional Academy of Kenosha (The)'
+p4020
+F10690
+F13641
+tp4021
+a(S'Paul Mitchell The School Indianapolis'
+p4022
+F13483
+F23357
+tp4023
+a(S'Taylor Andrews Academy-St. George'
+p4024
+F9723.1000000000004
+F10808
+tp4025
+a(S'Seymour Beauty Academy'
+p4026
+F6031.8999999999996
+F12108
+tp4027
+a(S'Protege Academy'
+p4028
+F8132.8000000000002
+F11404
+tp4029
+a(S'Colorado Academy of Veterinary Technology'
+p4030
+F19836
+F38691
+tp4031
+a(S'Northeast Technical Institute'
+p4032
+F13915
+F35579
+tp4033
+a(S'Salinas Beauty College Inc'
+p4034
+F5241.6000000000004
+F13792
+tp4035
+a(S'Academy for Salon Professionals (The)'
+p4036
+F10265
+F18652
+tp4037
+a(S'Elite School of Cosmetology'
+p4038
+F8271.7000000000007
+F11228
+tp4039
+a(S'Paul Mitchell the School Las Vegas'
+p4040
+F11528
+F16819
+tp4041
+a(S'Salon Professional Academy (The)'
+p4042
+F11072
+F12425
+tp4043
+a(S'Hair Academy (The)'
+p4044
+F8103.3999999999996
+F12410
+tp4045
+a(S'Florida Academy'
+p4046
+F5416.5
+F15123
+tp4047
+a(S'Institute for Doctoral Studies in the Visual Arts'
+p4048
+F12394
+F49108
+tp4049
+a(S'State Career School'
+p4050
+F7546.6999999999998
+F19393
+tp4051
+a(S'Academy for Salon Professionals'
+p4052
+F9742.2000000000007
+F17978
+tp4053
+a(S'Paul Mitchell The School Spokane'
+p4054
+F12288
+F13525
+tp4055
+a(S"DeVry University's Keller Graduate School of Management-Maryland"
+p4056
+F24426
+F54363
+tp4057
+a(S"DeVry University's Keller Graduate School of Management-North Carolina"
+p4058
+F24418
+F49689
+tp4059
+a(S"DeVry University's Keller Graduate School of Management-Florida"
+p4060
+F25015
+F50982
+tp4061
+a(S"DeVry College of New York's Keller Graduate School of Management"
+p4062
+F24979
+F54490
+tp4063
+a(S"DeVry University's Keller Graduate School of Management-Indiana"
+p4064
+F37500
+F48749
+tp4065
+a(S"DeVry University's Keller Graduate School of Management-Nevada"
+p4066
+F25021
+F50997
+tp4067
+a(S"DeVry University's Keller Graduate School of Management-Colorado"
+p4068
+F25023
+F51097
+tp4069
+a(S"DeVry University's Keller Graduate School of Management-Minnesota"
+p4070
+F25013
+F51345
+tp4071
+a(S"DeVry University's Keller Graduate School of Management-Oklahoma"
+p4072
+F25028
+F50052
+tp4073
+a(S"DeVry University's Keller Graduate School of Management-Utah"
+p4074
+F24473
+F49573
+tp4075
+a(S"DeVry University's Keller Graduate School of Management-Tennessee"
+p4076
+F24417
+F52003
+tp4077
+a(S"DeVry University's Keller Graduate School of Management-Michigan"
+p4078
+F23241
+F52579
+tp4079
+a(S"DeVry University's Keller Graduate School of Management-Kentucky"
+p4080
+F24381
+F51611
+tp4081
+a(S"DeVry University's Keller Graduate School of Management-New Jersey"
+p4082
+F23671
+F58890
+tp4083
+a(S"DeVry University's Keller Graduate School of Management-Oregon"
+p4084
+F25013
+F51663
+tp4085
+a(S'Northwestern Institute of Health and Technology'
+p4086
+F11042
+F32243
+tp4087
+a(S'J Renee Career Facilitation'
+p4088
+F10920
+F28817
+tp4089
+a(S'National Personal Training Institute of Colorado'
+p4090
+F11814
+F16264
+tp4091
+a(S'National Personal Training Institute of Colorado'
+p4092
+F14665
+F23883
+tp4093
+a(S'International College of Beauty Arts & Sciences'
+p4094
+F10141
+F13805
+tp4095
+a(S'Salon Professional Academy (The)'
+p4096
+F11155
+F19401
+tp4097
+a(S'John Paul the Great Catholic University'
+p4098
+F20301
+F30081
+tp4099
+a(S'Paul Mitchell The School-Columbia'
+p4100
+F8728.8999999999996
+F15658
+tp4101
+a(S'Paul Mitchell The School-Charleston'
+p4102
+F8800.2000000000007
+F15610
+tp4103
+a(S'Kenneth Shuler School of Cosmetology'
+p4104
+F12804
+F15443
+tp4105
+a(S'South University-Accelerated Graduate Programs'
+p4106
+F30000
+F33535
+tp4107
+a(S'Houston Training Schools'
+p4108
+F4234.1999999999998
+F12608
+tp4109
+a(S'John Dewey College'
+p4110
+F925.07000000000005
+F13050
+tp4111
+a(S'John Dewey College'
+p4112
+F-43.515999999999998
+F14571
+tp4113
+a(S'John Dewey College'
+p4114
+F737.22000000000003
+F8574.2999999999993
+tp4115
+a(S"Aveda Fredric's Institute"
+p4116
+F12696
+F14359
+tp4117
+a(S'Buchanan Beauty College'
+p4118
+F6443.6999999999998
+F12787
+tp4119
+a(S'WellSpring School of Allied Health'
+p4120
+F11652
+F25590
+tp4121
+a(S"Regina's College of Beauty"
+p4122
+F10734
+F13156
+tp4123
+a(S'New York Film Academy'
+p4124
+F10182
+F16394
+tp4125
+a(S"Manuel and Theresa's School of Hair Design"
+p4126
+F8299.6000000000004
+F13115
+tp4127
+a(S'Coast Career Institute'
+p4128
+F8800.1000000000004
+F18586
+tp4129
+a(S'Tricoci University of Beauty Culture'
+p4130
+F13483
+F17585
+tp4131
+a(S'Aveda Institute Des Moines'
+p4132
+F10538
+F18574
+tp4133
+a(S'Troy University-Phenix City Campus'
+p4134
+F25030
+F39000
+tp4135
+a(S'Troy University-Montgomery Campus'
+p4136
+F25030
+F39000
+tp4137
+a(S'Troy University-Dothan Campus'
+p4138
+F25030
+F39000
+tp4139
+a(S'Troy University-Atlantic Region'
+p4140
+F26047
+F39000
+tp4141
+a(S'Troy University-Southeast Region'
+p4142
+F25983
+F40200
+tp4143
+a(S'Troy University-Western Region'
+p4144
+F25554
+F39491
+tp4145
+a(S'Troy University-eTROY'
+p4146
+F25184
+F39000
+tp4147
+a(S'Arkansas College of Barbering and Hair Design'
+p4148
+F18849
+F25916
+tp4149
+a(S'Bee Jays Academy'
+p4150
+F18371
+F23302
+tp4151
+a(S'Harding School of Theology'
+p4152
+F29026
+F40011
+tp4153
+a(S'Career Academy of Hair Design-Siloam Springs'
+p4154
+F17782
+F24763
+tp4155
+a(S'Career Academy of Hair Design-Rogers'
+p4156
+F18213
+F24883
+tp4157
+a(S'Art Center College of Design'
+p4158
+F35214
+F29792
+tp4159
+a(S'Alliant International University-Fresno'
+p4160
+F17379
+F46273
+tp4161
+a(S'Alliant International University-Los Angeles'
+p4162
+F17379
+F46273
+tp4163
+a(S'Alliant International University-San Francisco'
+p4164
+F17379
+F46273
+tp4165
+a(S'Alliant International University-Irvine'
+p4166
+F17379
+F46273
+tp4167
+a(S'Alliant International University-Sacramento'
+p4168
+F17379
+F46273
+tp4169
+a(S'Casa Loma College-Hawthorne'
+p4170
+F18487
+F31045
+tp4171
+a(S'San Jose Campus'
+p4172
+F22000
+F37391
+tp4173
+a(S'Golden Gate University-Los Angeles'
+p4174
+F26117
+F40267
+tp4175
+a(S'Golden Gate University-Seattle'
+p4176
+F26222
+F40682
+tp4177
+a(S'Golden Gate University-Silicon Valley'
+p4178
+F26117
+F40267
+tp4179
+a(S'Humphreys College-Modesto'
+p4180
+F32835
+F30623
+tp4181
+a(S'International School of Cosmetology'
+p4182
+F16305
+F24658
+tp4183
+a(S'Marinello School of Beauty'
+p4184
+F17705
+F21385
+tp4185
+a(S'Marinello School of Beauty'
+p4186
+F17705
+F21385
+tp4187
+a(S'Marinello School of Beauty'
+p4188
+F17705
+F21385
+tp4189
+a(S'Marinello School of Beauty'
+p4190
+F17705
+F21385
+tp4191
+a(S'Marinello School of Beauty'
+p4192
+F17705
+F21385
+tp4193
+a(S'Marinello School of Beauty'
+p4194
+F17705
+F21385
+tp4195
+a(S'Marinello School of Beauty'
+p4196
+F17705
+F21385
+tp4197
+a(S'Marinello School of Beauty'
+p4198
+F17705
+F21385
+tp4199
+a(S"Mount St. Mary's College - Doheny Campus"
+p4200
+F31898
+F32677
+tp4201
+a(S'San Joaquin General Hospital School of Radiation Technology'
+p4202
+F18290
+F26593
+tp4203
+a(S'San Joaquin Valley College'
+p4204
+F22567
+F25117
+tp4205
+a(S'Jesuit School of Theology of Santa Clara University'
+p4206
+F27171
+F41361
+tp4207
+a(S'Pinnacle College-Sacramento'
+p4208
+F15912
+F27851
+tp4209
+a(S'UEI College-San Bernardino Campus'
+p4210
+F13382
+F18867
+tp4211
+a(S'UEI College-San Diego Campus'
+p4212
+F13382
+F18867
+tp4213
+a(S'UEI College-Ontario Campus'
+p4214
+F13704
+F18729
+tp4215
+a(S'UEI College-Van Nuys Campus'
+p4216
+F13704
+F18729
+tp4217
+a(S'UEI College-Chula Vista'
+p4218
+F13704
+F18729
+tp4219
+a(S'UEI College-El Monte Campus'
+p4220
+F13704
+F18729
+tp4221
+a(S'UEI College'
+p4222
+F13704
+F18729
+tp4223
+a(S'Colorado Technical University'
+p4224
+F26829
+F33367
+tp4225
+a(S'Porter and Chester Institute of Rocky Hill'
+p4226
+F19605
+F35777
+tp4227
+a(S'Porter and Chester Institute of Enfield'
+p4228
+F19605
+F35777
+tp4229
+a(S'Porter and Chester Institute of Watertown'
+p4230
+F19605
+F35777
+tp4231
+a(S'Porter and Chester Institute of Chicopee'
+p4232
+F16383
+F30765
+tp4233
+a(S'Porter and Chester Institute of Westborough'
+p4234
+F16383
+F30765
+tp4235
+a(S'Porter and Chester Institute of Canton'
+p4236
+F16383
+F30765
+tp4237
+a(S'Porter and Chester Institute of Woburn'
+p4238
+F16383
+F30765
+tp4239
+a(S'Strayer University-Takoma Park Campus'
+p4240
+F27804
+F37461
+tp4241
+a(S'Barry University Law School'
+p4242
+F25585
+F31797
+tp4243
+a(S'Keiser University-Melbourne'
+p4244
+F25659
+F31017
+tp4245
+a(S'Keiser University-Tallahassee'
+p4246
+F25659
+F31017
+tp4247
+a(S'Keiser University-Daytona'
+p4248
+F25659
+F31017
+tp4249
+a(S'Keiser University-Lakeland'
+p4250
+F25659
+F31017
+tp4251
+a(S'Keiser University- Miami'
+p4252
+F25659
+F31017
+tp4253
+a(S'Keiser University-Orlando'
+p4254
+F25659
+F31017
+tp4255
+a(S'Keiser University-Sarasota'
+p4256
+F25659
+F31017
+tp4257
+a(S'Keiser University-Jacksonville'
+p4258
+F25659
+F31017
+tp4259
+a(S'Keiser University-Tampa'
+p4260
+F25659
+F31017
+tp4261
+a(S'Keiser University-Pembroke Pines'
+p4262
+F25659
+F31017
+tp4263
+a(S'Keiser University-Port St Lucie'
+p4264
+F25659
+F31017
+tp4265
+a(S'Keiser University-West Palm Beach'
+p4266
+F25659
+F31017
+tp4267
+a(S'Keiser University-Ft Myers'
+p4268
+F25659
+F31017
+tp4269
+a(S'Manhattan Hairstyling Academy - North'
+p4270
+F16428
+F21269
+tp4271
+a(S'Rasmussen College-New Port Richey'
+p4272
+F22181
+F34470
+tp4273
+a(S'Rasmussen College-Fort Myers'
+p4274
+F22181
+F34470
+tp4275
+a(S'Rasmussen College-Tampa/Brandon'
+p4276
+F22181
+F34470
+tp4277
+a(S'UEI- Morrow Campus'
+p4278
+F14789
+F21042
+tp4279
+a(S'UEI College'
+p4280
+F14889
+F19773
+tp4281
+a(S'Georgia Military College'
+p4282
+F24154
+F34917
+tp4283
+a(S'Georgia Military College'
+p4284
+F24154
+F34917
+tp4285
+a(S'Moody Theological Seminary and Graduate School--Michigan'
+p4286
+F25620
+F27377
+tp4287
+a(S'Moody Bible Institute-Spokane'
+p4288
+F27154
+F28149
+tp4289
+a(S"PJ's College of Cosmetology"
+p4290
+F19623
+F26601
+tp4291
+a(S"PJ's College of Cosmetology"
+p4292
+F19447
+F27181
+tp4293
+a(S"PJ's College of Cosmetology"
+p4294
+F19623
+F26601
+tp4295
+a(S'Graceland University'
+p4296
+F26707
+F35396
+tp4297
+a(S'Baker University School of Nursing'
+p4298
+F26019
+F41858
+tp4299
+a(S'Baker University School of Professional and Graduate Studies and Graduate School of Education'
+p4300
+F26019
+F41858
+tp4301
+a(S'Central Baptist Theological Seminary'
+p4302
+F25056
+F36477
+tp4303
+a(S'Coffeyville Technical Campus'
+p4304
+F20241
+F30390
+tp4305
+a(S'Columbus Technical Campus'
+p4306
+F20241
+F30390
+tp4307
+a(S"PJ's College of Cosmetology"
+p4308
+F19098
+F24460
+tp4309
+a(S"PJ's College of Cosmetology"
+p4310
+F19098
+F24460
+tp4311
+a(S"PJ's College of Cosmetology"
+p4312
+F19098
+F24460
+tp4313
+a(S"PJ's College of Cosmetology"
+p4314
+F19098
+F24460
+tp4315
+a(S"PJ's College of Cosmetology"
+p4316
+F19119
+F25137
+tp4317
+a(S'Daymar College-Albany'
+p4318
+F25306
+F27104
+tp4319
+a(S'Union College London Center'
+p4320
+F27604
+F29744
+tp4321
+a(S'Empire Beauty School-Caribou'
+p4322
+F18307
+F25596
+tp4323
+a(S'Empire Beauty School-Bangor'
+p4324
+F18307
+F25596
+tp4325
+a(S'Empire Beauty School-Waterville'
+p4326
+F18307
+F25596
+tp4327
+a(S'International Beauty School'
+p4328
+F17187
+F21668
+tp4329
+a(S'The Art Institute of Boston at Lesley University'
+p4330
+F31484
+F40632
+tp4331
+a(S'Cleary University'
+p4332
+F33125
+F40655
+tp4333
+a(S'Davenport University-Warren Location'
+p4334
+F31666
+F34296
+tp4335
+a(S'Davenport University-Kalamazoo Location'
+p4336
+F31666
+F34296
+tp4337
+a(S'Davenport University-Lansing Location'
+p4338
+F31666
+F34296
+tp4339
+a(S'Davenport University-Midland Location'
+p4340
+F31499
+F34296
+tp4341
+a(S'Davenport University-Holland Location'
+p4342
+F31666
+F34296
+tp4343
+a(S'Davenport University-Flint Location'
+p4344
+F31499
+F34296
+tp4345
+a(S'Davenport University-Caro Location'
+p4346
+F30810
+F34296
+tp4347
+a(S'Davenport University-Traverse City Location'
+p4348
+F28817
+F34296
+tp4349
+a(S'Davenport University-Alma Location'
+p4350
+F30810
+F34296
+tp4351
+a(S'Davenport University-Saginaw Location'
+p4352
+F31499
+F34296
+tp4353
+a(S'Davenport University-Livonia Location'
+p4354
+F31666
+F34296
+tp4355
+a(S'Davenport University-Battle Creek Location'
+p4356
+F31499
+F34296
+tp4357
+a(S'Anoka-Ramsey Community College-Cambridge Campus'
+p4358
+F26049
+F38551
+tp4359
+a(S'Central Lakes College-Staples Campus'
+p4360
+F23161
+F35336
+tp4361
+a(S'M State - Detroit Lakes Campus'
+p4362
+F26262
+F39219
+tp4363
+a(S'M State - Moorhead Campus'
+p4364
+F26275
+F39220
+tp4365
+a(S'M State - Wadena Campus'
+p4366
+F26262
+F39219
+tp4367
+a(S'South Central \xc2\xa0College-Faribault'
+p4368
+F24781
+F38260
+tp4369
+a(S'Mesabi Range Community and Technical College'
+p4370
+F21058
+F34252
+tp4371
+a(S'Northland Community and Technical College - East Grand Forks'
+p4372
+F23182
+F37296
+tp4373
+a(S'Rasmussen College-Bloomington'
+p4374
+F22679
+F34500
+tp4375
+a(S'Rasmussen College-Eagan'
+p4376
+F22679
+F34500
+tp4377
+a(S'Rasmussen College-Mankato'
+p4378
+F22679
+F34500
+tp4379
+a(S'Rasmussen College-Brooklyn Park'
+p4380
+F22679
+F34500
+tp4381
+a(S'Rasmussen College-Lake Elmo/Woodbury'
+p4382
+F22679
+F34500
+tp4383
+a(S'Rasmussen College-Blaine'
+p4384
+F22679
+F34500
+tp4385
+a(S'Ridgewater College'
+p4386
+F23558
+F37977
+tp4387
+a(S'Minnesota State College-SE Technical-Red Wing'
+p4388
+F22024
+F38270
+tp4389
+a(S'Copiah-Lincoln Community College Simpson County Center'
+p4390
+F18316
+F29346
+tp4391
+a(S'Copiah-Lincoln Community College-Natchez Campus'
+p4392
+F18316
+F29346
+tp4393
+a(S'Pearl River Community College-Forrest County Center'
+p4394
+F18049
+F27948
+tp4395
+a(S'Saint Louis Community College-Meramec'
+p4396
+F19647
+F27637
+tp4397
+a(S'Saint Louis Community College-Florissant Valley'
+p4398
+F19647
+F27637
+tp4399
+a(S'Saint Louis Community College-Wildwood'
+p4400
+F19647
+F27637
+tp4401
+a(S'Montana State University-Billings-College of Technology'
+p4402
+F24965
+F36994
+tp4403
+a(S'New Hampshire Institute for Therapeutic Arts'
+p4404
+F15879
+F24627
+tp4405
+a(S'Berkeley College - Westchester Campus'
+p4406
+F31189
+F27975
+tp4407
+a(S'Briarcliffe College\xe2\x80\x93Patchogue'
+p4408
+F27037
+F31204
+tp4409
+a(S'Culinary Institute of America at Greystone'
+p4410
+F25900
+F37243
+tp4411
+a(S'Culinary Institute of America San Antonio'
+p4412
+F25254
+F40813
+tp4413
+a(S'New York Institute of Technology'
+p4414
+F32495
+F34555
+tp4415
+a(S'Pratt Manhattan-A Division of Pratt Institute'
+p4416
+F32745
+F36849
+tp4417
+a(S'Saint Josephs College-Suffolk Campus'
+p4418
+F29227
+F40770
+tp4419
+a(S'Gaston College'
+p4420
+F15375
+F27651
+tp4421
+a(S'Rasmussen College-Bismarck'
+p4422
+F22353
+F33691
+tp4423
+a(S'Los Angeles Center'
+p4424
+F28139
+F39776
+tp4425
+a(S'Florida Center'
+p4426
+F28149
+F39776
+tp4427
+a(S'Sacramento Center'
+p4428
+F28139
+F39776
+tp4429
+a(S'Montpelier Center'
+p4430
+F27433
+F39776
+tp4431
+a(S'Brattleboro Center'
+p4432
+F28041
+F39776
+tp4433
+a(S'Marlboro Center'
+p4434
+F24783
+F39776
+tp4435
+a(S'Corban University Puget Sound Campus'
+p4436
+F28675
+F36855
+tp4437
+a(S'Western Seminary-San Jose'
+p4438
+F23014
+F40538
+tp4439
+a(S'Western Seminary-Sacramento'
+p4440
+F23014
+F40538
+tp4441
+a(S'American Beauty Academy'
+p4442
+F18962
+F28856
+tp4443
+a(S'Bucks County Community College-Upper Bucks Campus'
+p4444
+F21945
+F37637
+tp4445
+a(S'Bucks County Community College-Lower Bucks Campus'
+p4446
+F21945
+F37637
+tp4447
+a(S'Harrisburg Area Community College-Lancaster'
+p4448
+F23271
+F38644
+tp4449
+a(S'Harrisburg Area Community College-Gettysburg'
+p4450
+F23271
+F38644
+tp4451
+a(S'Harrisburg Area Community College-Lebanon'
+p4452
+F23271
+F38644
+tp4453
+a(S'Harrisburg Area Community College-York'
+p4454
+F23271
+F38644
+tp4455
+a(S'Northampton County Area Community College-Monroe'
+p4456
+F19727
+F33313
+tp4457
+a(S'Laurel Technical Institute Meadville'
+p4458
+F21644
+F27833
+tp4459
+a(S'South Hills School of Business and Technology-Altoona'
+p4460
+F23621
+F30470
+tp4461
+a(S'Galveston College'
+p4462
+F17366
+F29844
+tp4463
+a(S'San Jacinto College-North Campus'
+p4464
+F17888
+F31601
+tp4465
+a(S'San Jacinto College-South Campus'
+p4466
+F17888
+F31601
+tp4467
+a(S'Southwest School of Business and Technical Careers-South Texas'
+p4468
+F12921
+F20258
+tp4469
+a(S'Southwest School of Business and Technical Careers-Corpus Christi'
+p4470
+F12538
+F20301
+tp4471
+a(S'Texas A&M University-San Antonio'
+p4472
+F26680
+F37734
+tp4473
+a(S'Snow College-Richfield Campus'
+p4474
+F19353
+F33478
+tp4475
+a(S'Strayer University-Alexandria Campus'
+p4476
+F28519
+F36467
+tp4477
+a(S'Strayer University-Woodbridge Campus'
+p4478
+F28519
+F36467
+tp4479
+a(S'Strayer University-Manassas Campus'
+p4480
+F28519
+F36467
+tp4481
+a(S'Strayer University-Loudoun Campus'
+p4482
+F28519
+F36467
+tp4483
+a(S'Strayer University-Fredericksburg Campus'
+p4484
+F28519
+F36467
+tp4485
+a(S'Strayer University-Henrico Campus'
+p4486
+F28519
+F36467
+tp4487
+a(S'Strayer University-Chesterfield Campus'
+p4488
+F28519
+F36467
+tp4489
+a(S'Strayer University-Chesapeake Campus'
+p4490
+F28519
+F36467
+tp4491
+a(S'Strayer University-Newport News Campus'
+p4492
+F28519
+F36467
+tp4493
+a(S'Strayer University-Virginia Beach Campus'
+p4494
+F28519
+F36467
+tp4495
+a(S'Union Presbyterian Seminary-Charlotte'
+p4496
+F22262
+F37621
+tp4497
+a(S'Washington State University-Vancouver'
+p4498
+F25951
+F40984
+tp4499
+a(S'Washington State University-Spokane'
+p4500
+F27504
+F40984
+tp4501
+a(S'Washington State University-Tri Cities'
+p4502
+F25951
+F40984
+tp4503
+a(S'West Virginia Business College-Nutter Fort'
+p4504
+F22726
+F30721
+tp4505
+a(S'University of the Virgin Islands-Kingshill'
+p4506
+F12628
+F25600
+tp4507
+a(S'Computer Career Center-Amarillo'
+p4508
+F19378
+F26827
+tp4509
+a(S'Computer Career Center-Lubbock'
+p4510
+F19431
+F26826
+tp4511
+a(S'Computer Career Center-Las Cruces'
+p4512
+F19343
+F25291
+tp4513
+a(S'Fremont College'
+p4514
+F18944
+F30210
+tp4515
+a(S'Rob Roy Academy - Woonsocket'
+p4516
+F17487
+F23822
+tp4517
+a(S"CC's Cosmetology College"
+p4518
+F18696
+F23417
+tp4519
+a(S"CC's Cosmetology College"
+p4520
+F18696
+F23417
+tp4521
+a(S"CC's Cosmetology College-Texarkana"
+p4522
+F18433
+F25257
+tp4523
+a(S"CC's Cosmetology College-Texarkana"
+p4524
+F19332
+F23846
+tp4525
+a(S'YTI Career Institute - Altoona'
+p4526
+F18906
+F28753
+tp4527
+a(S'SW School of Business & Technical Careers'
+p4528
+F18510
+F22365
+tp4529
+a(S'SW School of Business & Technical Careers'
+p4530
+F18510
+F22365
+tp4531
+a(S'SW School of Business and Technical Careers-Del Rio'
+p4532
+F16426
+F22139
+tp4533
+a(S'SW School of Business and Technical Careers-North Campus'
+p4534
+F16426
+F22139
+tp4535
+a(S'SW School of Business and Technical Careers-South Campus'
+p4536
+F16426
+F22139
+tp4537
+a(S'Everglades University-Orlando'
+p4538
+F27655
+F33590
+tp4539
+a(S'Everglades University-Sarasota'
+p4540
+F27655
+F33590
+tp4541
+a(S'UEI College'
+p4542
+F16010
+F19095
+tp4543
+a(S'Wright Career College - Oklahoma City OK'
+p4544
+F22648
+F25920
+tp4545
+a(S'Wright Career College - Tulsa OK'
+p4546
+F22648
+F25920
+tp4547
+a(S'Florida National College-South Campus'
+p4548
+F19465
+F22480
+tp4549
+a(S'Florida National College Training Center'
+p4550
+F19465
+F22480
+tp4551
+a(S'Connecticut Aero Tech School'
+p4552
+F15008
+F32293
+tp4553
+a(S'Compu-Med Vocational Careers Corp'
+p4554
+F14009
+F18855
+tp4555
+a(S'Keiser Career College-Miami Lakes'
+p4556
+F21559
+F25148
+tp4557
+a(S'Keiser Career College-St. Petersburg'
+p4558
+F21559
+F25148
+tp4559
+a(S'Keiser Career College-New Port Richey'
+p4560
+F21559
+F25148
+tp4561
+a(S'Keiser Career College - Tampa'
+p4562
+F21559
+F25148
+tp4563
+a(S'Colorado Technical University'
+p4564
+F27443
+F33367
+tp4565
+a(S'Strayer University-Rockville Campus'
+p4566
+F27775
+F37461
+tp4567
+a(S'Strayer University-Anne Arundel Campus'
+p4568
+F27775
+F37461
+tp4569
+a(S'Strayer University-White Marsh Campus'
+p4570
+F27775
+F37461
+tp4571
+a(S'Strayer University-Owings Mills Campus'
+p4572
+F27775
+F37461
+tp4573
+a(S'Franklin Career Institute - Brooklyn Campus'
+p4574
+F15371
+F19502
+tp4575
+a(S'International Yacht Restoration School'
+p4576
+F18948
+F21160
+tp4577
+a(S'McCann School of Business and Technology'
+p4578
+F24814
+F31825
+tp4579
+a(S'McCann School of Business and Technology'
+p4580
+F24814
+F31825
+tp4581
+a(S'McCann School of Business and Technology'
+p4582
+F24814
+F31825
+tp4583
+a(S'McCann School of Business and Technology'
+p4584
+F24814
+F31825
+tp4585
+a(S'McCann School of Business and Technology'
+p4586
+F24814
+F31825
+tp4587
+a(S'Central Florida Institute'
+p4588
+F16707
+F24970
+tp4589
+a(S'Texas Barber Colleges and Hairstyling Schools Branch Campus #1'
+p4590
+F16470
+F21950
+tp4591
+a(S'Texas Barber Colleges and Hairstyling Schools Branch Campus #2'
+p4592
+F16470
+F21950
+tp4593
+a(S'Texas Barber Colleges and Hairstyling Schools Branch Campus #6'
+p4594
+F16470
+F21950
+tp4595
+a(S'Texas Barber Colleges and Hairstyling Schools Branch Campus #5'
+p4596
+F16470
+F21950
+tp4597
+a(S'Texas Barber Colleges and Hairstyling Schools Branch Campus #7'
+p4598
+F16468
+F22002
+tp4599
+a(S"Design's School of Cosmetology"
+p4600
+F17435
+F21958
+tp4601
+a(S'Southeastern Institute-Nashville'
+p4602
+F15932
+F24096
+tp4603
+a(S'Strayer University-Nashville Campus'
+p4604
+F29828
+F37878
+tp4605
+a(S'Strayer University-Shelby Oaks Campus'
+p4606
+F29828
+F37878
+tp4607
+a(S'Strayer University-Knoxville Campus'
+p4608
+F29828
+F37878
+tp4609
+a(S'Strayer University-Delaware County Campus'
+p4610
+F28866
+F37461
+tp4611
+a(S'Strayer University-King of Prussia Campus'
+p4612
+F28866
+F37461
+tp4613
+a(S'Strayer University-Center City Campus'
+p4614
+F28866
+F37461
+tp4615
+a(S'Strayer University-Penn Center West Campus'
+p4616
+F28412
+F37461
+tp4617
+a(S'Strayer University-Cranberry Woods Campus'
+p4618
+F28866
+F37461
+tp4619
+a(S'Strayer University-Allentown Campus'
+p4620
+F28866
+F37461
+tp4621
+a(S'Blake Austin College'
+p4622
+F18173
+F22638
+tp4623
+a(S'Rasmussen College-Aurora'
+p4624
+F21902
+F35261
+tp4625
+a(S'Rasmussen College\xe2\x80\x93Romeoville/Joliet'
+p4626
+F21902
+F35261
+tp4627
+a(S'Rasmussen College-Mokena/Tinley Park'
+p4628
+F21902
+F35261
+tp4629
+a(S'Strayer University-Tampa East Campus'
+p4630
+F28481
+F36467
+tp4631
+a(S'Strayer University-Maitland Campus'
+p4632
+F28481
+F36467
+tp4633
+a(S'Strayer University-Orlando East Campus'
+p4634
+F28481
+F36467
+tp4635
+a(S'Strayer University-Sand Lake Campus'
+p4636
+F28481
+F36467
+tp4637
+a(S'Strayer University-Baymeadows Campus'
+p4638
+F28481
+F36467
+tp4639
+a(S'Strayer University-Palm Beach Gardens Campus'
+p4640
+F28481
+F36467
+tp4641
+a(S'Strayer University-Coral Springs Campus'
+p4642
+F28481
+F36467
+tp4643
+a(S'Strayer University-Fort Lauderdale Campus'
+p4644
+F28481
+F36467
+tp4645
+a(S'Strayer University-Miramar Campus'
+p4646
+F28481
+F36467
+tp4647
+a(S'Strayer University-Doral'
+p4648
+F28481
+F36467
+tp4649
+a(S'Strayer University-Brickell'
+p4650
+F28481
+F36467
+tp4651
+a(S'Make-up Designory'
+p4652
+F16677
+F25265
+tp4653
+a(S'Dayton School of Medical Massage-Lima'
+p4654
+F22591
+F25662
+tp4655
+a(S'Cincinnati School of Medical Massage'
+p4656
+F22591
+F25662
+tp4657
+a(S'Cleveland Institute of Medical Massage'
+p4658
+F22591
+F25662
+tp4659
+a(S'CCI Training Center'
+p4660
+F16955
+F21625
+tp4661
+a(S'Strayer University-Huntsville Campus'
+p4662
+F28430
+F36467
+tp4663
+a(S'Rasmussen College-Appleton'
+p4664
+F22182
+F33484
+tp4665
+a(S'Rasmussen College-Wausau'
+p4666
+F22182
+F33484
+tp4667
+a(S'NewBold Techncial Institute - Salem'
+p4668
+F18046
+F22273
+tp4669
+a(S'Strayer University-Louisville Campus'
+p4670
+F27659
+F36467
+tp4671
+a(S'Strayer University-Florence Campus'
+p4672
+F27659
+F36467
+tp4673
+a(S'Strayer University-North Charlotte'
+p4674
+F28231
+F34328
+tp4675
+a(S'Strayer University-South Charlotte'
+p4676
+F28231
+F34328
+tp4677
+a(S'Strayer University-North Raleigh Campus'
+p4678
+F28231
+F34328
+tp4679
+a(S'Strayer University-Greensboro Campus'
+p4680
+F28231
+F34328
+tp4681
+a(S'Strayer University-Huntersville Campus'
+p4682
+F28231
+F34328
+tp4683
+a(S'Strayer University-Garner Campus'
+p4684
+F28231
+F34328
+tp4685
+a(S'Strayer University-Willingboro Campus'
+p4686
+F27806
+F37461
+tp4687
+a(S'Strayer University-Lawrenceville'
+p4688
+F27806
+F37461
+tp4689
+a(S'Strayer University-New Brunswick'
+p4690
+F27806
+F37461
+tp4691
+a(S'National Beauty College'
+p4692
+F13577
+F18998
+tp4693
+a(S'Institute of Allied Medical Professions'
+p4694
+F22952
+F23547
+tp4695
+a(S'Utah County Campus'
+p4696
+F18270
+F17938
+tp4697
+a(S'Strayer University-Columbus Campus'
+p4698
+F27760
+F35473
+tp4699
+a(S'Strayer University-Fairview Park Campus'
+p4700
+F27760
+F35473
+tp4701
+a(S'Strayer University-Akron Campus'
+p4702
+F27760
+F35473
+tp4703
+a(S'Chamberlain College of Nursing\xe2\x80\x93Miramar Campus'
+p4704
+F26127
+F41221
+tp4705
+a(S'Strayer University-Cobb Campus'
+p4706
+F28483
+F37139
+tp4707
+a(S'Strayer University-Morrow Campus'
+p4708
+F28483
+F37139
+tp4709
+a(S'Strayer University-Roswell Campus'
+p4710
+F28483
+F37139
+tp4711
+a(S'Strayer University-Douglasville Campus'
+p4712
+F28483
+F37139
+tp4713
+a(S'Strayer University-Lithonia Campus'
+p4714
+F28483
+F37139
+tp4715
+a(S'Strayer University-Savannah Campus'
+p4716
+F28483
+F37139
+tp4717
+a(S'Strayer University-Augusta Campus'
+p4718
+F28483
+F37139
+tp4719
+a(S'Strayer University-Columbus'
+p4720
+F27669
+F37139
+tp4721
+a(S'Strayer University-Columbia Campus'
+p4722
+F28469
+F36467
+tp4723
+a(S'Strayer University-Charleston Campus'
+p4724
+F28469
+F36467
+tp4725
+a(S'Strayer University-Irving'
+p4726
+F28546
+F39069
+tp4727
+a(S'Strayer University-Katy'
+p4728
+F28546
+F39069
+tp4729
+a(S'Strayer University-Northwest Houston'
+p4730
+F28546
+F39069
+tp4731
+a(S'Strayer University-Plano'
+p4732
+F28546
+F39069
+tp4733
+a(S'Unitek College'
+p4734
+F23599
+F33870
+tp4735
+a(S'Twin Rivers Adult School - Grand Avenue Center'
+p4736
+F16868
+F24867
+tp4737
+a(S'Twin Rivers Adult School - Arnold Avenue Center'
+p4738
+F16868
+F24867
+tp4739
+a(S'Greater Sacramento Urban League'
+p4740
+F16677
+F24797
+tp4741
+a(S'I-TAP'
+p4742
+F17649
+F25160
+tp4743
+a.

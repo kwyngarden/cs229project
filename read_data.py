@@ -35,14 +35,15 @@ def get_all_rows(data_file_name=DEFAULT_DATA_FILE_NAME):
         return rows[1:], rows[0]
 
 
-def get_filtered_rows(data_file_name=DEFAULT_DATA_FILE_NAME, required_keys=DEFAULT_REQUIRED_KEYS):
+def get_filtered_rows(data_file_name=DEFAULT_DATA_FILE_NAME, required_keys=DEFAULT_REQUIRED_KEYS, get_unlabeled=True):
     '''Return all rows that have non-NULL/PrivacySuppressed entries for all required keys.'''
     all_rows, keys = get_all_rows(data_file_name=data_file_name)
     required_indices = [keys.index(key) for key in required_keys]
-    filtered_rows = [
-        row for row in all_rows
-        if not any([is_null(row, i) for i in required_indices])
-    ]
+    filtered_rows = []
+    for row in all_rows:
+        has_null_required = any([is_null(row, i) for i in required_indices])
+        if (get_unlabeled and has_null_required) or ((not get_unlabeled) and (not has_null_required)):
+            filtered_rows.append(row)
     return filtered_rows, keys
 
 
